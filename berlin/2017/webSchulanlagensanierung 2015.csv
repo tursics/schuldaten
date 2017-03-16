@@ -1,0 +1,240 @@
+Schulnummer;Schulname;Adresse;PLZ;Ort;Beschreibung;Kostenansatz 
+12Y03;Humboldt-Gymnasium;Hatzfeldtallee 2-4;13509;Berlin;Sanierung der oberen Etage;1.298 €
+01G11;Kurt-Tucholsky-Grundschule;Rathenower Str. 18;10559;Berlin;Sanierung Sporthalle und Sanitär, 2. BA;600.000 €
+01G15;Anne-Frank-Grundschule;Paulstr. 20B;10557;Berlin;Brandschutzmaßnahme, Sanierung Sporthalle;81.663 €
+01G15;Anne-Frank-Grundschule;Paulstr. 20B;10557;Berlin;Sanierung Freifläche;241.549 €
+01G27;Gesundbrunnen-Grundschule;Prinzenallee 8;13357;Berlin;Energ. Sanierung Dach, Fassade, Keller;1.460.000 €
+01G36;Andersen-Grundschule;Kattegatstr. 26;13359;Berlin;Brandschutzmaßnahme;3.337 €
+01G37;Heinrich-Seidel-Grundschule;Ramlerstr. 9-10;13355;Berlin;Sanierung Sportplatz;323.000 €
+01Y11;Max-Planck-Schule;Singerstr. 8A;10179;Berlin;Energ. Sanierung Fassade, Dach, Eingangsbereich;900.000 €
+01Y12;Gymnasium Tiergarten;Altonaer Str. 26;10555;Berlin;Sanierung Schulsporthalle, 2. BA;1.600.000 €
+02G02;Hausburg-Grundschule;Hausburgstr. 20;10249;Berlin;Sanierung Fenster;242.952 €
+02G03;Justus-von-Liebig-Grundschule;Liebigstr. 18A;10247;Berlin;Akustikmaßnahmen Sporthalle;96.615 €
+02G08;Grundschule am Traveplatz;Jessnerstr. 24-32;10247;Berlin;Akustik- und Elektromaßnahmen;229.936 €
+02G10;Modersohn-Grundschule;Niemannstr. 3;10245;Berlin;Laufbahnsanierung;13.872 €
+02G13;Charlotte-Salomon-Grundschule;Großbeerenstr. 40;10965;Berlin;Schaffung barrierefreie Zugänge;37.072 €
+02G20;Bürgermeister-Herz-Grundschule;Wilmsstr. 10;10961;Berlin;Akustikmaßnahmen Sporthalle;193.138 €
+02G21;Reinhardswald-Grundschule;Gneisenaustr. 73-74;10961;Berlin;Sanierung Akustikunterdecke Sporthalle;179.575 €
+02G27;Hunsrück-Grundschule;Manteuffelstr. 79;10999;Berlin;Sanierung Sportplatz, 1. BA;6.271 €
+02G29;Heinrich-Zille-Grundschule;Waldemarstr. 118;10997;Berlin;Akustikmaßnahmen Sporthalle;47.978 €
+02G31;Adolf-Glaßbrenner-Grundschule;Hagelberger Str. 34;10965;Berlin;Dach- und Schadstoffsanierung;108.949 €
+02G35;Rosa-Parks-Grundschule;Reichenberger Str. 65;10999;Berlin;Schaffung Barrierefreiheit;75.360 €
+02K01;Ellen-Key-Schule;Rüdersdorfer Str. 20-28;10243;Berlin;Brandschutzmaßnahmen;277.015 €
+02K02;Carl-von-Ossietzky-Schule;Blücherstr. 46;10961;Berlin;Sanierung Sanitär Schulsporthalle;341.813 €
+02K02;Carl-von-Ossietzky-Schule;Blücherstr. 46;10961;Berlin;Sanierung Sanitär;257.873 €
+02K03;Hector-Peterson-Schule;Tempelhofer Ufer 15;10963;Berlin;Sanierung Sanitär;354.940 €
+02K07;Georg-Weerth-Schule;Eckertstr. 16;10249;Berlin;Sanierung Keller und Heizung;344.138 €
+02S03;Margarethe-von-Witzleben-Schule;Palisadenstr. 76-77;10243;Berlin;Sanierung Dach;270.962 €
+02Y01;Andreas-Oberschule;Koppenstr. 76;10243;Berlin;Sanierung Dach;465.127 €
+02Y01;Andreas-Oberschule;Koppenstr. 76;10243;Berlin;Brandschutzmaßnahmen;325.000 €
+02Y01;Andreas-Oberschule;Sportplatz Singerstr.;10243;Berlin;Sanierung Sportplatz, 1. BA;59.980 €
+02Y01;Andreas-Oberschule;Koppenstr. 76;10243;Berlin;Akustik- und Elektromaßnahmen;76.744 €
+02Y05;Dathe-Oberschule;Helsingforser Str. 11-13;10243;Berlin;Akustik- und Elektromaßnahmen;130.259 €
+03G05;Homer-Grundschule;Pasteurstr. 10-12;10407;Berlin;Klimawettbewerb: Sanierung Klassenraumtüren;16.655 €
+03G08;Grundschule am Planetarium;Ella-Kay-Str. 47;10405;Berlin;Energetische Sanierung Gebäude;523.209 €
+03G32;Grundschule an den Buchen;Wilhelm-Wolff-Str. 19;13156;Berlin;Sanierung Schulhof;148.825 €
+03G32;Grundschule an den Buchen;Wilhelm-Wolff-Str. 19;13156;Berlin;Sanierung Sanitär, Ausgabeküche;88.954 €
+03G35;Platanengrundschule;Hauptstr. 20;13159;Berlin;Sanierung Sanitär, Räume, Brandschutzmaßnahme;367.502 €
+03G39;Grundschule Wolkenstein;Neumannstr. 65;13189;Berlin;Sanierung Bolzplatz;1.310 €
+03G41;Trelleborg-Schule;Eschengraben 40;13189;Berlin;Sanierung Dach, Brandschutzmaßnahmen;928.062 €
+03G44;Georg-Zacharias-Grundschule;Sulzfelder Str. 15;13088;Berlin;Sanierung Schulgebäude, Brandschutzmaßnahme, Schaffung Rettungswege;489.741 €
+03K03;Konrad-Duden-Schule;Buchholzer Str. 3;13156;Berlin;Sanierung Gebäude, Sanitär, Dach, Fassade;115.491 €
+03K05;Heinz-Brandt-Schule;Langhansstr. 120;13086;Berlin;Sanierung Sporthalle einschl. Sanitär u. Fassade;975.799 €
+03K11;Wilhelm-von-Humboldt-Schule;Gudvanger Str. 16;10439;Berlin;Sanierung Elektro, Brandschutzmaßnahme, Schaffung Rettungswege;650.518 €
+03S07;Schule an der Heide;Hermann-Hesse-Str. 48-52;13156;Berlin;Sanierung Schulsportanlage, Rasenspielfeld;114.000 €
+03Y10;Rosa-Luxemburg-Gymnasium;Kissingenstr. 12;13189;Berlin;Sanierung Fassade;170.996 €
+03Y15;Max-Delbrück-Gymnasium;Kuckhoffstr. 2-22;13156;Berlin;Sanierung Aula, Dach, Schaffung Rettungswege;1.397.830 €
+03Y16;Robert-Havemann-Schule;Achillesstr. 79;13125;Berlin;Klimawettbewerb: Sanierung Elektro;12.913 €
+04G01;Eichendorff-Grundschule;Goethestr. 19;10625;Berlin;Sanierung Fenster;80.794 €
+04G01;Eichendorff-Grundschule;Goethestr. 19;10625;Berlin;Sanierung Sanitär;161.905 €
+04G02;Lietzensee-Grundschule;Witzlebenstr. 34;14057;Berlin;Sanierung Fenster, 3. BA;119.624 €
+04G04;Joan-Miró-Grundschule;Bleibtreustr. 43;10623;Berlin;Sanierung Gebäude, 2. BA;38.098 €
+04G04;Joan-Miró-Grundschule;Bleibtreustr. 43;10623;Berlin;Sanierung Elektro einschl. SSA, 2. BA;147.350 €
+04G07;Ludwig-Cauer-Grundschule;Cauerstr. 36-38;10587;Berlin;Sanierung Elektro einschl. SSA, 2. BA;154.361 €
+04G07;Ludwig-Cauer-Grundschule;Cauerstr. 36-38;10587;Berlin;Sanierung Fenster, 3. BA;132.257 €
+04G09;Erwin-von-Witzleben-Grundschule;Halemweg 34;13627;Berlin;Sanierung Fenster, 2. BA;135.479 €
+04G12;Eosander-Schinkel-Grundschule;Nithackstr. 8;10585;Berlin;Sanierung Fenster;52.493 €
+04G18;Ernst-Habermann-Grundschule;Prinzregentenstr. 33-34;10715;Berlin;Sanierung Schulhof und Schulsportanlage;196.911 €
+04G21;Halensee-Grundschule;Joachim-Friedrich-Str. 35-36;10711;Berlin;Sanierung Fenster;37.504 €
+04G22;Grunewald-Grundschule;Delbrückstr. 20A;14193;Berlin;Sanierung Fassade, Dach, Fenster, 2. BA;509.375 €
+04G22;Grunewald-Grundschule;Delbrückstr. 20A;14193;Berlin;Sanierung Sanitär;62.069 €
+04G22;Grunewald-Grundschule;Delbrückstr. 20A;14193;Berlin;Energetische Sanierung Gebäude;251.689 €
+04G25;Cecilien-Schule;Nikolsburger Platz 5;10717;Berlin;denkmalgerechte Sanierung Fassade;268.496 €
+04G26;Birger-Forell-Grundschule;Koblenzer Str. 22-24;10715;Berlin;Sanierung Fenster;107.488 €
+04K02;Friedensburg-Oberschule;Goethestr. 8/9;10623;Berlin;Sanierung Sanitär, 1. BA;290.850 €
+04K07;Integrierte Sekundarschule Wilmersdorf;Kranzer Str. 3;14199;Berlin;Sanierung Fenster, 4. BA;79.502 €
+04S05;Ernst-Adolf-Eschke-Schule für Gehörlose;Waldschulallee 29;14055;Berlin;Sanierung Sanitär/Pavillon;16.555 €
+04S07;Comenius-Schule;Gieselerstr. 4;10713;Berlin;Sanierung Aula;108.608 €
+04Y01;Schiller-Oberschule;Schillerstr. 125-127;10625;Berlin;Sanierung Fenster;201.505 €
+04Y02;Wald-Oberschule;Waldschulallee 95;14055;Berlin;Sanierung Dach, Fassade, Fenster;410.054 €
+04Y04;Gottfried-Keller-Oberschule;Olbersstr. 38;10589;Berlin;Sanierung Schulsportanlage;508.266 €
+04Y05;Herder-Oberschule;Westendallee 45-46;14052;Berlin;Sanierung Fachräume, 2. BA;171.314 €
+04Y06;Heinz-Berggruen-Schule;Bayernallee 4;14052;Berlin;Sanierung Fachräume;221.570 €
+04Y08;Hildegard-Wegscheider-Gymnasium;Lassenstr. 16-20;10623;Berlin;Sanierung Sanitär;62.978 €
+04Y11;Goethe-Gymnasium;Gasteiner Str. 23;10717;Berlin;Sanierung Fassade, Fenster, 2. BA;433.033 €
+05G02;Grundschule am Eichenwald;Gaismannshofer Weg 2;13587;Berlin;Sanierung Trinkwasser;11.015 €
+05G12;Grundschule am Weinmeisterhorn;Daberkowstr. 27;13593;Berlin;Sanierung Schulhof, 2. BA;244.415 €
+05G15;Askanier-Grundschule;Borkzeile 34;13583;Berlin;Sanierung Schulhof, 2. BA;285.875 €
+05G17;Astrid-Lindgren-Grundschule;Südekumzeile 5;13591;Berlin;Sanierung Schulhof, 2. BA;137.835 €
+05G17;Astrid-Lindgren-Grundschule;Südekumzeile 5;13591;Berlin;Sanierung Aula;99.288 €
+05G19;Grundschule am Ritterfeld;Schallweg 31;14089;Berlin;Sanierung Sanitär;25.141 €
+05G23;Grundschule am Brandwerder;Spandauer Str. 86;13591;Berlin;Sanierung Heizung;50.110 €
+05G24;Grundschule am Windmühlenberg;Am Kinderdorf 23-37;14089;Berlin;Sanierung Keller;105.576 €
+05G26;Grundschule am Amalienhof;Weinmeisterhornweg 122;13593;Berlin;Sanierung Dach Schulgebäude und Sporthalle;207.745 €
+05G26;Grundschule am Amalienhof;Weinmeisterhornweg 122;13593;Berlin;Sanierung/Entwässerung Schulgebäude und Sporthalle;183.528 €
+05G29;Mary-Poppins-Grundschule;Am Flugplatz Gatow 20;14089;Berlin;Sanierung Fenster, Fassade;152.070 €
+05K01;Martin-Buber-Oberschule;Im Spektefeld 33;13589;Berlin;Sanierung Sanitär, 2. BA;241.438 €
+05K01;Martin-Buber-Oberschule;Im Spektefeld 31;13589;Berlin;Sanierung Heizungsanlage;152.281 €
+05K02;Carlo-Schmid-Oberschule;Lutoner Str. 15-19;13581;Berlin;Sanierung Sanitär;269.964 €
+05K03;Bertold-Brecht-Oberschule;Wilhelmstr. 10;13595;Berlin;Sanierung Sanitär;173.840 €
+05K04;Heinrich-Böll-Oberschule;Am Forstacker 9-11;13587;Berlin;Sanierung Sanitär Sporthalle/Barrierefreiheit;74.743 €
+05K05;B.-Traven-Oberschule;Recklinghauser Weg 26-32;13583;Berlin;Sanierung Trinkwasser;5.019 €
+05K05;B.-Traven-Oberschule;Recklinghauser Weg 26-32;13583;Berlin;Sanierung Fenster;205.931 €
+05K07;Schule an der Jungfernheide;Jugendweg 15 / Lenther Steg 1/3;13595;Berlin;Schaffung Barrierefreiheit;270.793 €
+05S02;Paul-Moor-Schule;Adamstr. 24-25;13595;Berlin;Sanierung Sanitär;9.931 €
+05S03;Schule am Gartenfeld;Gartenfelder Str. 81;13599;Berlin;Sanierung Sanitär, Brandschutzmaßnahme;219.964 €
+05S04;Schule am Stadtrand;Pionierstr. 197;13589;Berlin;Klimawettbewerb: Sanierung Schulgarten;1.033 €
+05Y01;Freiherr-vom-Stein-Oberschule;Galenstr. 40-44;13597;Berlin;Sanierung Fachbereich Physik, Brandschutzmaßnahme;456.524 €
+05Y02;Kant-Gymnasium;Bismarckstr. 54;13585;Berlin;Sanierung Trinkwasser;51.457 €
+05Y04;Carl-Friedrich-von-Siemens-Oberschule;Jungfernheideweg 79;13629;Berlin;Sanierung Heizung;168.627 €
+05Y04;Carl-Friedrich-von-Siemens-Gymn.;Jungfernheideweg 79;13629;Berlin;Sanierung Trinkwasser;708 €
+05Y05;Lily-Braun-Gymnasium;Münsingerstr. 2;13597;Berlin;Sanierung Fenster, Brandschutzmaßnahme;321.897 €
+06G02;Süd-Grundschule;Claszeile 56;14165;Berlin;Sanierung Elektro;274.018 €
+06G03;Johannes-Tews-Grundschule;Wasgenstr. 50;14129;Berlin;Sanierung Aula;235.649 €
+06G07;Zinnowwald-Grundschule;Wilskistr. 78;14163;Berlin;Dachsanierung Aula;299.954 €
+06G07;Zinnowwald-Grundschule;Wilskistr. 78;14163;Berlin;Aula Brandschutzmaßnahmen, Asbestsanierung Keller;597.706 €
+06G15;Dunant-Grundschule;Gritznerstr. 19-23;12163;Berlin;Sanierung Sporthalle, 3. BA;889.773 €
+06G33;33. Grundschule;Drakestr. 80;12205;Berlin;Sanierung Dach Sporthalle;5.485 €
+06K01;John-F.-Kennedy-Schule;Teltower Damm 87-93;14167;Berlin;Sanierung Dach, 2. BA;42.581 €
+06K03;Kopernikus-Schule;Lepsiusstr. 24-28;12163;Berlin;Schaffung Rettungsweg;883.416 €
+06K09;Gail-S.-Halvorsen;Im Gehege 6;14195;Berlin;Sanierung Sanitär, 2. BA;297.166 €
+06K10;10. Schule;Lauenburger Str. 110;12169;Berlin;Sanierung Fenster;269.755 €
+06K10;10. Schule;Lauenburger Str. 110;12169;Berlin;Sanierung Gebäude und Fachräume;97.088 €
+06S01;Pestalozzi-Schule/Pädagog. Förderz.;Hartmannsweilerweg 65;14163;Berlin;Sanierung Klassenräume;9.843 €
+06S04;33. Grundschule;Drakestr. 80;12205;Berlin;Sanierung Gebäude, einschl. Sanitär;900.541 €
+06Y02;Droste-Hülshoff-Oberschule;Schönower Str. 8;14165;Berlin;Sanierung Aula;117.889 €
+06Y06;Beethoven-Oberschule;Barbarastr. 9;12249;Berlin;Klimawettbewerb: Sanierung Schulhof;16.847 €
+06Y07;Paulsen-Oberschule;Gritznerstr. 57;12163;Berlin;Sanierung Sanitär;254.380 €
+06Y09;Fichtenberg-Oberschule;Rothenburgstr. 18;12165;Berlin;Sanierung Holzdachstuhl und Dacheindeckung;117.041 €
+06Y12;Willi-Graf-Gymnasium;Ostpreußendamm 166;12207;Berlin;Sanierung Fachräume;474.849 €
+06Y13;Gymnasium Steglitz;Heesestr. 15;12169;Berlin;Sanierung Sanitär;169.367 €
+07G01;Spreewald-Grundschule;Pallasstr. 15;10781;Berlin;Akustikmaßnahmen;€
+07G02;Finow-Grundschule;Welserstr. 16-22;10777;Berlin;Sanierung Fassade, Fenster, Sanitär, 2. BA;756.832 €
+07G07;Lindenhof-Grundschule;Reglinstr. 29;12105;Berlin;Sanierung Keller, 2. BA;588.344 €
+07G14;Löcknitz-Grundschule;Berchtesgadener Str. 10-11;10779;Berlin;Sanierung Fassade, Kellermauerwerk, 3. BA;609.865 €
+07G16;Ruppin-Grundschule;Offenbacher Str. 5A;14197;Berlin;Sanierung Fassade, 2. BA;38.125 €
+07G17;Stechlinsee-Grundschule;Rheingaustr. 7;12161;Berlin;Akustikmaßnahmen;€
+07G22;Paul-Klee-Grundschule;Konradinstr. 15-17;12105;Berlin;Sanierung Keller, 2. BA;331.055 €
+07G22;Paul-Klee-Grundschule;Konradinstr. 15-17;12105;Berlin;Sanierung Sanitär;50.000 €
+07G24;Tempelherren-Grundschule;Boelckestr. 58-60;12101;Berlin;Akustikmaßnahmen;€
+07G28;Kiepert-Grundschule;Prechtlstr. 21-23;12277;Berlin;Sanierung Sanitär;75.000 €
+07G28;Kiepert-Grundschule;Prechtlstr. 21-23;12277;Berlin;Sanierung Fachräume, Akustikmaßnahme;363.340 €
+07G28;Kiepert-Grundschule;Prechtlstr. 21-23;12277;Berlin;Sanierung Fassade, Fenster;60.000 €
+07G29;Käthe-Kollwitz-Grundschule;Mellener Str. 38-42;12307;Berlin;Akustikmaßnahmen;1.245 €
+07G34;Marienfelder-Schule;Erbendorfer Weg 13;12279;Berlin;Sanierung Fachräume, Brandschutzmaßnahme, 2. BA;1.191.788 €
+07G34;Marienfelder-Schule;Erbendorfer Weg 13;12279;Berlin;Sanierung Sanitär, 2. BA;190.000 €
+07K10;Friedrich-Bergius-Schule;Perelsplatz 6-9;12159;Berlin;Sanierung Fassade;635.211 €
+07Y02;Rückert-Gymnasium;Mettestr. 8;10825;Berlin;Sanierung Fachräume, Brandschutzmaßnahme;782.422 €
+07Y04;Paul-Natorp-Gymnasium;Goßlerstr. 13-15;12161;Berlin;Sanierung Schulsportplatz;396.002 €
+08G10;Walt-Disney-Schule;Efeuweg 34;12357;Berlin;Sanierung Sanitär;524.559 €
+08G11;Schliemann-Schule;Groß-Ziethener Chaussee 73;12355;Berlin;Energ. Sanierung Fassade, Dach, Fenster;854.957 €
+08G15;Hermann-Sander-Schule;Mariendorfer Weg 69;12051;Berlin;Sanierung Sanitär, Bodenbeläge, Beleuchtung, Brandschutzmaßnahme;591.191 €
+08G17;Richard-Schule;Richardplatz 14;12055;Berlin;Sanierung für den Ganztagsbetrieb;935.276 €
+08G26;Christoph-Ruden-Schule;An den Achterhöfen 13;12349;Berlin;Sanierung Schulhof;173.643 €
+08G30;Schule am Sandsteinweg;Hornblendeweg 2;12349;Berlin;Energ. Sanierung Dach, Fenster;327.151 €
+08G35;Schule in der Köllnischen Heide;Hänselstr. 6;12057;Berlin;Sanierung Kunstrasenfläche Schulsportplatz;199.950 €
+08K01;Walter-Gropius-Schule;Fritz-Erler-Allee 86;12351;Berlin;Sanierung Sanitär;104.572 €
+08K04;Heinrich-Mann-Schule;Gerlinger Str. 22;12353;Berlin;Energ. Sanierung Fassade, Dach, Fenster;370.301 €
+08K11;Alfred-Nobel-Schule;Britzer Damm 164;12347;Berlin;Schaffung Rettungsweg;247.944 €
+08K11;Alfred-Nobel-Schule;Britzer Damm 164;12347;Berlin;Sanierung Sanitär;181.137 €
+08K12;Kepler-Schule;Zwillingestr. 21;12057;Berlin;Sanierung Sanitär;251.974 €
+08S08;Schilling-Schule;Paster-Behrens-Str. 81;12359;Berlin;Sanierung Sanitär;831.233 €
+09G01;Bouché-Schule;Bouchestr. 5-10;12435;Berlin;Sanierung Schulhof;59.459 €
+09G04;Sonnenblumen-Schule;Radenzer Str. 16;12437;Berlin;Sanierung Laufbahn;13.000 €
+09G06;Melli-Beese-Schule;Engelhardstr. 18;12487;Berlin;Sanierung Schulsportplatz;1.341 €
+09G09;Heide-Schule;Waldstr. 7;12489;Berlin;Sanierung Sanitär Schulsporthalle;351.965 €
+09G10;Schule am Berg;Köpenicker Str. 31;12524;Berlin;Sanierung Elektro- und Schwachstromanlage, Brandschutzmaßnahme;391.366 €
+09G13;Schule am Altglienicker Wasserturm;Sachsenstr. 22;12524;Berlin;Sanierung Schulsportplatz;136.428 €
+09G17;Uhlenhorst-Grundschule;Wongrowitzer Steig 37;12555;Berlin;Sanierung Fenster;70.380 €
+09G18;Schule in der Köllnischen Vorstadt;Rudower Str. 201;12557;Berlin;Sanierung Kleinspielfeld Bolzplatz;575 €
+09G22;Schule an der Wuhlheide;Kottmeierstr. 2;12459;Berlin;Sanierung Schulsportplatz;766 €
+09G23;Hauptmann-von-Köpenick-Schule;Borgmannstr. 2;12555;Berlin;Sanierung Dach einschl. Wärmedämmung;451.315 €
+09G23;Hauptmann-von-Köpenick-Schule;Borgmannstr. 2-3;12555;Berlin;Sanierung Schulsportanlage;62.317 €
+09K02;Anna-Seghers-Schule;Radickestr. 43;12489;Berlin;Sanierung Dach einschl. Wärmedämmung;863.862 €
+09K03;Fritz-Kühn-Schule;Dahmestr. 45;12526;Berlin;Sanierung Elektro- und Schwachstromanlage;271.760 €
+09K04;Isaac-Newton-Schule;Zeppelinstr. 76-80;12459;Berlin;Akustikmaßnahme Sporthalle;71.568 €
+09K07;Sophie-Brahe-Schule;Am Plänterwald 17-23;12435;Berlin;Sanierung Schulsportanlage;759.992 €
+09S06;6. Schule;Köpenicker Landstr. 185a;12437;Berlin;Sanierung Schulsportanlage;13.362 €
+09S06;6. Schule;Köpenicker Landstr. 185a;12437;Berlin;Akustikmaßnahme Sporthalle;59.714 €
+09Y03;Archenhold-Gymnasium;Rudower Str. 7;12439;Berlin;Sanierung Kunststofffläche vor der Turnhalle;958 €
+09Y03;Archenhold-Gymnasium;Rudower Str. 7;12439;Berlin;Sanierung Elektro- und Schwachstromanlage;395.650 €
+10G05;Ebereschen-Grundschule;Borkheider Str. 27;12689;Berlin;Sanierung Sanitär;793.712 €
+10G07;Karl-Friedrich-Friesen-Grundschule;Max-Herrmann-Str. 5;12687;Berlin;Sanierung Schulsporthalle;1.207.265 €
+10G08;Wilhelm-Busch-Grundschule;Parsteiner Ring 24;12679;Berlin;Sanierung Fettabscheider Ausgabeküche;20.983 €
+10G11;Grundschule an der Mühle;Kienbergstr. 59;12685;Berlin;Sanierung Fettabscheider Ausgabeküche;25.367 €
+10G12;Grundschule an der Geißenweide;Amanlisweg 40;12685;Berlin;Sanierung Fettabscheider Ausgabeküche;28.734 €
+10G17;Beatrix-Potter-Grundschule;Ludwigsfelder Str. 7;12629;Berlin;Sanierung Fenster;396.272 €
+10G18;Pusteblumen Grundschule;Kastanienallee 118;12627;Berlin;Brandschutzmaßnahmen;133.748 €
+10G26;Friedrich-Schiller-Grundschule;An der Schule 13-17;12623;Berlin;Sanierung Fettabscheider Ausgabeküche;25.291 €
+10G28;Grundschule am Hollerbusch;Erich-Kästner-Str. 64;12619;Berlin;Sanierung Fettabscheider Ausgabeküche;65.949 €
+10G30;Mahlsdorfer Grundschule;Feldrain 47;12623;Berlin;Sanierung Dach;390.472 €
+10K03;Kerschensteiner-Schule;Golliner Str. 2;12689;Berlin;Klimawettbewerb: Sanierung Schulhof;16.898 €
+10K04;Thüringen-Schule;Liebensteiner Str. 24;12687;Berlin;Sanierung Schulhof und Schulsportfreifläche, 2. BA;874.380 €
+10S08;Schule am Mummelsoll;Eilenburger Str. 4;12627;Berlin;Sanierung Schwimmhalle, Sanierung Bodenbelag Werkraum;219.373 €
+11G07;Hermann-Gmeiner-Grundschule;Harnackstr. 17;10365;Berlin;"Energ. Sanierung; Fenster, Fassade, Dach ";1.558.295 €
+11G11;Bernhard-Grzimek-Grundschule;Sewanstr. 184;10319;Berlin;Klimawettbewerb: Sanierung Schulhof;13.386 €
+11G13;Karlshorster Grundschule;Lisztstr. 6;10318;Berlin;Sanierung Gebäude, 2. BA;700.000 €
+11K06;Schule am Rathaus;Rathausstr. 8;10367;Berlin;Sanierung Fassade;409.548 €
+11K06;Schule am Rathaus;Rathausstr. 8;10367;Berlin;Sanierung Fassade, 2. BA;305.943 €
+11NN;Reaktivierung Schulgebäude;Dolgenseestr. 60;10319;Berlin;Sanierung Gebäude Haus B;1.311.562 €
+12G04;Till-Eulenspiegel-Grundschule;Humboldtstr. 8-13;13407;Berlin;Schaffung Fluchtwege, Brandschutzmaßnahmen;53.674 €
+12G05;Kolumbus-Grundschule;Büchsenweg 23A;13409;Berlin;Sanierung Schulhof;29.433 €
+12G05;Kolumbus-Grundschule;Büchsenweg 23A;13409;Berlin;Schaffung Fluchtwege, Brandschutzmaßnahmen;53.674 €
+12G07;Mark-Twain-Grundschule;Auguste-Viktoria-Allee 95;13403;Berlin;Sanierung von Elektroverteilungen;17.338 €
+12G09;Grundschule an der Peckwisch;Tornower Weg 26-34;13439;Berlin;Sanierung Schulhof;265.993 €
+12G09;Grundschule an der Peckwisch;Tornower Weg 26-34;13439;Berlin;Sanierung Sanitär;139.443 €
+12G10;Peter-Witte-Grundschule;Rathauspromenade 75;13437;Berlin;Sanierung Fettabscheider;30.138 €
+12G10;Peter-Witte-Grundschule;Rathauspromenade 75;13437;Berlin;Sanierung Fassade;372.617 €
+12G11;Ringelnatz-Grundschule;Wilhelm-Gericke-Str. 7;13437;Berlin;Sanierung Sanitär, 2. BA;122.686 €
+12G12;Borsigwalder Grundschule;Miraustr. 100;13509;Berlin;Sanierung Fettabscheider;30.138 €
+12G13;Franz-Marc-Grundschule;Treskowstr. 26-31;13507;Berlin;Sanierung Fettabscheider;30.138 €
+12G15;Hoffmann-von-Fallersleben-G;Ziekowstr. 80-88;13509;Berlin;Sanierung Fettabscheider;30.138 €
+12G17;Ellef-Ringnes-Grundschule;Im Erpelgrund 11-17;13503;Berlin;Sanierung von Elektroverteilungen;17.338 €
+12G17;Ellef-Ringnes-Grundschule;Stolpmünder Weg 45;13503;Berlin;Energ. Sanierung Gebäude, Fassade, Fenster;83.945 €
+12G18;Grundschule am Tegelschen Ort;Gerlindeweg 11-23;13505;Berlin;Sanierung Grundleitungen Sanitär;21.737 €
+12G19;Münchhausen-Grundschule;Artemisstr. 22-26;13469;Berlin;Sanierung von Elektroverteilungen;17.338 €
+12G20;Grundschule am Vierrutenberg;Am Vierrutenberg 59-65;13469;Berlin;Sanierung von Elektroverteilungen;17.338 €
+12G21;Grundschule am Fließtal;Seebadstr. 42-43;13467;Berlin;Sanierung Grundleitungen Sanitär;21.737 €
+12G21;Grundschule am Fließtal;Seebadstr. 42-43;13467;Berlin;Sanierung Sanitär;41.659 €
+12G26;Märkische Grundschule;Dannenwalder Weg 163-165;13439;Berlin;Schaffung Fluchtwege, Brandschutzmaßnahmen;53.674 €
+12G26;Märkische Grundschule;Dannenwalder Weg 163-165;13439;Berlin;Sanierung Unterdecken, Räume, Akustikmaßnahme;262.281 €
+12G27;Chamisso-Grundschule;Senftenberger Ring 27;13435;Berlin;Sanierung Fenster, Fassade;197.074 €
+12G28;Grundschule in den Rollbergen;Tornower Weg 26;13439;Berlin;Sanierung Heizungsanlage;90.568 €
+12G28;Grundschule in den Rollbergen;Waldshuter Zeile 6;13469;Berlin;Sanierung Fettabscheider;30.138 €
+12G30;Reineke-Fuchs-Grundschule;Foxweg 15;13403;Berlin;Sanierung Grundleitungen Sanitär;21.737 €
+12G30;Reineke-Fuchs-Grundschule;Foxweg 15;13403;Berlin;Schaffung Fluchtwege, Brandschutzmaßnahmen;53.674 €
+12G32;Charlie-Chaplin-Grundschule;Wilhelmsruher Damm 90-94;13439;Berlin;Sanierung Fettabscheider;30.138 €
+12K01;Julius-Leber-Schule;Treskowstr. 26-31;13507;Berlin;Sanierung Fassade;306.708 €
+12K01;Julius-Leber-Schule;Treskowstr. 26-31;13507;Berlin;Sanierung Fassade Sporthalle;461.391 €
+12K01;Julius-Leber-Schule;Treskowstr. 26-31;13507;Berlin;Sanierung Heizungsanlage;157.835 €
+12K02;Bettina-von-Arnim-Schule;Senftenberger Ring 49;13435;Berlin;Akustikmaßnahme;114.861 €
+12K02;Bettina-von-Arnim-Schule;Senftenberger Ring 49;13435;Berlin;Sanierung Fenster;162.637 €
+12K02;Bettina-von-Arnim-Schule;Senftenberger Ring 49;13435;Berlin;Sanierung Fettabscheider;30.138 €
+12K03;Max-Beckmann-Schule;Auguste-Viktoria-Allee 37;13403;Berlin;Sanierung Fachraum;24.762 €
+12K04;Paul-Löbe-Schule;Lindauer Allee 23-25;13407;Berlin;Schaffung Fluchtwege, Brandschutzmaßnahmen;53.674 €
+12K06;Benjamin-Franklin-Schule;Sommerfelder Str. 5-7;13509;Berlin;Sanierung Grundleitungen Sanitär;21.737 €
+12K07;Jean-Krämer-Schule;Alt-Wittenau 8-12;13437;Berlin;Sanierung Fachraum/Abluftanlage Chemie;41.804 €
+12K11;Albrecht-Haushofer-Schule;Kurzebracker Weg 40-46;13503;Berlin;Sanierung Schulhof;159.132 €
+12K11;Albrecht-Haushofer-Schule;Kurzebracker Weg 40-46;13503;Berlin;Sanierung Fenster, Fluchtweg;140.050 €
+12K12;Hannah-Höch-Schule;Finsterwalder Str. 52-56;13435;Berlin;Sanierung Dach;100.461 €
+12S02;Richard-Keller-Schule;Olafstr. 32-34;13467;Berlin;Sanierung Schulhof;222.709 €
+12S06;Toulouse-Lautrec-Schule;Miraustr. 120-126;13509;Berlin;Sanierung Sanitär und Schwimmbad;628.773 €
+12Y01;Friedrich-Engels-Gymnasium;Emmentaler Str. 67;13407;Berlin;Sanierung Dach;247.773 €
+12Y01;Friedrich-Engels-Gymnasium;Emmentaler Str. 67;13407;Berlin;Sanierung Sanitär;70.214 €
+12Y02;Europäisches G Bertha-von-Suttner;Reginhardstr. 172;13409;Berlin;Sanierung Grundleitungen Sanitär;21.737 €
+12Y02;Europäisches G Bertha-von-Suttner;Reginhardstr. 172;13409;Berlin;Sanierung von Elektroverteilungen;17.338 €
+12Y05;Georg-Herwegh-Gymnasium;Fellbacher Str. 18-19;13467;Berlin;Sanierung Sanitär;49.733 €
+12Y07;Romain-Rolland-Gymnasium;Place Moliere 4;13469;Berlin;Sanierung Grundleitungen Sanitär;21.737 €
+12Y08;Thomas-Mann-Gymnasium;Königshorster Str. 10;13439;Berlin;Sanierung von Elektroverteilungen;17.338 €
+12Y08;Thomas-Mann-Gymnasium;Königshorster Str. 10;13439;Berlin;Schaffung Fluchtwege, Brandschutzmaßnahmen;53.674 €
+12Y08;Thomas-Mann-Oberschule;Königshorster Str. 10;13439;Berlin;Sanierung Unterdecken, Akustikmaßnahme;85.771 €
