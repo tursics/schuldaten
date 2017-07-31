@@ -1,0 +1,3423 @@
+SCHULE;Schulform;Gebaeudeklasse;KESSFaktor;Summe2011;Summe2012;Summe2013;Summe2014;Summe2015
+Abendschule Vor dem Holstentor;Abendschule;4,0;-;;;13.850 €;8.858 €;
+Adolph-Diesterweg-Schule;Grundschule;2,0;2,0;;;19.809 €;16.452 €;22.197 €
+
+         Adolph-Schönfelder-Schule
+Grundschule
+3,4
+3,0
+17.550 €
+19.216 €
+23.412 €
+         Albert-Schweitzer-Gymnasium
+Gymnasium
+4,0
+6,0
+46.521 €
+25.432 €
+47.320 €
+         Albert-Schweitzer-Schule
+Grundschule
+3,1
+6,0
+32.954 €
+23.165 €
+30.870 €
+         Albrecht-Thaer-Gymnasium
+Gymnasium
+2,9
+5,0
+65.540 €
+57.827 €
+56.499 €
+         Anton-Rée-Schule Allermöhe
+Grundschule
+3,0
+3,0
+28.957 €
+41.453 €
+54.214 €
+         Berufliche Medienschule Hamburg-Wandsbek (H8)
+Berufsschule
+3,4
+-
+36.939 €
+14.010 €
+15.170 €
+         Berufliche Schule Am Lämmermarkt (H 2)
+Berufsschule
+3,0
+-
+39.649 €
+39.027 €
+30.874 €
+         Berufliche Schule an der Alster (H11)
+Berufsschule
+2,1
+-
+42.707 €
+30.869 €
+18.223 €
+         Berufliche Schule Bramfelder See (H 20)
+Berufsschule
+3,1
+-
+53.329 €
+25.323 €
+24.019 €
+         Berufsschule
+4,0
+-
+65.988 €
+62.744 €
+56.996 €
+         Berufliche Schule Eppendorf (H 13)
+Berufsschule
+  Berufsschule
+3,4
+3,7
+-
+37.146 €
+31.544 €
+19.676 €
+41.269 €
+12.746 €
+       Berufliche Schule für Büro-und Personalmanagement Bergedorf (H17)
+-
+16.840 €
+         Berufliche Schule für Sozialpädagogik - Anna-Warburg-Schule (W 3)
+Berufsschule
+2,1
+-
+51.647 €
+42.305 €
+31.515 €
+         Berufliche Schule für Wirtschaft HH-Eimsbüttel BS 26
+Berufsschule
+2,6
+-
+29.416 €
+40.800 €
+59.364 €
+         Berufliche Schule für Wirtschaft und IT City Nord (H 7)
+Berufsschule
+3,1
+-
+57.863 €
+41.487 €
+40.511 €
+         Berufliche Schule Holz, Farbe, Textil (G 6)
+Berufsschule
+3,2
+-
+85.999 €
+56.584 €
+73.251 €
+         Berufliche Schule Recycling- und Umwelttechnik (G 8)
+Berufsschule
+4,3
+-
+86.292 €
+51.522 €
+34.469 €
+         Berufliche Schule William Lindley (G 2)
+Berufsschule
+3,0
+-
+13.610 €
+32.618 €
+39.759 €
+         Bildungszentrum für Blinde und Sehbehinderte
+Sonderschule
+4,4
+-
+20.918 €
+34.569 €
+30.740 €
+         Brüder-Grimm-Schule
+Stadtteilschule
+4,0
+2,0
+23.621 €
+22.337 €
+25.686 €
+         Carl-Cohn-Schule
+  Carl-Götze-Schule
+Grundschule
+3,8
+4,0
+31.475 €
+17.577 €
+23.094 €
+       Grundschule
+4,0
+5,0
+21.139 €
+14.980 €
+18.216 €
+         Carl-von-Ossietzky-Gymnasium
+Gymnasium
+3,5
+5,0
+38.457 €
+40.775 €
+49.224 €
+         Charlotte-Paulsen-Gymnasium
+Gymnasium
+3,5
+5,0
+34.830 €
+21.057 €
+14.047 €
+         Christianeum
+Gymnasium
+4,0
+6,0
+28.797 €
+44.939 €
+36.322 €
+         Clara-Grunwald-Schule
+Grundschule
+2,0
+2,0
+101.573 €
+51.832 €
+         Eimsbüttler Modell, Oberstufenhaus
+Gymnasium
+3,0
+-
+6.247 €
+8.241 €
+5.186 €
+         Elbinselschule
+Grundschule
+1,8
+1,0
+300 €
+         Elbschule Bildungszentrum Hören und Kommunikation
+Sonderschule
+3,0
+-
+7.077 €
+21.154 €
+16.353 €
+         Emilie-Wüstenfeld-Gymnasium
+  Erich Kästner-Schule
+Gymnasium
+4,1
+5,0
+16.250 €
+6.562 €
+12.238 €
+       Grund- /Stadtteilschule
+4,1
+3,0
+106.159 €
+84.981 €
+78.264 €
+         Fridtjof-Nansen-Schule
+Grundschule
+3,3
+3,0
+27.403 €
+23.452 €
+18.718 €
+         Fritz-Köhne-Schule
+Grundschule
+3,2
+1,0
+37.355 €
+31.425 €
+22.414 €
+         Fritz-Schumacher-Schule
+Stadtteilschule
+4,1
+4,0
+38.535 €
+15.854 €
+37.600 €
+         G 15
+Berufsschule
+2,7
+-
+97.601 €
+115.914 €
+89.660 €
+         G 17
+Berufsschule
+3,0
+-
+35.413 €
+86.716 €
+47.563 €
+         G 19
+Berufsschule
+3,8
+-
+80.382 €
+105.677 €
+121.186 €
+         Ganztagsgrundschule Sternschanze
+Grundschule
+2,8
+2,0
+6.442 €
+         Ganztagsschule an der Elbe
+Grundschule
+3,5
+2,0
+25.065 €
+56.903 €
+         Geschwister-Scholl-Stadtteilschule
+Stadtteilschule
+5,0
+1,0
+58.527 €
+59.601 €
+55.276 €
+         Goethe-Gymnasium
+Gymnasium
+3,1
+4,0
+34.325 €
+66.835 €
+29.843 €
+         Goldbek-Schule
+Grundschule
+3,4
+4,0
+14.119 €
+13.499 €
+6.943 €
+         Gretel-Bergmann-Schule
+Stadtteilschule
+2,0
+2,0
+110.583 €
+120.739 €
+133.024 €
+         Grundschule Altrahlstedt
+Grundschule
+4,4
+4,0
+6.842 €
+9.989 €
+         Grundschule Am Heidberg
+Grundschule
+3,1
+5,0
+46.952 €
+         Grundschule Archenholzstraße
+Grundschule
+4,4
+2,0
+22.064 €
+15.809 €
+62.026 €
+         Grundschule Arnkielstraße
+Grundschule
+2,8
+1,0
+37.956 €
+38.769 €
+         Grundschule Bindfeldweg
+Grundschule
+2,6
+5,0
+16.845 €
+42.683 €
+26.499 €
+         Grundschule Bramfeld
+Grundschule
+3,4
+3,0
+93.280 €
+74.689 €
+         Grundschule Eckerkoppel
+Grundschule
+5,1
+4,0
+10.072 €
+26.648 €
+         Grundschule Edwin-Scharff-Ring
+Grundschule
+3,9
+2,0
+31.622 €
+23.664 €
+35.972 €
+         Grundschule Franzosenkoppel
+Grundschule
+3,0
+3,0
+13.199 €
+28.069 €
+19.240 €
+         Grundschule Goosacker
+Grundschule
+4,4
+4,0
+39.970 €
+45.757 €
+         Grundschule Groß Flottbek
+  Grundschule Großlohering
+Grundschule
+3,2
+5,0
+22.220 €
+30.795 €
+31.033 €
+       Grundschule
+3,0
+2,0
+31.029 €
+36.781 €
+29.676 €
+         Grundschule Hasenweg
+Grundschule
+3,6
+5,0
+20.180 €
+12.865 €
+6.573 €
+         Grundschule Heidhorst
+Grundschule
+2,0
+4,0
+13.694 €
+15.915 €
+13.661 €
+         Grundschule Hoheluft
+Grundschule
+2,9
+5,0
+11.932 €
+12.788 €
+9.574 €
+         Grundschule Horn
+Grundschule
+2,1
+2,0
+24.884 €
+23.474 €
+27.473 €
+         Grundschule Islandstraße
+Grundschule
+4,8
+4,0
+11.177 €
+25.827 €
+15.792 €
+         Grundschule Karlshöhe mit Zweigstellen
+Grundschule
+3,6
+5,0
+42.513 €
+44.753 €
+42.439 €
+         Grundschule Mendelstraße
+Grundschule
+4,3
+2,0
+23.768 €
+74.154 €
+33.914 €
+         Grundschule Mümmelmannsberg
+Grundschule
+3,6
+1,0
+58.407 €
+66.727 €
+35.452 €
+         Grundschule Neurahlstedt
+Grundschule
+3,0
+4,0
+13.910 €
+23.758 €
+25.305 €
+         Grundschule Nydamer Weg
+Grundschule
+2,9
+4,0
+9.097 €
+25.338 €
+17.157 €
+         Grundschule Osterbrook
+Grundschule
+3,0
+1,0
+41.386 €
+17.199 €
+25.694 €
+         Grundschule Poppenbüttel
+Grundschule
+3,2
+5,0
+72.706 €
+         Grundschule Rahewinkel
+Grundschule
+4,8
+1,0
+16.250 €
+32.458 €
+25.324 €
+         Grundschule Schimmelmannstraße
+Grundschule
+3,6
+4,0
+16.221 €
+15.305 €
+21.973 €
+         Grundschule St. Nikolai
+Grundschule
+5,0
+6,0
+32.901 €
+39.976 €
+24.226 €
+         Grundschule St. Pauli
+Grundschule
+3,3
+2,0
+31.714 €
+         Grundschule Tonndorf
+Grundschule
+4,3
+4,0
+19.782 €
+20.833 €
+29.694 €
+         Gymnasium Allee
+Gymnasium
+2,8
+4,0
+33.017 €
+26.926 €
+32.479 €
+         Gymnasium Allermöhe
+Gymnasium
+2,0
+4,0
+49.162 €
+14.736 €
+35.583 €
+         Gymnasium Alstertal
+Gymnasium
+4,1
+5,0
+21.805 €
+30.861 €
+5.651 €
+         Gymnasium Altona
+Gymnasium
+4,0
+5,0
+54.363 €
+55.360 €
+39.675 €
+         Gymnasium Bondenwald
+Gymnasium
+3,5
+6,0
+34.952 €
+72.113 €
+33.227 €
+         Gymnasium Bornbrook
+Gymnasium
+4,2
+4,0
+36.381 €
+43.350 €
+37.923 €
+         Gymnasium Buckhorn
+Gymnasium
+3,3
+6,0
+39.368 €
+249.276 €
+70.098 €
+         Gymnasium Corveystraße
+Gymnasium
+3,2
+5,0
+47.094 €
+28.784 €
+34.315 €
+         Gymnasium Dörpsweg
+Gymnasium
+3,5
+5,0
+27.325 €
+42.422 €
+59.939 €
+         Gymnasium Eppendorf
+Gymnasium
+3,3
+6,0
+24.199 €
+37.466 €
+26.171 €
+         Gymnasium Farmsen
+Gymnasium
+4,2
+4,0
+35.000 €
+-€
+33.371 €
+         Gymnasium Grootmoor
+Gymnasium
+3,8
+6,0
+37.200 €
+54.440 €
+69.975 €
+         Gymnasium Hamm
+Gymnasium
+3,4
+2,0
+55.641 €
+51.701 €
+50.797 €
+         Gymnasium Heidberg
+Gymnasium
+4,3
+5,0
+38.264 €
+42.767 €
+52.992 €
+         Gymnasium Hochrad
+Gymnasium
+4,1
+6,0
+25.534 €
+32.447 €
+29.392 €
+         Gymnasium Hummelsbüttel
+Gymnasium
+3,0
+4,0
+35.683 €
+22.753 €
+21.101 €
+         Gymnasium Kaiser-Friedrich-Ufer
+Gymnasium
+3,7
+5,0
+28.619 €
+15.010 €
+24.444 €
+         Gymnasium Klosterschule
+Gymnasium
+3,1
+5,0
+98.238 €
+34.807 €
+46.619 €
+         Gymnasium Lerchenfeld
+Gymnasium
+3,9
+4,0
+6.153 €
+         Gymnasium Lohbrügge
+Gymnasium
+3,1
+5,0
+33.264 €
+53.196 €
+59.603 €
+         Gymnasium Marienthal
+Gymnasium
+2,9
+3,0
+39.661 €
+43.139 €
+48.106 €
+         Gymnasium Meiendorf
+Gymnasium
+2,7
+5,0
+36.072 €
+34.985 €
+52.614 €
+         Gymnasium Oberalster
+Gymnasium
+2,0
+5,0
+41.169 €
+32.620 €
+50.124 €
+                                 10
+
+ Bürgerschaft der Freien und Hansestadt Hamburg – 21. Wahlperiode
+Drucksache 21/2943
+SCHULE
+Gymnasium Ohlstedt Gymnasium Ohmoor Gymnasium Oldenfelde Gymnasium Osterbek Gymnasium Othmarschen Gymnasium Rahlstedt Gymnasium Rissen
+Gyula Trebitsch Schule Tonndorf Hansa-Kolleg Heilwig-Gymnasium Heinrich-Heine-Gymnasium Heinrich-Hertz-Schule
+Ida Ehre Schule Irena-Sendler-Schule Johannes-Brahms-Gymnasium Julius-Leber-Schule Kurt-Juster-Schule Kurt-Körber-Gymnasium Kurt-Tucholsky-Schule Lise-Meitner-Gymnasium Loki-Schmidt-Schule Louise-Schroeder-Schule Luisen-Gymnasium Bergedorf Margaretha-Rothe-Gymnasium Marie-Beschütz-Schule Marion-Dönhoff-Gymnasium Matthias-Claudius-Gymnasium
+Max-Brauer-Schule
+Max-Traeger-Schule Otto-Hahn-Schule Raphael-Schule
+ReBBZ Altona
+ReBBZ Altona-West ReBBZ Bergedorf
+ReBBZ Billstedt
+ReBBZ Eimsbüttel
+ReBBZ Mitte
+ReBBZ Nord
+ReBBZ Wandsbek-Nord ReBBZ Wandsbek-Süd ReBBZ Winterhude Rudolf-Roß-Grundschule Schule Ahrensburger Weg Schule Alsterredder Schule Altengamme-Deich Schule am Eichtalpark Schule am Schleemer Park
+Schule am See
+Schule Am Sooren
+Schule Am Walde
+Schule An den Teichwiesen Schule An der Gartenstadt Schule An der Glinder Au Schule Anna-Susanna-Stieg Schule Appelhoff
+Schule auf der Uhlenhorst Schule Bahrenfelder Straße Schule Bandwirkerstraße Schule Barlsheide
+Schule Beim Pachthof
+Schule Bekassinenau
+Schule Bekkamp
+Schule Bonhoefferstraße Schule Bovestraße
+Schule Brehmweg
+Schule Brockdorffstraße
+Schule Buckhorn
+Schule Burgunderweg
+Schule Charlottenburger Straße Schule Duvenstedter Markt Schule Eberhofweg
+Schule Eduardstraße
+Schule Eenstock
+Schule Eulenkrugstraße
+Schule Fahrenkrön
+Schule Friedrich-Frank-Bogen Schule Fuchsbergredder Schule Fünfhausen-Warwisch Schule Furtweg
+Schule Genslerstraße
+Schule Grützmühlenweg Schule Hasselbrook
+Schule Hinsbleek
+Schule Hinter der Lieth
+Schule Hirtenweg
+Schule Hohe Landwehr
+Schule Humboldtstraße
+Schule Iserbarg
+Schule Jenfelder Straße
+Schule Kamminer Straße Schule Kielkamp
+Schule Klein Flottbeker Weg Schule Krohnstieg
+Schule Kroonhorst
+Schule Lämmersieth
+Schule Langbargheide
+Schule Lehmkuhlenweg
+Schule Lemsahl-Mellingstedt Schule Leuschnerstraße Schule Lokstedter Damm Schule Marckmannstraße Schule Marschweg
+Schule Max-Eichholz-Ring Schule Mendelssohnstraße Schule Mittlerer Landweg Schule Molkenbuhrstraße Schule Moorflagen
+Schule Müssenredder
+Schule Nettelnburg
+Schule Neubergerweg
+Schule Ochsenwerder
+Schule Ohkamp
+Schule Oppelner Straße
+Schule Paracelsusstraße
+Schulform
+Gymnasium Gymnasium Gymnasium Gymnasium Gymnasium Gymnasium Gymnasium Stadtteilschule Tagesgymnasium Gymnasium Gymnasium Stadtteilschule Stadtteilschule Stadtteilschule Gymnasium Stadtteilschule Sonderschule Gymnasium Stadtteilschule Gymnasium Grundschule Grundschule Gymnasium Gymnasium Grundschule Gymnasium Gymnasium Grund- /Stadtteilschule Grundschule Stadtteilschule Sonderschule ReBBZ
+ReBBZ
+ReBBZ
+ReBBZ
+ReBBZ
+ReBBZ
+ReBBZ
+ReBBZ
+ReBBZ
+ReBBZ Grundschule Grundschule Grundschule Grundschule Grundschule Grundschule Grund- /Stadtteilschule Grundschule Grundschule Grundschule Grundschule Grundschule Grundschule Grundschule Grundschule Grundschule Grundschule Grundschule Grundschule Grundschule Sonderschule Grundschule Grundschule Grundschule Grundschule Grundschule Grundschule Grundschule Grundschule Grundschule Grundschule Grundschule Grundschule Grundschule Grundschule Grundschule Grundschule Grundschule Grundschule Grundschule Grundschule Grundschule Grundschule Sonderschule Grundschule Grundschule Grundschule Grundschule Grundschule Sonderschule Grundschule Grundschule Grundschule Grundschule Grundschule Grundschule Grundschule Grundschule Sonderschule Sonderschule Grundschule Grundschule Grundschule Grundschule Grundschule Grundschule Grundschule Grundschule Grundschule Grundschule Grundschule Grundschule Sonderschule
+Gebäudeklasse (flächengewichtet)
+KESS‐Faktor
+2011
+Summe
+2012
+Summe
+2013
+Summe
+20.098 €
+41.094 € 75.168 € 29.963 € 16.368 € 26.641 € 43.770 € 13.692 € 22.874 € 30.586 € 95.842 € 38.481 € 93.713 € 26.974 € 90.348 € 33.138 € 34.912 € 26.280 € 57.715 € 24.979 € 33.987 € 47.832 € 49.769 € 19.896 € 50.802 € 17.484 €
+74.475 €
+13.634 € 66.480 €
+19.646 € 30.529 € 10.172 € 16.764 €
+10.036 € 34.793 € 21.544 € 70.259 € 37.575 € 31.576 € 24.804 € 28.343 €
+7.613 € 33.449 € 50.384 €
+29.268 € 19.037 € 33.404 € 19.610 € 25.272 € 10.928 € 27.388 € 53.360 € 42.441 € 18.130 €
+7.156 € 16.424 € 30.731 € 46.516 € 12.271 € 26.451 €
+6.512 € 12.781 € 31.787 € 22.231 € 21.181 € 22.438 € 18.198 €
+6.941 € 36.573 € 23.390 € 21.628 €
+7.700 € 45.452 € 10.543 € 19.247 € 36.698 € 24.906 € 23.480 € 14.110 €
+7.318 € 41.805 € 12.646 €
+7.126 € 13.633 € 23.979 € 33.163 € 15.533 €
+26.205 € 21.616 € 52.164 € 32.859 € 25.034 € 16.017 € 20.495 € 39.892 € 26.516 € 23.810 €
+9.147 € 42.467 €
+25.377 € 8.159 € 26.747 € 14.702 € 20.597 € 25.806 € 19.287 € 19.744 € 24.240 €
+2014
+Summe
+15.241 €
+48.244 € 43.765 € 32.849 € 39.010 € 38.903 €
+-€ 12.273 € 49.653 € 47.791 € 79.388 € 28.379 € 98.499 € 49.411 € 84.257 € 40.867 € 49.478 € 25.292 € 44.818 € 22.003 € 33.068 € 28.647 € 63.689 € 33.312 € 95.057 € 20.982 €
+101.217 €
+28.597 € 41.130 € 8.928 € 8.741 € 32.150 € 9.115 € 15.280 € 5.023 € 24.392 € 87.976 € 10.078 € 37.591 € 55.312 € 31.274 € 25.735 € 23.832 € 10.933 € 32.830 € 29.519 €
+22.846 €
+24.142 € 10.855 € 27.389 € 26.230 € 40.464 € 22.068 € 28.932 € 15.152 € 57.641 € 25.859 € 16.113 € 29.449 € 14.857 €
+56.246 € 19.535 € 12.365 € 14.133 € 39.813 € 13.079 € 21.316 € 39.300 € 18.770 € 21.248 € 12.378 € 14.753 €
+-€ 14.903 € 25.694 € 24.783 € 10.156 € 38.688 € 34.031 € 18.967 € 30.282 € 17.974 € 50.607 € 14.981 € 16.530 € 13.158 € 31.072 € 23.344 € 18.820 €
+23.002 € 30.764 € 40.392 € 52.214 € 36.792 € 19.468 € 26.492 € 32.467 € 22.521 € 49.321 € 30.322 € 39.246 € 7.425 € 16.214 € 16.098 € 11.199 € 21.350 € 22.993 € 14.413 € 12.864 € 17.938 € 19.989 €
+2015
+Summe
+27.636 € 100.642 € 74.561 € 71.051 € 29.592 € 38.598 € 29.636 € 65.457 € 14.942 € 37.836 € 51.772 € 61.508 € 78.481 € 75.631 € 35.030 € 80.462 € 30.500 € 48.133 € 29.138 € 56.763 € 22.455 € 38.230 € 21.182 € 43.899 €
+28.280 € 37.534 €
+74.602 €
+39.389 € 69.756 €
+25.983 € 37.876 € 47.903 € 53.546 € 10.003 € 26.936 € 27.559 € 17.604 €
+119.271 € 27.486 € 21.254 € 23.964 € 29.967 €
+9.892 € 57.253 € 36.010 €
+26.378 €
+25.924 € 16.901 € 31.544 € 25.959 € 18.733 € 17.274 € 62.510 € 18.999 € 28.588 € 25.899 € 12.876 € 25.424 € 12.287 € 31.554 € 13.618 € 30.354 €
+6.261 €
+8.425 € 22.615 € 21.243 € 24.764 € 20.452 € 27.544 € 23.495 € 19.203 € 16.303 € 22.256 € 14.307 €
+13.277 € 34.024 € 31.713 € 24.183 € 10.950 € 39.636 €
+7.753 € 42.190 € 19.801 €
+7.612 € 22.182 € 22.119 € 35.601 € 23.199 € 12.796 € 38.203 € 18.680 € 19.574 € 42.185 € 23.963 € 12.060 €
+27.580 € 26.254 € 26.772 € 12.600 € 40.152 €
+6.721 € 28.420 € 12.485 € 19.194 € 31.741 € 18.827 € 17.262 € 17.728 € 58.711 € 20.290 €
+3,1 6,0 3,4 6,0 2,2 5,0 4,0 5,0 3,4 6,0 2,1 5,0 3,0 6,0 4,8 4,0 2,2 - 3,6 5,0 3,0 6,0 3,9 4,0 3,9 3,0 4,6 4,0 3,0 4,0 4,0 4,0 3,6 - 2,8 2,0 4,7 2,0 2,7 4,0 2,7 4,0 2,0 3,0 2,8 6,0 2,9 4,0 5,0 5,0 3,3 6,0 3,1 4,0
+3,7 5,0
+3,1 2,0 3,6 2,0 3,0 - 2,6 - 3,6 - 4,4 - 3,1 - 3,7 - 3,9 - 3,1 - 3,6 - 3,6 - 3,6 - 2,9 3,0 1,8 6,0 3,1 6,0 3,1 5,0 3,4 3,0 3,5 1,0
+3,4 2,0
+3,0 4,0 3,5 6,0 3,5 6,0 5,4 4,0 3,6 1,0 4,4 4,0 3,5 2,0 4,1 5,0 4,1 4,0 3,7 3,0 1,3 1,0 3,2 1,0 3,8 5,0 3,1 - 2,7 3,0 4,8 5,0 2,0 2,0 3,9 5,0 3,1 6,0 3,5 5,0 4,1 1,0 2,5 5,0 4,0 3,0 4,6 2,0 4,0 3,0 2,5 6,0 3,9 5,0 3,0 2,0 2,9 3,0 3,0 5,0 3,5 3,0 4,1 2,0 3,9 4,0 2,2 2,0 2,6 5,0 2,9 5,0 3,5 - 4,9 2,0 4,5 5,0 3,3 5,0 2,9 1,0 5,2 3,0 3,9 - 1,1 6,0 5,0 4,0 2,0 1,0 4,0 1,0 4,1 1,0 2,0 6,0 3,0 6,0 4,6 3,0 2,6 - 3,7 - 2,8 6,0 3,9 4,0 2,9 2,0 3,4 5,0 3,7 3,0 4,0 4,0 3,0 5,0 3,8 4,0 4,0 3,0 2,7 5,0 3,6 5,0 4,5 1,0 3,0 -
+11
+
+ SCHULE
+Schulform
+Gebäudeklasse (flächengewichtet)
+KESS‐Faktor
+2011
+Summe
+2012
+Summe
+2013
+Summe
+15.127 € 25.718 € 20.702 € 34.525 € 25.937 € 14.672 € 35.055 € 11.807 €
+87.769 € 13.497 € 46.073 € 30.547 € 24.991 € 19.312 € 21.515 € 15.110 € 29.555 € 27.717 € 25.400 € 30.575 € 29.123 € 12.127 € 19.744 € 26.023 € 10.812 € 15.963 € 15.530 €
+5.996 € 24.182 € 19.655 € 31.709 €
+5.075 €
+20.026 € 66.490 €
+42.540 €
+111.990 €
+61.904 €
+54.187 €
+118.698 €
+68.539 € 68.454 € 22.469 € 29.198 €
+20.725 € 43.280 € 18.167 €
+180.884 € 43.820 € 100.820 € 18.474 € 28.763 € 36.066 € 39.946 € 80.779 €
+25.776 € 45.126 €
+25.815 € 50.193 € 23.010 €
+18.206 €
+61.941 € 90.450 € 38.913 € 25.127 €
+149.186 € 28.542 € 46.384 € 26.763 €
+110.536 € 6.533 € 54.598 € 60.018 € 46.590 €
+28.398 € 55.939 € 18.379 €
+2014
+Summe
+9.845 € 26.801 € 15.271 € 16.026 € 21.107 € 13.880 € 35.160 € 20.515 € 10.047 € 79.272 € 14.938 € 12.215 € 18.856 € 20.729 € 19.986 € 53.986 € 11.893 € 29.240 € 28.238 €
+-€
+-€ 19.244 €
+21.313 € 15.336 € 12.668 € 19.564 € 21.531 € 13.096 € 17.023 € 19.459 € 21.219 € 10.170 € 17.219 € 19.949 € 93.074 €
+37.574 € 104.391 € 120.204 €
+62.012 € 61.201 €
+58.029 € 32.771 € 18.805 € 28.339 €
+7.711 €
+19.279 € 17.893 € 19.375 €
+126.773 € 40.245 € 117.968 € 30.881 € 75.109 € 20.555 € 27.032 € 106.649 € -€ 44.009 € 47.308 €
+22.336 € 69.890 € 21.462 €
+14.175 €
+45.785 € 79.290 € 48.948 € 22.064 €
+198.467 € 33.627 € 9.623 € 31.418 € 144.457 € 17.919 € 71.372 € 89.321 € 37.653 € - € 30.347 € 48.818 € 29.653 € - € - € - € - € 7.847 € -€ -€ -€ -€ 16.660 € 20.568 € -€ -€
+6.118 €
+-€ 6.944 € 11.582 € -€
+-€
+-€ 5.755 € - € - € - € - € - € - €
+2015
+Summe
+17.299 € 32.691 € 16.736 € 29.754 € 25.584 € 16.495 € 30.744 € 38.166 € 13.845 €
+11.533 € 13.964 € 14.186 € 21.083 € 21.261 € 42.900 € 17.408 € 19.400 € 23.169 € 28.531 € 36.952 € 23.952 € 17.466 € 10.910 € 26.816 € 15.749 € 48.450 € 23.633 € 17.976 €
+8.094 € 22.685 € 21.409 € 20.746 € 27.711 € 23.299 € 78.465 €
+48.420 € 114.543 € 100.937 €
+56.696 € 38.794 €
+43.281 € 24.749 € 39.456 € 20.148 €
+25.277 €
+11.368 € 22.956 € 5.674 € 103.826 € 64.511 € 123.861 €
+76.345 € 26.961 € 39.589 €
+102.589 € 50.333 € 39.125 € 27.197 € 31.307 € 34.033 € 37.222 € 22.573 €
+52.376 €
+47.439 € 72.830 € 41.248 € 19.806 €
+158.029 € 19.175 € 20.580 € 36.506 € 42.030 € 31.309 € 95.342 € 26.214 € 59.125 € 11.648 € 29.605 € 28.089 € 11.649 €
+-€
+-€ 9.735 € 17.162 € -€ -€ 10.769 € -€ -€ 313.619 € -€ -€ 18.462 €
+6.076 €
+5.278 €
+9.048 € 33.822 € 6.107 €
+-€
+-€ 12.630 € 17.168 € -€ -€ -€ 18.085 € 5.280 €
+Drucksache 21/2943
+Bürgerschaft der Freien und Hansestadt Hamburg – 21. Wahlperiode
+Potsdamer Straße Rahlstedter Höhe Ratsmühlendamm Redder
+Grundschule Grundschule Grundschule Grundschule Grundschule Grundschule Grundschule Grundschule Grundschule Grundschule Grundschule Grundschule Grundschule Grundschule Grundschule Grundschule Grundschule Grundschule Grundschule Grundschule Sonderschule Grundschule Grundschule Grundschule Grundschule Grundschule Grundschule Sonderschule Grundschule Grundschule Grundschule Grundschule Grundschule
+3,3 1,0 2,5 3,0 3,5 4,0 2,7 6,0 4,2 5,0 2,0 5,0 1,7 5,0 3,5 2,0 3,0 3,0 2,0 5,0 4,1 3,0 2,0 4,0 3,0 6,0 2,9 5,0 3,0 2,0 4,1 1,0 2,0 1,0 3,5 4,0 3,5 6,0 3,4 3,0 4,8 - 2,6 5,0 3,5 4,0 3,4 5,0 2,8 6,0 1,8 1,0 3,4 3,0 2,9 - 4,6 4,0 2,9 4,0 4,3 3,0 3,4 6,0 2,3 5,0 2,6 - 2,4 - 3,9 -
+3,9 -
+4,0 -
+3,6 -
+3,5 -
+4,0 -
+4,0 - 3,0 - 3,1 - 2,0 -
+4,7 -
+3,7 - 4,0 - 4,0 - 4,1 2,0 3,1 2,0 3,4 1,0 2,9 4,0 4,2 2,0 3,3 4,0 2,0 5,0 3,2 5,0 4,1 3,0 3,4 2,0 3,4 4,0 3,4 3,0 2,9 2,0 2,6 2,0 2,9 2,0
+4,3 4,0
+3,6 3,0 3,9 2,0 2,6 2,0 3,5 4,0 4,0 1,0 3,0 5,0 3,1 1,0 3,7 3,0 2,7 5,0 4,3 2,0 2,4 3,0 3,6 5,0 2,8 5,0 4,0 - 2,0 3,0 4,4 6,0 4,5 6,0 2,1 1,0 2,0 3,0 4,0 1,0 1,0 1,0 2,0 3,0 1,6 5,0 1,8 2,0 3,0 - 4,2 5,0 1,0 2,0 4,8 4,0 3,0 1,0 1,8 4,0
+2,0 1,0
+2,2 2,0 4,3 1,0 2,4 2,0 3,8 3,0
+3,3 4,0
+3,5 4,0 2,3 1,0 3,7 - 3,9 2,0 3,4 1,0 2,9 5,0 2,2 5,0 2,2 5,0
+Schule
+Schule
+Schule
+Schule
+Schule
+Schule
+Schule
+Schule
+Schule
+Schule
+Schule
+Schule
+Schule
+Schule
+Schule
+Schule
+Schule
+Schule
+Schule
+Schule
+Schule
+Schule
+Schule
+Schule
+Schule
+Schule
+Schule
+Schule
+Schule
+Schule
+Schule
+Schule
+Schule
+Staatliche Fachschule für Sozialpädagogik Altona (FSP II ) Berufsschule Staatliche Fremdsprachenschule (H 15) Berufsschule Staatliche Gewerbeschule Bautechnik (G 16) Berufsschule Staatliche Gewerbeschule Chemie, Pharmazie, Agrarwirtschaft (G Berufsschule 13)
+Staatliche Gewerbeschule Ernährung und Hauswirtschaft (G 3) Berufsschule Staatliche Gewerbeschule Informations- und Elektrotechnik, Chemie- Berufsschule und Automatisierungstechnik (G18)
+Staatliche Gewerbeschule Stahl- und Maschinenbau (G 1) Berufsschule Staatliche Gewerbeschule Verkehrstechnik, Arbeitstechnik,
+Berufsschule
+Ernährung (G 20)
+Staatliche Gewerbeschule Werft und Hafen (G 7) Berufsschule Staatliche Handelsschule Altona (H 6) Berufsschule Staatliche Handelsschule Berliner Tor (H 18) Berufsschule Staatliche Handelsschule Holstenwall (H 14) Berufsschule Staatliche Handelsschule mit Wirtschaftsgymnasium Weidenstieg (H Berufsschule 5)
+Staatliche Schule Gesundheitspflege (W 1) Berufsschule Staatliche Schule Gesundheitspflege (W 4) Berufsschule Staatliche Schule Sozialpädagogik Harburg (W 5) Berufsschule Stadtteilschule Alter Teichweg Stadtteilschule Stadtteilschule Altrahlstedt Stadtteilschule Stadtteilschule Am Hafen Stadtteilschule Stadtteilschule Am Heidberg Stadtteilschule Stadtteilschule Barmbek Stadtteilschule Stadtteilschule Bergedorf Stadtteilschule Stadtteilschule Bergstedt Stadtteilschule Stadtteilschule Blankenese Stadtteilschule Stadtteilschule Bramfeld Stadtteilschule Stadtteilschule Eidelstedt Stadtteilschule Stadtteilschule Eppendorf Stadtteilschule Stadtteilschule Flottbek Stadtteilschule Stadtteilschule Hamburg-Mitte Stadtteilschule Stadtteilschule Helmuth Hübener Stadtteilschule Stadtteilschule Horn Stadtteilschule
+Stadtteilschule Kirchwerder Grund- /Stadtteilschule
+Stadtteilschule Lohbrügge Stadtteilschule Stadtteilschule Lurup Stadtteilschule Stadtteilschule Max Schmeling Stadtteilschule Stadtteilschule Meiendorf Stadtteilschule Stadtteilschule Mümmelmannsberg Stadtteilschule Stadtteilschule Niendorf Stadtteilschule Stadtteilschule Öjendorf Stadtteilschule Stadtteilschule Oldenfelde Stadtteilschule Stadtteilschule Poppenbüttel Stadtteilschule Stadtteilschule Richard-Linde-Weg Stadtteilschule Stadtteilschule Stellingen Stadtteilschule Stadtteilschule Walddörfer Stadtteilschule Stadtteilschule Winterhude Stadtteilschule Studienkolleg für ausländische Studierende Sonderschule Theodor-Haubach-Schule Grundschule Walddörfer-Gymnasium Gymnasium Wilhelm-Gymnasium Gymnasium An der Burgweide Grundschule Grundschule Neuenfelde Grundschule Rahmwerder Straße Grundschule Tor zur Welt Grundschule Cranz Grundschule In der Alten Forst Grundschule Kapellenweg Grundschule Lange Striepen Grundschule Neuland Grundschule NF 65 (Quellmoor --> STS Süderelbe) Grundschule Rönneburg Grundschule Rotenhäuser Damm Grundschule Scheeßeler Kehre Grundschule
+Grundschule Maretstraße + Bunatwiete Stadtteilschule Stadtteilschule Ehestorfer Weg Stadtteilschule
+Ganztagsschule Fährstraße Grundschule Stübenhofer Weg Stadtteilschule Grundschule am Kiefernberg Grundschule
+Grundschule / Stadtteilschule Fischbek/Falkenberg Stadtteilschule Stadtteilschule Harburg Stadtteilschule STS Nelson-Mandela + STS Kirchdorf Stadtteilschule STS Süderelbe Stadtteilschule Quellmoor alt Stadtteilschule STS Wilhelmsburg - Perlstieg + Rotenhäuser Stadtteilschule
+Alexander-von-Humboldt-Gymnasium Gymnasium Friedrich-Ebert-Gymnasium Gymnasium FE-Halle Gymnasium
+Rellinger Straße Rönnkamp
+Rothestraße Röthmoorweg Rungwisch
+Sachsenweg
+Sander Straße Schenefelder Landstraße Schulkamp
+Sethweg Speckenreye Stengelestraße Sterntalerstraße Stockflethweg Strenge Surenland Tegelweg Tornquiststraße Traberweg Trenknerweg Turmweg Vizelinstraße Wegenkamp Weidemoor Wesperloh Wielandstraße Wildschwanbrook Windmühlenweg Zollenspieker
+12
+/
+7.947 € 5.760 € - € - €
+- €
+7.196 € 11.026 € 7.627 € 9.969 €
+12.804 €
+49.006 € -€ 17.616 € -€ 5.645 € -€ 19.861 €
+10.574 € 14.013 € -€ -€
+17.383 €
+-€ 12.616 € 5.571 € -€
+-€
+-€
+-€ 6.202 € - € - € - € - € - € -€ -€ -€ -€ -€
+6.211 €
+5.970 € 12.981 € 5.046 € 5.217 €
+-€
+5.322 € -€ 23.052 € -€ 10.194 € -€ -€ -€
+7.297 € - € - € - € 13.992 € - € 5.337 € - €
+- € 12.324 € - € - € 31.903 € - € 6.602 € - € -€ -€
+- € 5.355 € 20.972 € 23.440 € - € - € - € -€- €
+
+Bürgerschaft der Freien und Hansestadt Hamburg – 21. Wahlperiode
+Drucksache 21/2943
+       2011
+Summe
+2012
+Summe
+2013
+Summe
+2014
+Summe
+2015
+Summe
+    SCHULE
+Gymnasium
+Schulform
+Gebäudeklasse (flächengewichtet)
+KESS‐Faktor
+         Gymnasium
+1,9
+5,0
+24.098 €
+-€
+5.820 €
+-€
+-€
+        Gymnasium
+2,1
+2,0
+-€
+-€
+-€
+-€
+11.347 €
+        Gymnasium
+2,0
+5,0
+-€
+8.609 €
+-€
+-€
+-€
+        Gymnasium
+2,0
+5,0
+-€
+109.805 €
+17.309 €
+-€
+-€
+        Grundschule
+3,0
+5,0
+-€
+38.364 €
+27.885 €
+-€
+12.750 €
+        Förderschule
+5,2
+-
+-€
+5.945 €
+11.329 €
+-€
+10.831 €
+        Stadtteilschule
+0,0
+-
+9.384 €
+-€
+-€
+-€
+-€
+        Grundschule
+2,0
+3,0
+-€
+5.470 €
+-€
+-€
+22.831 €
+        Stadtteilschule
+4,8
+1,0
+-€
+-€
+-€
+-€
+-€
+        Grundschule
+3,9
+3,0
+-€
+-€
+-€
+-€
+-€
+        Grundschule
+4,6
+2,0
+-€
+-€
+-€
+-€
+-€
+        Grundschule
+3,5
+3,0
+-€
+-€
+5.444 €
+-€
+-€
+        Grundschule
+3,7
+3,0
+-€
+-€
+-€
+5.284 €
+-€
+        Grundschule
+4,2
+2,0
+-€
+6.664 €
+-€
+-€
+-€
+        Grundschule
+Grundschule
+Grundschule
+2,4
+4,9
+-
+-€
+-€
+5.164 €
+-€
+-€
+        3,0
+2,0
+-€
+-€
+11.683 €
+-€
+5.651 €
+        Stadtteilschule
+4,0
+1,0
+-€
+-€
+-€
+-€
+8.480 €
+        -
+-€
+-€
+-€
+-€
+7.325 €
+        Grundschule
+5,2
+-
+-€
+-€
+6.358 €
+25.889 €
+-€
+        Grundschule
+2,7
+5,0
+-€
+-€
+-€
+-€
+-€
+        Grundschule
+3,1
+3,0
+-€
+-€
+-€
+6.337 €
+6.764 €
+        Grundschule
+3,5
+2,0
+-€
+-€
+10.298 €
+-€
+-€
+        Förderschule
+4,3
+5,0
+-€
+-€
+8.181 €
+-€
+-€
+        Förderschule
+4,3
+-
+-€
+-€
+9.665 €
+-€
+-€
+        Förderschule
+3,0
+-
+-€
+-€
+-€
+-€
+-€
+        Grundschule
+2,9
+-
+-€
+-€
+-€
+-€
+-€
+        Förderschule
+3,0
+-
+-€
+-€
+-€
+-€
+-€
+        Förderschule
+3,0
+-
+-€
+-€
+-€
+-€
+-€
+        0,0
+-
+-€
+-€
+-€
+5.183 €
+-€
+   Gesamtergebnis
+113.679 €
+355.940 €
+9.813.222 €
+10.106.331 €
+10.384.194 €
+     Gymnasium Finkenwerder Helmut-Schmidt-Gymnasium Heisenberg-Gymnasium Immanuel-Kant-Gymnasium Gymnasium Süderelbe Frieda-Stoppenbrink-Schule Sprachheilschule Wilhelmsburg Stadtteilschule Finkenwerder Kerschensteiner Straße Lessing-Gymnasium Grundschule Neugraben Westerschule Finkenwerder Aueschule Finkenwerder Dempwolffstraße
+Am Falkenberg Grumbrechtstraße Schule auf der Veddel Hanhoopsfeld
+Sinstorf
+Marmstorf
+Grundschule an der Haake (Hausbruch) Ohrnsweg
+Schnuckendrift
+Willy-Kraft-Schule
+Förderschule Elfenwiese
+Förderschule Nymphenweg Grundschule Schwarzenbergstraße Förderschule Baererstraße Förderschule Karl-Arnold Ring
+ÖPP Modell Berufliche Schulen Hamburg (HIBB-Tranche)
+B1 - Berufliche Schule Burgstraße W1 und W8
+B2 - Staatl. Handelsschule mit Wirtschaftsgymnasium Harburg H10
+                                                SCHULE
+Schulform
+GKL
+KESS‐Faktor
+2011
+Summe
+2012
+Summe
+2013
+Summe
+2014
+Summe
+2015
+ Summe
+                 B3 - Berufliche Schule für Wirtschaft und Steuern H12, Berufliche Schule Handel und Verwaltung H1
+         B4 - Medienschule Hamburg H8
+         B5 - Berufliche Schule für Banken, Versicherungen und Recht mit Beruflichem Gymnasium St. Pauli H16
+Berufsschule
+5.022 €
+6.370 €
+         B6 -Berufliche Schule Uferstraße W 2, Fachschule für Sozialpädagogik FSP 1
+Berufsschule
+6.416 €
+         B7 - Gewerbeschule Gastronomie und Ernährung G11
+         B8 - Gewerbeschule für Energietechnik G10
+     Gesamtergebnis
+-€
+-€
+-€
+5.022 €
+             12.786 €
+ 13
+
+Drucksache 21/2943 Bürgerschaft der Freien und Hansestadt Hamburg – 21. Wahlperiode
+ Fragen 8 - 11
+Maßnahmen der geplanten Instandhaltung 2016 > 50.000€
+Für die im ÖPP Modell Berufliche Schulen Hamburg (HIBB-Tranche) sind die Instandhaltungsmaßnahmen innerhalb der Bau- und Sanierungszeit 2012 bis 2017 Bestandteil der Sanierungsmaßnahmen und sind daher nicht gesondert aufgeführt.
+Anlage 4
+Schule
+Elbschule Bildungszentrum Hören und Kommunikation
+Region
+Altona
+Schulform
+Förderschule
+Kessfaktor
+-
+Plankosten
+89.500€
+     Schule Kielkamp
+Altona
+Förderschule
+-
+70.000€
+     SO Hirtenweg
+Altona
+Förderschule
+-
+327.000€
+     3. Gymnasium Altona
+Altona
+Grundschule
+2
+350.000€
+     Fridtjof-Nansen-Schule
+Altona
+Grundschule
+3
+255.000€
+     Ganztagsgrundschule Sternschanze
+Altona
+Grundschule
+2
+174.500€
+     Grundschule Groß Flottbek
+Altona
+Grundschule
+5
+90.000€
+     Grundschule Iserbarg
+Altona
+Grundschule
+5
+287.000€
+     Grundschule Marschweg
+Altona
+Grundschule
+6
+122.500€
+     Grundschule Mendelsohnstraße
+Altona
+Grundschule
+2
+170.000€
+     Grundschule Thadenstraße
+Altona
+Grundschule
+4
+283.000€
+     Grundschule Trenknerweg
+Altona
+Grundschule
+5
+100.000€
+     GS Bahrenfelder Straße
+Altona
+Grundschule
+4
+101.700€
+     GS Lehmkuhlenweg
+Altona
+Grundschule
+6
+57.000€
+     Loki-Schmidt-Schule
+Altona
+Grundschule
+4
+85.000€
+     Louise-Schröder-Schule GS
+Altona
+Grundschule
+3
+51.500€
+     Schule Franzosenkoppel
+Altona
+Grundschule
+3
+235.000€
+     Schule Iserbrook
+Altona
+Grundschule
+5
+199.000€
+     Schule Kroonhorst
+Altona
+Grundschule
+1
+153.000€
+     Schule Langbargheide
+Altona
+Grundschule
+1
+260.000€
+     Schule Schenefelder Landstraße
+Altona
+Grundschule
+4
+75.000€
+     Windmühlenweg
+Max Brauer Schule
+Altona
+Grundschule
+6
+50.000€
+     Altona
+Grundschule / Stadtteilschule
+5
+99.500€
+     Goethe-Gymnasium
+Altona
+Gymnasium
+4
+174.000€
+     Gymnasium Allee
+Altona
+Gymnasium
+4
+248.900€
+     Gymnasium Allee/Sporthalle Haubachstraße 60
+Altona
+Gymnasium
+4
+271.800€
+     Gymnasium Altona
+Altona
+Gymnasium
+5
+225.000€
+     Gymnasium Hochrad 2
+Altona
+Gymnasium
+6
+222.244€
+     Gymnasium Othmarschen
+Altona
+Gymnasium
+6
+189.500€
+     Lise-Meitner-Gymnasium
+Altona
+Gymnasium
+4
+189.000€
+     Marion-Dönhoff-Gymnasium
+Altona
+Gymnasium
+6
+419.000€
+     ReBBZ Altona-West
+Altona
+ReBBZ
+-
+138.000€
+     Stadtteilschule Blankenese
+Altona
+Stadtteilschule
+5
+193.000€
+     STS Altona / Kurt-Tucholsky-Schule
+Altona
+Stadtteilschule
+2
+77.500€
+     STS Bahrenfeld
+Altona
+Stadtteilschule
+3
+75.000€
+     STS-Lurup
+Altona
+Stadtteilschule
+2
+55.000€
+     STS-Lurup, GS
+Altona
+Stadtteilschule
+2
+93.000€
+     Schule Weidemoor
+Bergedorf
+Förderschule
+-
+112.450€
+     Sprachheilschule Reinbeker Redder
+Anton-Ree-Schule
+Bergedorf
+Förderschule
+-
+77.300€
+     Bergedorf
+Grundschule
+3
+107.070€
+     Bergedorf
+Grundschule
+2
+79.100€
+     Grundschule Curslack-Neuengamme
+Bergedorf
+Grundschule
+5
+104.210€
+     Grundschule Heidhorst
+Bergedorf
+Grundschule
+4
+101.750€
+     Grundschule Max-Eichholz-Ring
+Bergedorf
+Grundschule
+4
+167.230€
+     Grundschule Mendelstraße
+Bergedorf
+Grundschule
+2
+153.500€
+     Grundschule Mittlerer Landweg
+Bergedorf
+Grundschule
+5
+63.250€
+     Grundschule Sander Straße
+Bergedorf
+Grundschule
+3
+54.850€
+     Schule Ernst-Henning-Straße
+Bergedorf
+Grundschule
+4
+121.550€
+     Schule Friedrich-Frank-Bogen
+Bergedorf
+Grundschule
+2
+54.300€
+     Schule Nettelnburg
+Bergedorf
+Grundschule
+4
+60.300€
+     Schule Zollenspieker
+Bergedorf
+Grundschule
+5
+80.000€
+     STS Kirchwerder
+Bergedorf
+Grundschule / Stadtteilschule
+4
+77.650€
+     Gymnasium Allermöhe
+Bergedorf
+Gymnasium
+4
+58.000€
+     Gymnasium Bornbrook
+Bergedorf
+Gymnasium
+4
+52.200€
+     Luisen-Gymnasium
+Bergedorf
+Gymnasium
+6
+116.000€
+     Gretel-Bergmann-Schule
+Bergedorf
+Stadtteilschule
+2
+477.600€
+     Stadtteilschule Bergedorf
+Bergedorf
+Stadtteilschule
+4
+271.935€
+     Stadtteilschule Lohbrügge
+Bergedorf
+Stadtteilschule
+3
+95.300€
+     STS Richard-Linde-Weg
+Schule An der Isebek
+Bergedorf
+Stadtteilschule
+2
+98.150€
+     Anna-Susanna-Stieg
+Eimsbüttel
+Grundschule
+4
+97.050€
+     Burgunderweg
+Eimsbüttel
+Grundschule
+5
+131.700€
+     Max-Traeger-Schule
+Eimsbüttel
+Grundschule
+2
+100.700€
+     Eimsbüttel
+Grundschule
+6
+62.100€
+     Schule Döhrnstr.
+Eimsbüttel
+Grundschule
+5
+278.100€
+     Schule Eduardstr.
+Eimsbüttel
+Grundschule
+2
+88.900€
+     Schule Frohmestraße
+Eimsbüttel
+Grundschule
+4
+150.000€
+     Schule Furtweg
+Eimsbüttel
+Grundschule
+3
+77.600€
+     Schule Lutterothstraße
+Eimsbüttel
+Grundschule
+4
+64.000€
+     Schule Molkenbuhrstraße
+Eimsbüttel
+Grundschule
+3
+166.500€
+     Schule Röthmoorweg
+Eimsbüttel
+Grundschule
+2
+102.800€
+     Schule Rungwisch
+Eimsbüttel
+Grundschule
+3
+103.000€
+     Schule Sachsenweg
+Eimsbüttel
+Grundschule
+5
+186.000€
+     Schule Sethweg
+Eimsbüttel
+Grundschule
+5
+215.200€
+     Schule Tornquiststr.
+Eimsbüttel
+Grundschule
+5
+100.800€
+     Schule Turmweg
+Eimsbüttel
+Grundschule
+6
+101.600€
+     Schule Wegenkamp
+Eimsbüttel
+Grundschule
+3
+235.000€
+     Albrecht-Thaer-Gymnasium
+Eimsbüttel
+Gymnasium
+5
+550.000€
+              Clara-Grunwald-Schule
+ 14
+
+Bürgerschaft der Freien und Hansestadt Hamburg – 21. Wahlperiode Drucksache 21/2943
+  Schule
+  Region
+Schulform
+  Kessfaktor
+ Plankosten
+ Emilie-Wüstenfeld-Gymnasium
+ Eimsbüttel
+ Gymnasium
+ 5
+ 68.003€
+ Gym.Corveystr.
+ Eimsbüttel
+ Gymnasium
+ 5
+ 102.000€
+ Gym-Kaiser-Friedrich-Ufer
+ Eimsbüttel
+ Gymnasium
+ 5
+ 141.853€
+ Gymnasium Bondenwald
+ Eimsbüttel
+ Gymnasium
+ 6
+ 215.000€
+ Gymnasium Ohmoor
+ Eimsbüttel
+ Gymnasium
+ 6
+ 221.000€
+ Helene-Lange-Gymnasium
+ Eimsbüttel
+ Gymnasium
+ 5
+ 107.194€
+ Wilhelm-Gymnasium
+ Eimsbüttel
+ Gymnasium
+ 6
+ 86.121€
+ Diverses
+ Eimsbüttel
+ k.A.
+ -
+ 75.000€
+ Ida Ehre Schule
+ Eimsbüttel
+ Stadtteilschule
+ 3
+ 72.100€
+ Julius-Leber-Schule
+ Eimsbüttel
+ Stadtteilschule
+ 4
+ 587.000€
+ Stadtteilschule Eidelstedt
+ Eimsbüttel
+ Stadtteilschule
+ 2
+ 78.350€
+ STS Niendorf
+ Eimsbüttel
+ Stadtteilschule
+ 5
+ 170.000€
+ StS Stellingen
+ Eimsbüttel
+ Stadtteilschule
+ 3
+ 185.800€
+ Willy-Kraft-Schule
+ GMH - Süd
+ Förderschule
+ -
+ 53.800€
+ Elbinselschule
+ GMH - Süd
+ Grundschule
+ 1
+ 75.000€
+ Rönneburg
+ GMH - Süd
+ Grundschule
+ 4
+ 79.000€
+ Rotenhäuser Damm
+ GMH - Süd
+ Grundschule
+ 1
+ 51.500€
+ GTS Fährstraße
+ GMH - Süd
+ Grundschule
+ 1
+ 84.500€
+ GR am Kiefernberg
+  GMH - Süd
+  Grundschule
+  3
+  64.100€
+ Westerschule Finkenwerder
+GMH - Süd
+Grundschule
+3
+54.000€
+ Schule auf der Veddel
+ GMH - Süd
+ Grundschule
+ 1
+ 174.706€
+ Grundschule an der Haake (Hausbruch)
+  GMH - Süd
+  Grundschule
+  3
+  58.500€
+ Maretstraße (Community Center)
+GMH - Süd
+Grundschule / Stadtteilschule
+1
+246.500€
+ Am Falkenberg
+ GMH - Süd
+ Grundschule / Stadtteilschule
+ 4
+ 67.000€
+ Alexander-von-Humboldt-Gymnasium
+ GMH - Süd
+ Gymnasium
+ 5
+ 106.500€
+ Friedrich-Ebert-Gymnasium
+ GMH - Süd
+ Gymnasium
+ 5
+ 50.000€
+ GY Finkenwerder (+Sporthalle Focksweg)
+ GMH - Süd
+ Gymnasium
+ 5
+ 83.000€
+ FS Elfenwiese
+ GMH - Süd
+ Sonderschule
+ -
+ 89.000€
+ STS Ehestorfer Weg
+ GMH - Süd
+ Stadtteilschule
+ 2
+ 50.200€
+ Stübenhofer Weg
+ GMH - Süd
+ Stadtteilschule
+ 2
+ 104.000€
+ STS Göthe-Schule-Harburg
+ GMH - Süd
+ Stadtteilschule
+ 4
+ 69.000€
+ STS Kirchdorf
+ GMH - Süd
+ Stadtteilschule
+ 1
+ 160.500€
+ STS Süderelbe
+ GMH - Süd
+ Stadtteilschule
+ 2
+ 108.500€
+ STS Wilhelmsburg
+ GMH - Süd
+ Stadtteilschule
+ 1
+ 141.000€
+ STS Finkenwerder
+ GMH - Süd
+ Stadtteilschule
+ 3
+ 132.000€
+ Fritz-Köhne-Schule
+ Hamburg-Mitte
+ Grundschule
+ 1
+ 55.000€
+ Grundschule Horn
+ Hamburg-Mitte
+ Grundschule
+ 2
+ 136.500€
+ Grundschule Mümmelmannsberg
+ Hamburg-Mitte
+ Grundschule
+ 1
+ 595.000€
+ Grundschule Rahewinkel
+ Hamburg-Mitte
+ Grundschule
+ 1
+ 75.000€
+ GS St. Pauli & STS Am Hafen
+ Hamburg-Mitte
+ Grundschule
+ 2
+ 177.000€
+ Heinrich-Wolgast-Schule
+ Hamburg-Mitte
+ Grundschule
+ 3
+ 171.000€
+ Insel Schule Neuwerk
+ Hamburg-Mitte
+ Grundschule
+ -
+ 106.000€
+ Rudolf-Roß-Grundschule
+ Hamburg-Mitte
+ Grundschule
+ 3
+ 355.000€
+ Schule Am Schleemer Park
+ Hamburg-Mitte
+ Grundschule
+ 1
+ 123.000€
+ Schule An der Glinder Au
+ Hamburg-Mitte
+ Grundschule
+ 1
+ 66.000€
+ Schule Beim Pachthof
+ Hamburg-Mitte
+ Grundschule
+ 1
+ 65.500€
+ Schule Fuchsbergredder
+ Hamburg-Mitte
+ Grundschule
+ 3
+ 245.000€
+ Schule Osterbrook
+ Hamburg-Mitte
+ Grundschule
+ 1
+ 54.800€
+ Schule Speckenreye
+ Hamburg-Mitte
+ Grundschule
+ 2
+ 92.500€
+ Gymnasium Hamm
+ Hamburg-Mitte
+ Gymnasium
+ 2
+ 763.000€
+ Gymnasium Klosterschule
+ Hamburg-Mitte
+ Gymnasium
+ 5
+ 123.500€
+ ReBBZ Billstedt
+ Hamburg-Mitte
+ ReBBZ
+ -
+ 499.000€
+ ReBBZ Mitte
+ Hamburg-Mitte
+ ReBBZ
+ -
+ 68.000€
+ Brüder Grimm Schule
+ Hamburg-Mitte
+ Stadtteilschule
+ 4
+ 73.000€
+ STS Am Hafen
+ Hamburg-Mitte
+ Stadtteilschule
+ 1
+ 56.000€
+ STS Hamburg-Mitte/Abendschule St.Georg
+ Hamburg-Mitte
+ Stadtteilschule
+ 2
+ 452.500€
+ STS HH Mitte
+ Hamburg-Mitte
+ Stadtteilschule
+ 2
+ 71.500€
+ STS Horn
+ Hamburg-Mitte
+ Stadtteilschule
+ 2
+ 107.000€
+ STS Mümmelmannsberg
+ Hamburg-Mitte
+ Stadtteilschule
+ 1
+ 340.000€
+ Kurt-Juster-Schule
+ Hamburg-Nord
+ Förderschule
+ -
+ 78.510€
+ Schule Lokstedter Damm
+ Hamburg-Nord
+ Förderschule
+ -
+ 189.000€
+ Carl-Cohn-Schule
+ Hamburg-Nord
+ Grundschule
+ 4
+ 82.000€
+ Carl-Götze-Schule
+ Hamburg-Nord
+ Grundschule
+ 5
+ 260.000€
+ Grundschule St. Nikolai
+ Hamburg-Nord
+ Grundschule
+ 6
+ 50.000€
+ Schule Eberhofweg
+ Hamburg-Nord
+ Grundschule
+ 3
+ 65.500€
+ Schule Knauerstraße
+ Hamburg-Nord
+ Grundschule
+ 6
+ 89.000€
+ Schule Krohnstieg
+ Hamburg-Nord
+ Grundschule
+ 4
+ 149.300€
+ Schule Stockflethweg
+ Hamburg-Nord
+ Grundschule
+ 4
+ 158.065€
+ Albert-Schweitzer-Gymnasium
+ Hamburg-Nord
+ Gymnasium
+ 6
+ 132.700€
+ Gelertenschule des Johanneums
+  Hamburg-Nord
+  Gymnasium
+  6
+  110.000€
+ Gym Heiberg und STS am Heidberg
+Hamburg-Nord
+Gymnasium
+5
+67.493€
+ Gymnasium Eppendorf
+ Hamburg-Nord
+ Gymnasium
+ 6
+ 460.000€
+ Gymnasium Heidberg
+ Hamburg-Nord
+ Gymnasium
+ 5
+ 66.857€
+ Gymnasium Lerchenfeld
+ Hamburg-Nord
+ Gymnasium
+ 4
+ 165.000€
+ Heilwig- Gymnasium
+ Hamburg-Nord
+ Gymnasium
+ 5
+ 254.000€
+ ReBBZ Nord
+ Hamburg-Nord
+ ReBBZ
+ -
+ 70.000€
+ ReBBZ Winterhude
+ Hamburg-Nord
+ ReBBZ
+ -
+ 230.000€
+ Fritz-Schumacher-Schule
+ Hamburg-Nord
+ Stadtteilschule
+ 4
+ 323.300€
+ Heinrich- Hertz- Schule
+ Hamburg-Nord
+ Stadtteilschule
+ 4
+ 423.000€
+ Ilse- Löwenstein- Schule
+ Hamburg-Nord
+ Stadtteilschule
+ 4
+ 536.000€
+ StS Alter Teichweg
+ Hamburg-Nord
+ Stadtteilschule
+ 2
+ 437.362€
+ STS Barmbek
+  Hamburg-Nord
+  Stadtteilschule
+  2
+  166.000€
+          15
+
+Drucksache 21/2943 Bürgerschaft der Freien und Hansestadt Hamburg – 21. Wahlperiode
+  Schule
+  Region
+Schulform
+  Kessfaktor
+ Plankosten
+ STS Eppendorf
+ Hamburg-Nord
+ Stadtteilschule
+ 4
+ 431.300€
+ STS Winterhude
+ Hamburg-Nord
+ Stadtteilschule
+ 5
+ 105.857€
+ FSP II
+ HIBB
+ Berufsschule
+ -
+ 200.000€
+ G01
+ HIBB
+ Berufsschule
+ -
+ 405.000€
+ G03
+ HIBB
+ Berufsschule
+ -
+ 85.000€
+ G06
+ HIBB
+ Berufsschule
+ -
+ 610.000€
+ G09
+ HIBB
+ Berufsschule
+ -
+ 395.000€
+ G15
+ HIBB
+ Berufsschule
+ -
+ 140.000€
+ G16
+ HIBB
+ Berufsschule
+ -
+ 832.000€
+ G17
+ HIBB
+ Berufsschule
+ -
+ 425.000€
+ G18
+ HIBB
+ Berufsschule
+ -
+ 465.000€
+ G19
+ HIBB
+ Berufsschule
+ -
+ 540.000€
+ H02
+ HIBB
+ Berufsschule
+ -
+ 145.000€
+ H03
+ HIBB
+ Berufsschule
+ -
+ 975.000€
+ H05
+ HIBB
+ Berufsschule
+ -
+ 210.000€
+ H07
+ HIBB
+ Berufsschule
+ -
+ 370.000€
+ H09
+ HIBB
+ Berufsschule
+ -
+ 215.000€
+ H18
+ HIBB
+ Berufsschule
+ -
+ 75.000€
+ W4
+ HIBB
+ Berufsschule
+ -
+ 90.000€
+ SO Sieker Landstraße
+ Wandsbek-Nord
+ Förderschule
+ -
+ 110.000€
+ GS Alsterredder
+ Wandsbek-Nord
+ Grundschule
+ 6
+ 125.500€
+ GS Am Walde
+ Wandsbek-Nord
+ Grundschule
+ 6
+ 50.000€
+ GS Buckhorn
+ Wandsbek-Nord
+ Grundschule
+ 6
+ 105.000€
+ GS Duvenstedter Markt
+ Wandsbek-Nord
+ Grundschule
+ 5
+ 260.000€
+ GS Eulenkrugstraße
+ Wandsbek-Nord
+ Grundschule
+ 6
+ 79.000€
+ GS Grützmühlenweg
+ Wandsbek-Nord
+ Grundschule
+ 4
+ 53.000€
+ GS Islandstraße
+ Wandsbek-Nord
+ Grundschule
+ 4
+ 140.000€
+ GS Lehmsahl-Mellingstedt
+ Wandsbek-Nord
+ Grundschule
+ 6
+ 90.000€
+ GS Neu Rahlstedt
+ Wandsbek-Nord
+ Grundschule
+ 4
+ 55.000€
+ GS Wildschwanbrook
+ Wandsbek-Nord
+ Grundschule
+ 3
+ 96.000€
+ Gym Buckhorn
+ Wandsbek-Nord
+ Gymnasium
+ 6
+ 120.000€
+ Gym Carl von Ossietzky
+ Wandsbek-Nord
+ Gymnasium
+ 5
+ 513.000€
+ Gym Heinrich-Heine
+ Wandsbek-Nord
+ Gymnasium
+ 6
+ 220.000€
+ Gym Ohlstedt
+ Wandsbek-Nord
+ Gymnasium
+ 6
+ 236.000€
+ Gymn. Oberalster
+ Wandsbek-Nord
+ Gymnasium
+ 5
+ 69.000€
+ WE übergreifend
+ Wandsbek-Nord
+ k.A.
+ -
+ 1.375.500€
+ GS Poppenbüttel
+ Wandsbek-Nord
+ Stadtteilschule
+ 5
+ 95.000€
+ SO Kielkoppelstraße
+ Wandsbek-Nord
+ Stadtteilschule
+ 2
+ 193.000€
+ STS Bergstedt
+ Wandsbek-Nord
+ Stadtteilschule
+ 5
+ 68.000€
+ STS Meiendorf
+ Wandsbek-Nord
+ Stadtteilschule
+ 4
+ 95.000€
+ STS Poppenbüttel
+ Wandsbek-Nord
+ Stadtteilschule
+ 5
+ 170.000€
+ STS Walddörfer
+ Wandsbek-Nord
+ Stadtteilschule
+ 5
+ 93.000€
+ STS Walddörfer Vörn Barkholt
+ Wandsbek-Nord
+ Stadtteilschule
+ 5
+ 75.000€
+ Staatliche Gewerbeschule Werft und Hafen (G 7)
+  Wandsbek-Süd
+  Berufsschule
+  -
+  126.000€
+ Staatliche Handelsschule mit Wirtschaftsgymnasium Schlankreye (H 3)
+Wandsbek-Süd
+Berufsschule
+-
+190.100€
+ Anne-Frank-Schule + ReBBZ Wandsbek-Nord
+  Wandsbek-Süd
+  Grundschule
+  5
+  68.000€
+ Berufliche Schule für Sozialpädagogik - Anna-Warburg-Schule (W 3)
+Wandsbek-Süd
+Grundschule
+3
+116.000€
+ Charlotte-Paulsen-Gymnasium
+ Wandsbek-Süd
+ Grundschule
+ 2
+ 75.000€
+ Grundschule Horn
+ Wandsbek-Süd
+ Grundschule
+ 2
+ 50.000€
+ Grundschule Rahewinkel
+ Wandsbek-Süd
+ Grundschule
+ 1
+ 235.000€
+ Grundschule Schimmelmannstraße
+ Wandsbek-Süd
+ Grundschule
+ 4
+ 112.500€
+ Loki-Schmidt-Schule
+ Wandsbek-Süd
+ Grundschule
+ 4
+ 71.600€
+ Schule Am Schleemer Park
+ Wandsbek-Süd
+ Grundschule
+ 1
+ 60.000€
+ Schule Bandwirkerstraße
+ Wandsbek-Süd
+ Grundschule
+ 3
+ 105.000€
+ Schule Bovestraße
+ Wandsbek-Süd
+ Grundschule
+ 5
+ 60.000€
+ Schule Eenstock
+ Wandsbek-Süd
+ Grundschule
+ 3
+ 187.000€
+ Schule Molkenbuhrstraße
+ Wandsbek-Süd
+ Grundschule
+ 3
+ 217.000€
+ Schule Müssenredder
+ Wandsbek-Süd
+ Grundschule
+ 4
+ 75.000€
+ Schule Neubergerweg
+ Wandsbek-Süd
+ Grundschule
+ 3
+ 59.000€
+ Schule Oppelner Straße
+ Wandsbek-Süd
+ Grundschule
+ 5
+ 104.000€
+ Schule Rothestraße
+ Wandsbek-Süd
+ Grundschule
+ 5
+ 104.500€
+ Schule Röthmoorweg
+ Wandsbek-Süd
+ Grundschule
+ 2
+ 100.000€
+ Schule Rungwisch
+ Wandsbek-Süd
+ Grundschule
+ 3
+ 75.000€
+ Schule Schenefelder Landstraße
+ Wandsbek-Süd
+ Grundschule
+ 4
+ 740.000€
+ Schule Surenland
+ Wandsbek-Süd
+ Grundschule
+ 3
+ 109.000€
+ Schule Tegelweg
+ Wandsbek-Süd
+ Grundschule
+ 5
+ 139.300€
+ Staatliche Handelsschule Altona (H 6)
+ Wandsbek-Süd
+ Grundschule
+ 4
+ 145.000€
+ Johannes-Brahms-Gymnasium
+ Wandsbek-Süd
+ Gymnasium
+ 4
+ 232.000€
+ Staatliche Berufsschule Eidelstedt (Berufsbildungswerk)
+ Wandsbek-Süd
+ Stadtteilschule
+ 3
+ 62.000€
+ Stadtteilschule Flottbek
+ Wandsbek-Süd
+ Stadtteilschule
+ 3
+ 164.500€
+ Stadtteilschule Richard-Linde-Weg
+  Wandsbek-Süd
+  Stadtteilschule
+  2
+  100.500€
+          16
+
+Bürgerschaft der Freien und Hansestadt Hamburg – 21. Wahlperiode Drucksache 21/2943
+ Fragen 8 - 11
+Investitionen (Fertigstellungen) 2016 > 50.000 €
+Anlage 5
+ Schule
+Schulform
+Bezirk
+Projektart
+Gebäudeklasse (gewichtet)
+Kessfaktor
+Plankosten
+Anne-Frank-Schule / Grundschule Karlshöhe mit Zweigstellen
+Grundschule
+Wandsbek-Süd
+Neubau
+3,6
+5
+783.600,00 €
+ Anton-Rée-Schule Allermöhe
+ Grundschule
+ Bergedorf
+ Neubau
+ 3,0
+ 3
+ 4.712.349,60 €
+    Sanierung
+ 3,0
+ 3
+ 528.776,10 €
+ Brüder-Grimm-Schule
+ Stadtteilschule
+ Hamburg-Mitte
+ Neubau
+ 3,5
+ 2
+ 4.431.889,53 €
+    Sanierung
+ 3,5
+ 2
+ 1.491.348,85 €
+ Charlotte-Paulsen-Gymnasium
+ Gymnasium
+ Wandsbek-Süd
+ Neubau
+ 3,4
+ 5
+ 3.482.841,60 €
+    Sanierung
+ 3,4
+ 5
+ 161.520,00 €
+ Christianeum
+ Gymnasium
+ Altona
+ Neubau
+ 4,0
+ 6
+ 1.715.468,00 €
+    Sanierung
+ 4,0
+ 6
+ 478.608,48 €
+ Elbkinder Grundschule
+ Grundschule
+ Altona
+ Neubau
+ 3,1
+ 6
+ 1.719.841,20 €
+    Sanierung
+ 3,1
+ 6
+ 965.853,51 €
+ Elfenwiese
+  Förderschule
+  Harburg
+  Neubau
+  3,0
+  k.A.
+  60.000,00 €
+ Erich Kästner-Schule
+Grundschule / Stadtteilschule
+Wandsbek-Süd
+Neubau
+2,8
+3
+1.636.992,00 €
+    Sanierung
+ 2,8
+ 3
+ 6.308.397,62 €
+ Friedrich-Ebert-Gymnasium
+ Gymnasium
+ Harburg
+ Neubau
+ 2,1
+ 5
+ 1.047.918,00 €
+    Sanierung
+ 2,1
+ 5
+ 4.089.920,60 €
+ Fritz-Schumacher-Schule
+ Stadtteilschule
+ Hamburg-Nord
+ Neubau
+ 4,5
+ 4
+ 175.000,00 €
+    Sanierung
+ 4,5
+ 4
+ 2.264.693,76 €
+ FSP II Staatliche Fachschule für Sozialpädagogik Altona
+ Berufsschule
+ HIBB
+ Neubau
+ 2,5
+ k.A.
+ 3.079.324,54 €
+ G 12 Staatl. Berufsschule Eidelstedt - STS Eidelstedt
+ Berufsschule
+ HIBB
+ Neubau
+ 4,0
+ k.A.
+ 6.695.391,48 €
+    Sanierung
+ 4,0
+ k.A.
+ 177.672,00 €
+ G 16 Berufliche Schule Farmsen
+ Berufsschule
+ HIBB
+ Neubau
+ 3,9
+ k.A.
+ 1.950.000,78 €
+ G 20 Gewerbeschule Verkehrstechnik
+ Berufsschule
+ HIBB
+ Sanierung
+ 4,0
+ k.A.
+ 120.648,92 €
+ G 6 Gewerbeschule Holztechnik, Farbtechnik
+ Berufsschule
+ HIBB
+ Neubau
+ 3,0
+ k.A.
+ 2.857.094,99 €
+    Sanierung
+ 3,0
+ k.A.
+ 143.454,55 €
+ G 8 Berufl. Schule Recycling- u. Umwelttechnik
+ Berufsschule
+ HIBB
+ Neubau
+ 4,2
+ k.A.
+ 690.542,30 €
+    Sanierung
+ 4,2
+ k.A.
+ 2.336.749,69 €
+ G 9 Gewerbeschule Kraftfahrzeugtechnik
+ Berufsschule
+ HIBB
+ Neubau
+ 4,1
+ k.A.
+ 3.459.228,54 €
+    Sanierung
+ 4,1
+ k.A.
+ 4.186.319,16 €
+ Gelehrtenschule des Johanneums
+ Gymnasium
+ Hamburg-Nord
+ Neubau
+ 2,6
+ 6
+ 3.406.072,32 €
+ Goldbek-Schule
+ Grundschule
+ Hamburg-Nord
+ Neubau
+ 3,5
+ 4
+ 264.112,24 €
+ Grundschule Am Kiefernberg
+ Grundschule
+ Harburg
+ Neubau
+ 3,9
+ 3
+ 608.775,00 €
+ Grundschule an der Haake
+ Grundschule
+ Harburg
+ Neubau
+ 3,2
+ 3
+ 3.212.626,46 €
+    Sanierung
+ 3,2
+ 3
+ 4.658.371,20 €
+ Grundschule Archenholzstraße
+ Grundschule
+ Hamburg-Mitte
+ Neubau
+ 4,4
+ 2
+ 1.719.841,20 €
+    Sanierung
+ 4,4
+ 2
+ 1.099.784,03 €
+ Grundschule Eckerkoppel
+ Grundschule
+ Wandsbek-Süd
+ Neubau
+ 5,1
+ 4
+ 2.223.698,40 €
+    Sanierung
+ 5,1
+ 4
+ 3.614.345,25 €
+ Grundschule Fährstraße
+ Grundschule
+ Harburg
+ Neubau
+ 4,3
+ 1
+ 741.000,00 €
+    Sanierung
+ 4,3
+ 1
+ 2.693.339,98 €
+ Grundschule Goosacker / Stadtteilschule Goosacker
+ Grundschule
+ Altona
+ Sanierung
+ 4,7
+ 4
+ 860.838,20 €
+ Grundschule Hasenweg
+ Grundschule
+ Wandsbek-Nord
+ Neubau
+ 3,5
+ 5
+ 833.862,40 €
+    Sanierung
+ 3,5
+ 5
+ 2.056.771,94 €
+ Grundschule Hoheluft
+ Grundschule
+ Eimsbüttel
+ Sanierung
+ 3,0
+ 5
+ 223.330,03 €
+ Grundschule Rahewinkel
+ Grundschule
+ Hamburg-Mitte
+ Sanierung
+ 4,9
+ 1
+ 154.173,23 €
+ Grundschule Sachsenweg
+ Grundschule
+ Eimsbüttel
+ Neubau
+ 3,2
+ 5
+ 252.000,00 €
+ Grundschule Schimmelmannstraße
+ Grundschule
+ Wandsbek-Süd
+ Neubau
+ 3,6
+ 4
+ 5.158.509,30 €
+    Sanierung
+ 3,6
+ 4
+ 4.164.490,38 €
+ Gymnasium Alstertal
+ Gymnasium
+ Hamburg-Nord
+ Neubau
+ 4,1
+ 5
+ 318.000,00 €
+    Sanierung
+ 4,1
+ 5
+ 5.491.822,80 €
+ Gymnasium Blankenese
+ Gymnasium
+ Altona
+ Neubau
+ 2,3
+ 6
+ 1.199.016,00 €
+    Sanierung
+ 2,3
+ 6
+ 1.135.345,68 €
+ Gymnasium Eppendorf
+ Gymnasium
+ Hamburg-Nord
+ Neubau
+ 3,1
+ 6
+ 361.200,00 €
+ Gymnasium Hamm
+ Gymnasium
+ Hamburg-Mitte
+ Neubau
+ 3,4
+ 2
+ 930.510,00 €
+ Gymnasium Hoheluft
+ Gymnasium
+ Eimsbüttel
+ Sanierung
+ 4,1
+ 5
+ 391.484,10 €
+ Gymnasium Lohbrügge
+ Gymnasium
+ Bergedorf
+ Sanierung
+ 3,0
+ 5
+ 456.682,74 €
+ Gymnasium Oberalster
+ Gymnasium
+ Wandsbek-Nord
+ Neubau
+ 2,0
+ 5
+ 1.719.841,20 €
+    Sanierung
+ 2,0
+ 5
+ 1.949.488,50 €
+ Gymnasium Rissen / Stadtteilschule Rissen
+ Stadtteilschule
+ Altona
+ Neubau
+ 3,0
+ 6
+ 15.587.533,61 €
+ Gyula Trebitsch Schule Tonndorf
+ Stadtteilschule
+ Wandsbek-Süd
+ Sanierung
+ 4,7
+ 4
+ 222.627,30 €
+ H 18 Handelsschule Berliner Tor
+ Berufsschule
+ HIBB
+ Sanierung
+ 3,1
+ k.A.
+ 94.933,38 €
+ H 3 Handelsschule u. Wirtschaftsgymnasium Schlankreye
+ Berufsschule
+ HIBB
+ Sanierung
+ 2,0
+ k.A.
+ 179.402,58 €
+ Hansa-Gymnasium Bergedorf
+ Gymnasium
+ Bergedorf
+ Sanierung
+ 2,7
+ 5
+ 4.267.892,16 €
+ Heinrich-Hertz-Schule
+ Stadtteilschule
+ Hamburg-Nord
+ Sanierung
+ 3,9
+ 4
+ 99.539,50 €
+ Heinrich-Wolgast-Schule
+ Grundschule
+ Hamburg-Mitte
+ Neubau
+ 2,9
+ 3
+ 129.681,00 €
+ Ida Ehre Schule
+ Stadtteilschule
+ Eimsbüttel
+ Neubau
+ 4,1
+ 3
+ 297.000,00 €
+    Sanierung
+ 4,1
+ 3
+ 5.435.367,04 €
+ Ilse-Löwenstein-Schule
+ Stadtteilschule
+ Hamburg-Nord
+ Sanierung
+ 3,9
+ 4
+ 731.250,00 €
+ In der Alten Forst
+ Grundschule
+ Harburg
+ Neubau
+ 1,5
+ 5
+ 431.592,00 €
+ Inselschule Neuwerk
+ Grundschule
+ Hamburg-Mitte
+ Neubau
+ 5,0
+ k.A.
+ 200.000,00 €
+    Sanierung
+ 5,0
+ k.A.
+ 535.154,00 €
+ Kurt-Juster - Schule
+ Sonderschule
+ Hamburg-Nord
+ Neubau
+ 3,6
+ k.A.
+ 275.522,69 €
+    Sanierung
+ 3,6
+ k.A.
+ 526.469,33 €
+ Kurt-Körber-Gymnasium
+ Stadtteilschule
+ Hamburg-Mitte
+ Neubau
+ 2,9
+ 2
+ 318.000,00 €
+ Lessing Stadtteilschule
+  Stadtteilschule
+  Harburg
+  Sanierung
+  4,8
+  k.A.
+  521.907,17 €
+ Maretstraße / Community Center
+Grundschule / Stadtteilschule
+Harburg
+Neubau
+1,3
+1
+250.000,00 €
+ Marion-Dönhoff-Gymnasium
+  Gymnasium
+  Altona
+  Neubau
+  3,3
+  6
+  209.342,70 €
+ Max-Brauer-Schule
+Grundschule / Stadtteilschule
+Altona
+Sanierung
+4,1
+5
+60.048,88 €
+ Max-Schmeling-Stadtteilschule
+ Stadtteilschule
+ Wandsbek-Süd
+ Neubau
+ 2,4
+ 2
+ 5.206.143,74 €
+    Sanierung
+ 2,4
+ 2
+ 1.915.293,60 €
+ Otto-Hahn-Schule
+ Stadtteilschule
+ Wandsbek-Süd
+ Sanierung
+ 3,6
+ 2
+ 3.370.886,50 €
+ ReBBZ Hamburg-Mitte
+ ReBBZ
+ Hamburg-Mitte
+ Sanierung
+ 3,3
+ k.A.
+ 886.562,22 €
+ ReBBZ Harburg
+ ReBBZ
+ Harburg
+ Neubau
+ 3,1
+ k.A.
+ 1.965.281,92 €
+    Sanierung
+ 3,1
+ k.A.
+ 1.044.852,48 €
+ Rönneburg
+ Grundschule
+ Harburg
+ Sanierung
+ 4,7
+ 4
+ 2.587.265,07 €
+ Schule Alsterredder
+ Grundschule
+ Wandsbek-Nord
+ Neubau
+ 3,1
+ 6
+ 6.291.423,60 €
+       Sanierung
+  3,1
+  6
+  547.754,70 €
+           17
+
+Drucksache 21/2943 Bürgerschaft der Freien und Hansestadt Hamburg – 21. Wahlperiode
+  Schule
+ Schulform
+ Bezirk
+  Projektart
+Gebäudeklasse (gewichtet)
+  Kessfaktor
+ Plankosten
+ Schule An den Teichwiesen
+ Grundschule
+ Wandsbek-Nord
+ Neubau
+ 3,5
+ 6
+ 278.400,00 €
+    Sanierung
+ 3,5
+ 6
+ 1.370.744,77 €
+ Schule Anna-Susanna-Stieg
+ Grundschule
+ Eimsbüttel
+ Neubau
+ 4,4
+ 4
+ 349.490,00 €
+    Sanierung
+ 4,4
+ 4
+ 921.975,07 €
+ Schule auf der Uhlenhorst
+ Grundschule
+ Hamburg-Nord
+ Neubau
+ 4,7
+ 5
+ 2.198.649,60 €
+    Sanierung
+ 4,7
+ 5
+ 5.584.036,21 €
+ Schule Bergstedt
+ Grundschule
+ Wandsbek-Nord
+ Sanierung
+ 4,3
+ 6
+ 74.516,83 €
+ Schule Bovestraße
+ Grundschule
+ Wandsbek-Süd
+ Sanierung
+ 4,8
+ 5
+ 335.477,04 €
+ Schule Brockdorffstraße
+ Grundschule
+ Wandsbek-Nord
+ Sanierung
+ 3,9
+ 5
+ 1.373.625,00 €
+ Schule Döhrnstraße
+ Grundschule
+ Eimsbüttel
+ Neubau
+ 3,0
+ 5
+ 60.000,00 €
+ Schule Eulenkrugstraße
+ Grundschule
+ Wandsbek-Nord
+ Neubau
+ 2,5
+ 6
+ 3.182.759,70 €
+    Sanierung
+ 2,5
+ 6
+ 605.700,00 €
+ Schule Fahrenkrön
+ Grundschule
+ Wandsbek-Süd
+ Neubau
+ 3,9
+ 5
+ 169.888,00 €
+ Schule Forsmannstraße
+ Grundschule
+ Hamburg-Nord
+ Neubau
+ k.A.
+ 5
+ 2.420.000,00 €
+ Schule Genslerstraße
+ Grundschule
+ Hamburg-Nord
+ Neubau
+ 4,1
+ 2
+ 549.700,00 €
+ Schule Grumbrechtstraße
+ Grundschule
+ Harburg
+ Neubau
+ 2,9
+ 2
+ 8.600.993,68 €
+    Sanierung
+ 2,9
+ 2
+ 1.075.561,68 €
+ Schule Heidacker
+ Grundschule
+ Eimsbüttel
+ Sanierung
+ 2,7
+ 4
+ 835.085,34 €
+ Schule Hinter der Lieth
+ Grundschule
+ Eimsbüttel
+ Sanierung
+ 2,8
+ 5
+ 1.793.062,00 €
+ Schule Hirtenweg
+ Sonderschule
+ Altona
+ Sanierung
+ 3,6
+ k.A.
+ 247.360,61 €
+ Schule Humboldtstraße
+ Grundschule
+ Hamburg-Nord
+ Neubau
+ 4,5
+ 5
+ 4.484.776,35 €
+    Sanierung
+ 4,5
+ 5
+ 4.798.026,24 €
+ Schule Iserbarg
+ Grundschule
+ Altona
+ Neubau
+ 3,3
+ 5
+ 1.719.841,20 €
+ Schule Iserbrook
+ Grundschule
+ Altona
+ Neubau
+ 4,7
+ 5
+ 815.850,00 €
+    Sanierung
+ 4,7
+ 5
+ 1.584.644,32 €
+ Schule Kielkamp
+ Sonderschule
+ Altona
+ Neubau
+ 3,9
+ k.A.
+ 2.520.000,00 €
+    Sanierung
+ 3,9
+ k.A.
+ 4.487.884,13 €
+ Schule Langbargheide
+ Grundschule
+ Altona
+ Sanierung
+ 4,1
+ 1
+ 1.159.974,45 €
+ Schule Lutterothstraße
+ Grundschule
+ Eimsbüttel
+ Sanierung
+ 3,9
+ 4
+ 579.008,30 €
+ Schule Max-Eichholz-Ring
+ Grundschule
+ Bergedorf
+ Neubau
+ 3,9
+ 4
+ 3.162.322,80 €
+    Sanierung
+ 3,9
+ 4
+ 1.446.864,62 €
+ Schule Moorflagen
+ Grundschule
+ Eimsbüttel
+ Neubau
+ 4,0
+ 4
+ 104.400,00 €
+    Sanierung
+ 4,0
+ 4
+ 572.650,85 €
+ Schule Ochsenwerder
+ Grundschule
+ Bergedorf
+ Neubau
+ 2,7
+ 5
+ 1.181.880,00 €
+    Sanierung
+ 2,7
+ 5
+ 3.446.150,40 €
+ Schule Ohkamp
+ Grundschule
+ Hamburg-Nord
+ Neubau
+ 3,1
+ 5
+ 1.740.791,99 €
+ Schule Oppelner Straße
+ Grundschule
+ Wandsbek-Süd
+ Sanierung
+ 4,5
+ 1
+ 8.367.641,81 €
+ Schule Paracelsusstraße
+ Sonderschule
+ Wandsbek-Nord
+ Neubau
+ 3,0
+ k.A.
+ 288.000,00 €
+ Schule Ratsmühlendamm
+ Grundschule
+ Hamburg-Nord
+ Neubau
+ 3,8
+ 4
+ 3.530.286,15 €
+    Sanierung
+ 3,8
+ 4
+ 938.095,20 €
+ Schule Rellinger Straße
+ Grundschule
+ Eimsbüttel
+ Sanierung
+ 4,2
+ 5
+ 180.325,77 €
+ Schule Rönnkamp
+ Grundschule
+ Eimsbüttel
+ Neubau
+ 2,0
+ 5
+ 793.244,40 €
+    Sanierung
+ 2,0
+ 5
+ 249.561,73 €
+ Schule Rothestraße
+ Grundschule
+ Altona
+ Neubau
+ 1,7
+ 5
+ 1.044.288,00 €
+ Schule Rungwisch
+ Grundschule
+ Eimsbüttel
+ Sanierung
+ 3,0
+ 3
+ 942.105,78 €
+ Schule Schulkamp
+ Grundschule
+ Altona
+ Sanierung
+ 3,2
+ 6
+ 1.905.283,26 €
+ Schule Sethweg
+ Grundschule
+ Eimsbüttel
+ Neubau
+ 2,8
+ 5
+ 463.200,00 €
+ Schule Trenknerweg
+ Grundschule
+ Altona
+ Neubau
+ 3,5
+ 5
+ 5.380.141,20 €
+    Sanierung
+ 3,5
+ 5
+ 770.309,07 €
+ Schule Wesperloh
+ Grundschule
+ Altona
+ Neubau
+ 4,7
+ 4
+ 4.120.800,43 €
+    Sanierung
+ 4,7
+ 4
+ 7.053.585,47 €
+ Schule Windmühlenweg
+ Grundschule
+ Altona
+ Sanierung
+ 3,5
+ 6
+ 153.298,66 €
+ Schule Zollenspieker
+ Grundschule
+ Bergedorf
+ Neubau
+ 2,4
+ 5
+ 3.486.842,35 €
+    Sanierung
+ 2,4
+ 5
+ 1.651.669,50 €
+ Stadtteilschule Altrahlstedt
+ Stadtteilschule
+ Wandsbek-Nord
+ Sanierung
+ 4,1
+ 2
+ 326.755,21 €
+ Stadtteilschule am Hafen /Grundschule St. Pauli
+ Grundschule
+ Hamburg-Mitte
+ Sanierung
+ 4,1
+ 2
+ 1.166.268,60 €
+ Stadtteilschule am See
+ Stadtteilschule
+ Wandsbek-Süd
+ Sanierung
+ k.A.
+ k.A.
+ 3.956.510,00 €
+ Stadtteilschule Bergedorf
+ Stadtteilschule
+ Bergedorf
+ Neubau
+ 3,4
+ 4
+ 308.200,00 €
+ Stadtteilschule Bergstedt
+ Stadtteilschule
+ Wandsbek-Nord
+ Neubau
+ 2,0
+ 5
+ 10.554.364,80 €
+ Stadtteilschule Eidelstedt
+ Stadtteilschule
+ Eimsbüttel
+ Neubau
+ 4,0
+ 2
+ 1.272.196,80 €
+ Stadtteilschule Hamburg-Mitte und Abendschule St. Georg
+ Stadtteilschule
+ Hamburg-Mitte
+ Neubau
+ 2,8
+ 2
+ 3.283.862,40 €
+ Stadtteilschule Horn
+ Stadtteilschule
+ Hamburg-Mitte
+ Neubau
+ 3,4
+ 2
+ 169.638,88 €
+    Sanierung
+ 3,4
+ 2
+ 1.661.261,06 €
+ Stadtteilschule Mümmelmannsberg
+ Stadtteilschule
+ Hamburg-Mitte
+ Neubau
+ 4,0
+ 1
+ 2.811.975,00 €
+    Sanierung
+ 4,0
+ 1
+ 239.904,00 €
+ Stadtteilschule Öjendorf
+ Stadtteilschule
+ Hamburg-Mitte
+ Neubau
+ 3,2
+ 1
+ 4.889.525,76 €
+ Stadtteilschule Süderelbe
+ Stadtteilschule
+ Harburg
+ Sanierung
+ 3,8
+ 2
+ 402.649,94 €
+ Stadtteilschule Wilhelmsburg
+ Stadtteilschule
+ Harburg
+ Sanierung
+ 3,9
+ 1
+ 223.536,71 €
+ Stübenhofer Weg
+ Stadtteilschule
+ Harburg
+ Neubau
+ 2,5
+ 2
+ 909.010,00 €
+    Sanierung
+ 2,5
+ 2
+ 1.285.394,54 €
+ W 3 Berufl. Schule f. Sozialpädagogik
+ Berufsschule
+ HIBB
+ Neubau
+ 1,9
+ k.A.
+ 1.975.680,00 €
+    Sanierung
+ 1,9
+ k.A.
+ 562.533,78 €
+ Wilhelm-Gymnasium
+  Gymnasium
+  Eimsbüttel
+  Sanierung
+  4,6
+  6
+  333.369,13 €
+            18
