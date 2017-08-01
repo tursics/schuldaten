@@ -96,194 +96,137 @@ Gymnasium Lohbrügge;Gymnasium;3,1;5,0;;;33.264 €;53.196 €;59.603 €
 Gymnasium Marienthal;Gymnasium;2,9;3,0;;;39.661 €;43.139 €;48.106 €
 Gymnasium Meiendorf;Gymnasium;2,7;5,0;;;36.072 €;34.985 €;52.614 €
 Gymnasium Oberalster;Gymnasium;2,0;5,0;;;41.169 €;32.620 €;50.124 €
+Gymnasium Ohlstedt;Gymnasium;3,1;6,0;;;20.098 €;15.241 €;27.636 €
+Gymnasium Ohmoor;Gymnasium;3,4;6,0;;;;;100.642 €
+Gymnasium Oldenfelde;Gymnasium;2,2;5,0;;;41.094 €;48.244 €;74.561 €
+Gymnasium Osterbek;Gymnasium;4,0;5,0;;;75.168 €;43.765 €;71.051 €
+Gymnasium Othmarschen;Gymnasium;3,4;6,0;;;29.963 €;32.849 €;29.592 €
+Gymnasium Rahlstedt;Gymnasium;2,1;5,0;;;16.368 €;39.010 €;38.598 €
+Gymnasium Rissen;Gymnasium;3,0;6,0;;;26.641 €;38.903 €;29.636 €
+Gyula Trebitsch Schule Tonndorf;Stadtteilschule;4,8;4,0;;;43.770 €;-€;65.457 €
+Hansa-Kolleg;Tagesgymnasium;2,2;-;;;13.692 €;12.273 €;14.942 €
+Heilwig-Gymnasium;Gymnasium;3,6;5,0;;;22.874 €;49.653 €;37.836 €
+Heinrich-Heine-Gymnasium;Gymnasium;3,0;6,0;;;30.586 €;47.791 €;51.772 €
+Heinrich-Hertz-Schule;Stadtteilschule;3,9;4,0;;;95.842 €;79.388 €;61.508 €
+Ida Ehre Schule;Stadtteilschule;3,9;3,0;;;38.481 €;28.379 €;78.481 €
+Irena-Sendler-Schule;Stadtteilschule;4,6;4,0;;;93.713 €;98.499 €;75.631 €
+Johannes-Brahms-Gymnasium;Gymnasium;3,0;4,0;;;26.974 €;49.411 €;35.030 €
+Julius-Leber-Schule;Stadtteilschule;4,0;4,0;;;90.348 €;84.257 €;80.462 €
+Kurt-Juster-Schule;Sonderschule;3,6;-;;;33.138 €;40.867 €;30.500 €
+Kurt-Körber-Gymnasium;Gymnasium;2,8;2,0;;;34.912 €;49.478 €;48.133 €
+Kurt-Tucholsky-Schule;Stadtteilschule;4,7;2,0;;;26.280 €;25.292 €;29.138 €
+Lise-Meitner-Gymnasium;Gymnasium;2,7;4,0;;;57.715 €;44.818 €;56.763 €
+Loki-Schmidt-Schule;Grundschule;2,7;4,0;;;24.979 €;22.003 €;22.455 €
+Louise-Schroeder-Schule;Grundschule;2,0;3,0;;;33.987 €;33.068 €;38.230 €
+Luisen-Gymnasium Bergedorf;Gymnasium;2,8;6,0;;;47.832 €;28.647 €;21.182 €
+Margaretha-Rothe-Gymnasium;Gymnasium;2,9;4,0;;;49.769 €;63.689 €;43.899 €
+Marie-Beschütz-Schule;Grundschule;5,0;5,0;;;19.896 €;33.312 €;
+Marion-Dönhoff-Gymnasium;Gymnasium;3,3;6,0;;;50.802 €;95.057 €;28.280 €
+Matthias-Claudius-Gymnasium;Gymnasium;3,1;4,0;;;17.484 €;20.982 €;37.534 €
+Max-Brauer-Schule;Grund- /Stadtteilschule;3,7;5,0;;;74.475 €;101.217 €;74.602 €
+Max-Traeger-Schule;Grundschule;3,1;2,0;;;13.634 €;28.597 €;39.389 €
+Otto-Hahn-Schule;Stadtteilschule;3,6;2,0;;;66.480 €;41.130 €;69.756 €
+Raphael-Schule;Sonderschule;3,0;-;;;;8.928 €;
+ReBBZ Altona;ReBBZ;2,6;-;;;19.646 €;8.741 €;25.983 €
+ReBBZ Altona-West;ReBBZ;3,6;-;;;30.529 €;32.150 €;37.876 €
+ReBBZ Bergedorf;ReBBZ;4,4;-;;;10.172 €;9.115 €;47.903 €
+ReBBZ Billstedt;ReBBZ;3,1;-;;;16.764 €;15.280 €;53.546 €
+ReBBZ Eimsbüttel;ReBBZ;3,7;-;;;;5.023 €;10.003 €
+ReBBZ Mitte;ReBBZ;3,9;-;;;10.036 €;24.392 €;26.936 €
+ReBBZ Nord;ReBBZ;3,1;-;;;34.793 €;87.976 €;27.559 €
+ReBBZ Wandsbek-Nord;ReBBZ;3,6;-;;;21.544 €;10.078 €;17.604 €
+ReBBZ Wandsbek-Süd;ReBBZ;3,6;-;;;70.259 €;37.591 €;119.271 €
+ReBBZ Winterhude;ReBBZ;3,6;-;;;37.575 €;55.312 €;27.486 €
+Rudolf-Roß-Grundschule;Grundschule;2,9;3,0;;;31.576 €;31.274 €;21.254 €
+Schule Ahrensburger Weg;Grundschule;1,8;6,0;;;24.804 €;25.735 €;23.964 €
+Schule Alsterredder;Grundschule;3,1;6,0;;;28.343 €;23.832 €;29.967 €
+Schule Altengamme-Deich;Grundschule;3,1;5,0;;;7.613 €;10.933 €;9.892 €
+Schule am Eichtalpark;Grundschule;3,4;3,0;;;33.449 €;32.830 €;57.253 €
+Schule am Schleemer Park;Grundschule;3,5;1,0;;;50.384 €;29.519 €;36.010 €
+Schule am See;Grund- /Stadtteilschule;3,4;2,0;;;;22.846 €;26.378 €
+Schule Am Sooren;Grundschule;3,0;4,0;;;29.268 €;24.142 €;25.924 €
+Schule Am Walde;Grundschule;3,5;6,0;;;19.037 €;10.855 €;16.901 €
+Schule An den Teichwiesen;Grundschule;3,5;6,0;;;33.404 €;27.389 €;31.544 €
+Schule An der Gartenstadt;Grundschule;5,4;4,0;;;19.610 €;26.230 €;25.959 €
+Schule An der Glinder Au;Grundschule;3,6;1,0;;;25.272 €;40.464 €;18.733 €
+Schule Anna-Susanna-Stieg;Grundschule;4,4;4,0;;;10.928 €;22.068 €;17.274 €
+Schule Appelhoff;Grundschule;3,5;2,0;;;27.388 €;28.932 €;62.510 €
+Schule auf der Uhlenhorst;Grundschule;4,1;5,0;;;53.360 €;15.152 €;18.999 €
+Schule Bahrenfelder Straße;Grundschule;4,1;4,0;;;42.441 €;57.641 €;28.588 €
+Schule Bandwirkerstraße;Grundschule;3,7;3,0;;;18.130 €;25.859 €;25.899 €
+Schule Barlsheide;Grundschule;1,3;1,0;;;7.156 €;16.113 €;12.876 €
+Schule Beim Pachthof;Grundschule;3,2;1,0;;;16.424 €;29.449 €;25.424 €
+Schule Bekassinenau;Grundschule;3,8;5,0;;;30.731 €;14.857 €;12.287 €
+Schule Bekkamp;Sonderschule;3,1;-;;;46.516 €;;31.554 €
+Schule Bonhoefferstraße;Grundschule;2,7;3,0;;;12.271 €;56.246 €;13.618 €
+Schule Bovestraße;Grundschule;4,8;5,0;;;26.451 €;19.535 €;30.354 €
+Schule Brehmweg;Grundschule;2,0;2,0;;;6.512 €;12.365 €;6.261 €
+Schule Brockdorffstraße;Grundschule;3,9;5,0;;;12.781 €;14.133 €;8.425 €
+Schule Buckhorn;Grundschule;3,1;6,0;;;31.787 €;39.813 €;22.615 €
+Schule Burgunderweg;Grundschule;3,5;5,0;;;22.231 €;13.079 €;21.243 €
+Schule Charlottenburger Straße;Grundschule;4,1;1,0;;;21.181 €;21.316 €;24.764 €
+Schule Duvenstedter Markt;Grundschule;2,5;5,0;;;22.438 €;39.300 €;20.452 €
+Schule Eberhofweg;Grundschule;4,0;3,0;;;18.198 €;18.770 €;27.544 €
+Schule Eduardstraße;Grundschule;4,6;2,0;;;6.941 €;21.248 €;23.495 €
+Schule Eenstock;Grundschule;4,0;3,0;;;36.573 €;12.378 €;19.203 €
+Schule Eulenkrugstraße;Grundschule;2,5;6,0;;;23.390 €;14.753 €;16.303 €
+Schule Fahrenkrön;Grundschule;3,9;5,0;;;21.628 €;-€;22.256 €
+Schule Friedrich-Frank-Bogen;Grundschule;3,0;2,0;;;7.700 €;14.903 €;14.307 €
+Schule Fuchsbergredder;Grundschule;2,9;3,0;;;45.452 €;25.694 €;
+Schule Fünfhausen-Warwisch;Grundschule;3,0;5,0;;;10.543 €;24.783 €;13.277 €
+Schule Furtweg;Grundschule;3,5;3,0;;;19.247 €;10.156 €;34.024 €
+Schule Genslerstraße;Grundschule;4,1;2,0;;;36.698 €;38.688 €;31.713 €
+Schule Grützmühlenweg;Grundschule;3,9;4,0;;;24.906 €;34.031 €;24.183 €
+Schule Hasselbrook;Grundschule;2,2;2,0;;;23.480 €;18.967 €;10.950 €
+Schule Hinsbleek;Grundschule;2,6;5,0;;;14.110 €;30.282 €;39.636 €
+Schule Hinter der Lieth;Grundschule;2,9;5,0;;;7.318 €;17.974 €;7.753 €
+Schule Hirtenweg;Sonderschule;3,5;-;;;41.805 €;50.607 €;42.190 €
+Schule Hohe Landwehr;Grundschule;4,9;2,0;;;12.646 €;14.981 €;19.801 €
+Schule Humboldtstraße;Grundschule;4,5;5,0;;;7.126 €;16.530 €;7.612 €
+Schule Iserbarg;Grundschule;3,3;5,0;;;13.633 €;13.158 €;22.182 €
+Schule Jenfelder Straße;Grundschule;2,9;1,0;;;23.979 €;31.072 €;22.119 €
+Schule Kamminer Straße;Grundschule;5,2;3,0;;;33.163 €;23.344 €;35.601 €
+Schule Kielkamp;Sonderschule;3,9;-;;;15.533 €;18.820 €;23.199 €
+Schule Klein Flottbeker Weg;Grundschule;1,1;6,0;;;;;12.796 €
+Schule Krohnstieg;Grundschule;5,0;4,0;;;26.205 €;23.002 €;38.203 €
+Schule Kroonhorst;Grundschule;2,0;1,0;;;21.616 €;30.764 €;18.680 €
+Schule Lämmersieth;Grundschule;4,0;1,0;;;52.164 €;40.392 €;19.574 €
+Schule Langbargheide;Grundschule;4,1;1,0;;;32.859 €;52.214 €;42.185 €
+Schule Lehmkuhlenweg;Grundschule;2,0;6,0;;;25.034 €;36.792 €;23.963 €
+Schule Lemsahl-Mellingstedt;Grundschule;3,0;6,0;;;16.017 €;19.468 €;12.060 €
+Schule Leuschnerstraße;Grundschule;4,6;3,0;;;20.495 €;26.492 €;
+Schule Lokstedter Damm;Sonderschule;2,6;-;;;39.892 €;32.467 €;27.580 €
+Schule Marckmannstraße;Sonderschule;3,7;-;;;26.516 €;22.521 €;26.254 €
+Schule Marschweg;Grundschule;2,8;6,0;;;23.810 €;49.321 €;26.772 €
+Schule Max-Eichholz-Ring;Grundschule;3,9;4,0;;;9.147 €;30.322 €;12.600 €
+Schule Mendelssohnstraße;Grundschule;2,9;2,0;;;42.467 €;39.246 €;40.152 €
+Schule Mittlerer Landweg;Grundschule;3,4;5,0;;;;7.425 €;6.721 €
+Schule Molkenbuhrstraße;Grundschule;3,7;3,0;;;25.377 €;16.214 €;28.420 €
+Schule Moorflagen;Grundschule;4,0;4,0;;;8.159 €;16.098 €;12.485 €
+Schule Müssenredder;Grundschule;3,0;5,0;;;26.747 €;11.199 €;19.194 €
+Schule Nettelnburg;Grundschule;3,8;4,0;;;14.702 €;21.350 €;31.741 €
+Schule Neubergerweg;Grundschule;4,0;3,0;;;20.597 €;22.993 €;18.827 €
+Schule Ochsenwerder;Grundschule;2,7;5,0;;;25.806 €;14.413 €;17.262 €
+Schule Ohkamp;Grundschule;3,6;5,0;;;19.287 €;12.864 €;17.728 €
+Schule Oppelner Straße;Grundschule;4,5;1,0;;;19.744 €;17.938 €;58.711 €
+Schule Paracelsusstraße;Sonderschule;3,0;-;;;24.240 €;19.989 €;20.290 €
 
-Gymnasium Ohlstedt
-Gymnasium Ohmoor
-Gymnasium Oldenfelde
-Gymnasium Osterbek
-Gymnasium Othmarschen
-Gymnasium Rahlstedt
-Gymnasium Rissen
-Gyula Trebitsch Schule Tonndorf
-Hansa-Kolleg
-Heilwig-Gymnasium
-Heinrich-Heine-Gymnasium
-Heinrich-Hertz-Schule
-Ida Ehre Schule
-Irena-Sendler-Schule
-Johannes-Brahms-Gymnasium
-Julius-Leber-Schule
-Kurt-Juster-Schule
-Kurt-Körber-Gymnasium
-Kurt-Tucholsky-Schule
-Lise-Meitner-Gymnasium
-Loki-Schmidt-Schule
-Louise-Schroeder-Schule
-Luisen-Gymnasium Bergedorf
-Margaretha-Rothe-Gymnasium
-Marie-Beschütz-Schule
-Marion-Dönhoff-Gymnasium
-Matthias-Claudius-Gymnasium
-Max-Brauer-Schule
-Max-Traeger-Schule
-Otto-Hahn-Schule
-Raphael-Schule
-ReBBZ Altona
-ReBBZ Altona-West
-ReBBZ Bergedorf
-ReBBZ Billstedt
-ReBBZ Eimsbüttel
-ReBBZ Mitte
-ReBBZ Nord
-ReBBZ Wandsbek-Nord
-ReBBZ Wandsbek-Süd
-ReBBZ Winterhude
-Rudolf-Roß-Grundschule
-Schule Ahrensburger Weg
-Schule Alsterredder
-Schule Altengamme-Deich
-Schule am Eichtalpark
-Schule am Schleemer Park
-Schule am See
-Schule Am Sooren
-Schule Am Walde
-Schule An den Teichwiesen
-Schule An der Gartenstadt
-Schule An der Glinder Au
-Schule Anna-Susanna-Stieg
-Schule Appelhoff
-Schule auf der Uhlenhorst
-Schule Bahrenfelder Straße
-Schule Bandwirkerstraße
-Schule Barlsheide
-Schule Beim Pachthof
-Schule Bekassinenau
-Schule Bekkamp
-Schule Bonhoefferstraße
-Schule Bovestraße
-Schule Brehmweg
-Schule Brockdorffstraße
-Schule Buckhorn
-Schule Burgunderweg
-Schule Charlottenburger Straße
-Schule Duvenstedter Markt
-Schule Eberhofweg
-Schule Eduardstraße
-Schule Eenstock
-Schule Eulenkrugstraße
-Schule Fahrenkrön
-Schule Friedrich-Frank-Bogen
-Schule Fuchsbergredder
-Schule Fünfhausen-Warwisch
-Schule Furtweg
-Schule Genslerstraße
-Schule Grützmühlenweg
-Schule Hasselbrook
-Schule Hinsbleek
-Schule Hinter der Lieth
-Schule Hirtenweg
-Schule Hohe Landwehr
-Schule Humboldtstraße
-Schule Iserbarg
-Schule Jenfelder Straße
-Schule Kamminer Straße
-Schule Kielkamp
-Schule Klein Flottbeker Weg
-Schule Krohnstieg
-Schule Kroonhorst
-Schule Lämmersieth
-Schule Langbargheide
-Schule Lehmkuhlenweg
-Schule Lemsahl-Mellingstedt
-Schule Leuschnerstraße
-Schule Lokstedter Damm
-Schule Marckmannstraße
-Schule Marschweg
-Schule Max-Eichholz-Ring
-Schule Mendelssohnstraße
-Schule Mittlerer Landweg
-Schule Molkenbuhrstraße
-Schule Moorflagen
-Schule Müssenredder
-Schule Nettelnburg
-Schule Neubergerweg
-Schule Ochsenwerder
-Schule Ohkamp
-Schule Oppelner Straße
-Schule Paracelsusstraße
 
-Schulform
-Gymnasium Gymnasium Gymnasium Gymnasium Gymnasium Gymnasium Gymnasium Stadtteilschule Tagesgymnasium Gymnasium Gymnasium Stadtteilschule Stadtteilschule Stadtteilschule Gymnasium Stadtteilschule Sonderschule Gymnasium Stadtteilschule Gymnasium Grundschule Grundschule Gymnasium Gymnasium Grundschule Gymnasium Gymnasium Grund- /Stadtteilschule Grundschule Stadtteilschule Sonderschule ReBBZ
-ReBBZ
-ReBBZ
-ReBBZ
-ReBBZ
-ReBBZ
-ReBBZ
-ReBBZ
-ReBBZ
-ReBBZ Grundschule Grundschule Grundschule Grundschule Grundschule Grundschule Grund- /Stadtteilschule Grundschule Grundschule Grundschule Grundschule Grundschule Grundschule Grundschule Grundschule Grundschule Grundschule Grundschule Grundschule Grundschule Sonderschule Grundschule Grundschule Grundschule Grundschule Grundschule Grundschule Grundschule Grundschule Grundschule Grundschule Grundschule Grundschule Grundschule Grundschule Grundschule Grundschule Grundschule Grundschule Grundschule Grundschule Grundschule Grundschule Sonderschule Grundschule Grundschule Grundschule Grundschule Grundschule Sonderschule Grundschule Grundschule Grundschule Grundschule Grundschule Grundschule Grundschule Grundschule Sonderschule Sonderschule Grundschule Grundschule Grundschule Grundschule Grundschule Grundschule Grundschule Grundschule Grundschule Grundschule Grundschule Grundschule Sonderschule
-Gebäudeklasse (flächengewichtet)
-KESS‐Faktor
-2011
-Summe
-2012
-Summe
-2013
-Summe
-20.098 €
-41.094 € 75.168 € 29.963 € 16.368 € 26.641 € 43.770 € 13.692 € 22.874 € 30.586 € 95.842 € 38.481 € 93.713 € 26.974 € 90.348 € 33.138 € 34.912 € 26.280 € 57.715 € 24.979 € 33.987 € 47.832 € 49.769 € 19.896 € 50.802 € 17.484 €
-74.475 €
-13.634 € 66.480 €
-19.646 € 30.529 € 10.172 € 16.764 €
-10.036 € 34.793 € 21.544 € 70.259 € 37.575 € 31.576 € 24.804 € 28.343 €
-7.613 € 33.449 € 50.384 €
-29.268 € 19.037 € 33.404 € 19.610 € 25.272 € 10.928 € 27.388 € 53.360 € 42.441 € 18.130 €
-7.156 € 16.424 € 30.731 € 46.516 € 12.271 € 26.451 €
-6.512 € 12.781 € 31.787 € 22.231 € 21.181 € 22.438 € 18.198 €
-6.941 € 36.573 € 23.390 € 21.628 €
-7.700 € 45.452 € 10.543 € 19.247 € 36.698 € 24.906 € 23.480 € 14.110 €
-7.318 € 41.805 € 12.646 €
-7.126 € 13.633 € 23.979 € 33.163 € 15.533 €
-26.205 € 21.616 € 52.164 € 32.859 € 25.034 € 16.017 € 20.495 € 39.892 € 26.516 € 23.810 €
-9.147 € 42.467 €
-25.377 € 8.159 € 26.747 € 14.702 € 20.597 € 25.806 € 19.287 € 19.744 € 24.240 €
-2014
-Summe
-15.241 €
-48.244 € 43.765 € 32.849 € 39.010 € 38.903 €
--€ 12.273 € 49.653 € 47.791 € 79.388 € 28.379 € 98.499 € 49.411 € 84.257 € 40.867 € 49.478 € 25.292 € 44.818 € 22.003 € 33.068 € 28.647 € 63.689 € 33.312 € 95.057 € 20.982 €
-101.217 €
-28.597 € 41.130 € 8.928 € 8.741 € 32.150 € 9.115 € 15.280 € 5.023 € 24.392 € 87.976 € 10.078 € 37.591 € 55.312 € 31.274 € 25.735 € 23.832 € 10.933 € 32.830 € 29.519 €
-22.846 €
-24.142 € 10.855 € 27.389 € 26.230 € 40.464 € 22.068 € 28.932 € 15.152 € 57.641 € 25.859 € 16.113 € 29.449 € 14.857 €
-56.246 € 19.535 € 12.365 € 14.133 € 39.813 € 13.079 € 21.316 € 39.300 € 18.770 € 21.248 € 12.378 € 14.753 €
--€ 14.903 € 25.694 € 24.783 € 10.156 € 38.688 € 34.031 € 18.967 € 30.282 € 17.974 € 50.607 € 14.981 € 16.530 € 13.158 € 31.072 € 23.344 € 18.820 €
-23.002 € 30.764 € 40.392 € 52.214 € 36.792 € 19.468 € 26.492 € 32.467 € 22.521 € 49.321 € 30.322 € 39.246 € 7.425 € 16.214 € 16.098 € 11.199 € 21.350 € 22.993 € 14.413 € 12.864 € 17.938 € 19.989 €
-2015
-Summe
-27.636 € 100.642 € 74.561 € 71.051 € 29.592 € 38.598 € 29.636 € 65.457 € 14.942 € 37.836 € 51.772 € 61.508 € 78.481 € 75.631 € 35.030 € 80.462 € 30.500 € 48.133 € 29.138 € 56.763 € 22.455 € 38.230 € 21.182 € 43.899 €
-28.280 € 37.534 €
-74.602 €
-39.389 € 69.756 €
-25.983 € 37.876 € 47.903 € 53.546 € 10.003 € 26.936 € 27.559 € 17.604 €
-119.271 € 27.486 € 21.254 € 23.964 € 29.967 €
-9.892 € 57.253 € 36.010 €
-26.378 €
-25.924 € 16.901 € 31.544 € 25.959 € 18.733 € 17.274 € 62.510 € 18.999 € 28.588 € 25.899 € 12.876 € 25.424 € 12.287 € 31.554 € 13.618 € 30.354 €
-6.261 €
-8.425 € 22.615 € 21.243 € 24.764 € 20.452 € 27.544 € 23.495 € 19.203 € 16.303 € 22.256 € 14.307 €
-13.277 € 34.024 € 31.713 € 24.183 € 10.950 € 39.636 €
-7.753 € 42.190 € 19.801 €
-7.612 € 22.182 € 22.119 € 35.601 € 23.199 € 12.796 € 38.203 € 18.680 € 19.574 € 42.185 € 23.963 € 12.060 €
-27.580 € 26.254 € 26.772 € 12.600 € 40.152 €
-6.721 € 28.420 € 12.485 € 19.194 € 31.741 € 18.827 € 17.262 € 17.728 € 58.711 € 20.290 €
-3,1 6,0 3,4 6,0 2,2 5,0 4,0 5,0 3,4 6,0 2,1 5,0 3,0 6,0 4,8 4,0 2,2 - 3,6 5,0 3,0 6,0 3,9 4,0 3,9 3,0 4,6 4,0 3,0 4,0 4,0 4,0 3,6 - 2,8 2,0 4,7 2,0 2,7 4,0 2,7 4,0 2,0 3,0 2,8 6,0 2,9 4,0 5,0 5,0 3,3 6,0 3,1 4,0
-3,7 5,0
-3,1 2,0 3,6 2,0 3,0 - 2,6 - 3,6 - 4,4 - 3,1 - 3,7 - 3,9 - 3,1 - 3,6 - 3,6 - 3,6 - 2,9 3,0 1,8 6,0 3,1 6,0 3,1 5,0 3,4 3,0 3,5 1,0
-3,4 2,0
-3,0 4,0 3,5 6,0 3,5 6,0 5,4 4,0 3,6 1,0 4,4 4,0 3,5 2,0 4,1 5,0 4,1 4,0 3,7 3,0 1,3 1,0 3,2 1,0 3,8 5,0 3,1 - 2,7 3,0 4,8 5,0 2,0 2,0 3,9 5,0 3,1 6,0 3,5 5,0 4,1 1,0 2,5 5,0 4,0 3,0 4,6 2,0 4,0 3,0 2,5 6,0 3,9 5,0 3,0 2,0 2,9 3,0 3,0 5,0 3,5 3,0 4,1 2,0 3,9 4,0 2,2 2,0 2,6 5,0 2,9 5,0 3,5 - 4,9 2,0 4,5 5,0 3,3 5,0 2,9 1,0 5,2 3,0 3,9 - 1,1 6,0 5,0 4,0 2,0 1,0 4,0 1,0 4,1 1,0 2,0 6,0 3,0 6,0 4,6 3,0 2,6 - 3,7 - 2,8 6,0 3,9 4,0 2,9 2,0 3,4 5,0 3,7 3,0 4,0 4,0 3,0 5,0 3,8 4,0 4,0 3,0 2,7 5,0 3,6 5,0 4,5 1,0 3,0 -
-11
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
  SCHULE
 Schulform
