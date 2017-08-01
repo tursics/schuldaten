@@ -1,690 +1,184 @@
 SCHULE;Schulform;Gebaeudeklasse;KESSFaktor;Summe2011;Summe2012;Summe2013;Summe2014;Summe2015
 Abendschule Vor dem Holstentor;Abendschule;4,0;-;;;13.850 €;8.858 €;
 Adolph-Diesterweg-Schule;Grundschule;2,0;2,0;;;19.809 €;16.452 €;22.197 €
+Adolph-Schönfelder-Schule;Grundschule;3,4;3,0;;;17.550 €;19.216 €;23.412 €
+Albert-Schweitzer-Gymnasium;Gymnasium;4,0;6,0;;;46.521 €;25.432 €;47.320 €
+Albert-Schweitzer-Schule;Grundschule;3,1;6,0;;;32.954 €;23.165 €;30.870 €
+Albrecht-Thaer-Gymnasium;Gymnasium;2,9;5,0;;;65.540 €;57.827 €;56.499 €
+Anton-Rée-Schule Allermöhe;Grundschule;3,0;3,0;;;28.957 €;41.453 €;54.214 €
+Berufliche Medienschule Hamburg-Wandsbek (H8);Berufsschule;3,4;-;;;36.939 €;14.010 €;15.170 €
+Berufliche Schule Am Lämmermarkt (H 2);Berufsschule;3,0;-;;;39.649 €;39.027 €;30.874 €
+Berufliche Schule an der Alster (H11);Berufsschule;2,1;-;;;42.707 €;30.869 €;18.223 €
+Berufliche Schule Bramfelder See (H 20);Berufsschule;3,1;-;;;53.329 €;25.323 €;24.019 €
+Berufliche Schule City Süd (H 9);Berufsschule;4,0;-;;;65.988 €;62.744 €;56.996 €
+Berufliche Schule Eppendorf (H 13);Berufsschule;3,4;-;;;37.146 €;19.676 €;12.746 €
+Berufliche Schule für Büro-und Personalmanagement Bergedorf (H17);Berufsschule;3,7;-;;;31.544 €;41.269 €;16.840 €
+Berufliche Schule für Sozialpädagogik - Anna-Warburg-Schule (W 3);Berufsschule;2,1;-;;;51.647 €;42.305 €;31.515 €
+Berufliche Schule für Wirtschaft HH-Eimsbüttel BS 26;Berufsschule;2,6;-;;;29.416 €;40.800 €;59.364 €
+Berufliche Schule für Wirtschaft und IT City Nord (H 7);Berufsschule;3,1;-;;;57.863 €;41.487 €;40.511 €
+Berufliche Schule Holz, Farbe, Textil (G 6);Berufsschule;3,2;-;;;85.999 €;56.584 €;73.251 €
+Berufliche Schule Recycling- und Umwelttechnik (G 8);Berufsschule;4,3;-;;;86.292 €;51.522 €;34.469 €
+Berufliche Schule William Lindley (G 2);Berufsschule;3,0;-;;;13.610 €;32.618 €;39.759 €
+Bildungszentrum für Blinde und Sehbehinderte;Sonderschule;4,4;-;;;20.918 €;34.569 €;30.740 €
+Brüder-Grimm-Schule;Stadtteilschule;4,0;2,0;;;23.621 €;22.337 €;25.686 €
+Carl-Cohn-Schule;Grundschule;3,8;4,0;;;31.475 €;17.577 €;23.094 €
+Carl-Götze-Schule;Grundschule;4,0;5,0;;;21.139 €;14.980 €;18.216 €
+Carl-von-Ossietzky-Gymnasium;Gymnasium;3,5;5,0;;;38.457 €;40.775 €;49.224 €
+Charlotte-Paulsen-Gymnasium;Gymnasium;3,5;5,0;;;34.830 €;21.057 €;14.047 €
+Christianeum;Gymnasium;4,0;6,0;;;28.797 €;44.939 €;36.322 €
+Clara-Grunwald-Schule;Grundschule;2,0;2,0;;;;101.573 €;51.832 €
+Eimsbüttler Modell, Oberstufenhaus;Gymnasium;3,0;-;;;6.247 €;8.241 €;5.186 €
+Elbinselschule;Grundschule;1,8;1,0;;;;;300 €
+Elbschule Bildungszentrum Hören und Kommunikation;Sonderschule;3,0;-;;;7.077 €;21.154 €;16.353 €
+Emilie-Wüstenfeld-Gymnasium;Gymnasium;4,1;5,0;;;16.250 €;6.562 €;12.238 €
+Erich Kästner-Schule;Grund- /Stadtteilschule;4,1;3,0;;;106.159 €;84.981 €;78.264 €
+Fridtjof-Nansen-Schule;Grundschule;3,3;3,0;;;27.403 €;23.452 €;18.718 €
+Fritz-Köhne-Schule;Grundschule;3,2;1,0;;;37.355 €;31.425 €;22.414 €
+Fritz-Schumacher-Schule;Stadtteilschule;4,1;4,0;;;38.535 €;15.854 €;37.600 €
+G 15;Berufsschule;2,7;-;;;97.601 €;115.914 €;89.660 €
+G 17;Berufsschule;3,0;-;;;35.413 €;86.716 €;47.563 €
+G 19;Berufsschule;3,8;-;;;80.382 €;105.677 €;121.186 €
+Ganztagsgrundschule Sternschanze;Grundschule;2,8;2,0;;;6.442 €;;
+Ganztagsschule an der Elbe;Grundschule;3,5;2,0;;;25.065 €;56.903 €;
+Geschwister-Scholl-Stadtteilschule;Stadtteilschule;5,0;1,0;;;58.527 €;59.601 €;55.276 €
+Goethe-Gymnasium;Gymnasium;3,1;4,0;;;34.325 €;66.835 €;29.843 €
+Goldbek-Schule;Grundschule;3,4;4,0;;;14.119 €;13.499 €;6.943 €
+Gretel-Bergmann-Schule;Stadtteilschule;2,0;2,0;;;110.583 €;120.739 €;133.024 €
+Grundschule Altrahlstedt;Grundschule;4,4;4,0;;;;6.842 €;9.989 €
+Grundschule Am Heidberg;Grundschule;3,1;5,0;;;;;46.952 €
+Grundschule Archenholzstraße;Grundschule;4,4;2,0;;;22.064 €;15.809 €;62.026 €
+Grundschule Arnkielstraße;Grundschule;2,8;1,0;;;37.956 €;;38.769 €
+Grundschule Bindfeldweg;Grundschule;2,6;5,0;;;16.845 €;42.683 €;26.499 €
+Grundschule Bramfeld;Grundschule;3,4;3,0;;;93.280 €;74.689 €;
+Grundschule Eckerkoppel;Grundschule;5,1;4,0;;;10.072 €;;26.648 €
+Grundschule Edwin-Scharff-Ring;Grundschule;3,9;2,0;;;31.622 €;23.664 €;35.972 €
+Grundschule Franzosenkoppel;Grundschule;3,0;3,0;;;13.199 €;28.069 €;19.240 €
+Grundschule Goosacker;Grundschule;4,4;4,0;;;39.970 €;45.757 €;
+Grundschule Groß Flottbek;Grundschule;3,2;5,0;;;22.220 €;30.795 €;31.033 €
+Grundschule Großlohering;Grundschule;3,0;2,0;;;31.029 €;36.781 €;29.676 €
+Grundschule Hasenweg;Grundschule;3,6;5,0;;;20.180 €;12.865 €;6.573 €
+Grundschule Heidhorst;Grundschule;2,0;4,0;;;13.694 €;15.915 €;13.661 €
+Grundschule Hoheluft;Grundschule;2,9;5,0;;;11.932 €;12.788 €;9.574 €
+Grundschule Horn;Grundschule;2,1;2,0;;;24.884 €;23.474 €;27.473 €
+Grundschule Islandstraße;Grundschule;4,8;4,0;;;11.177 €;25.827 €;15.792 €
+Grundschule Karlshöhe mit Zweigstellen;Grundschule;3,6;5,0;;;42.513 €;44.753 €;42.439 €
+Grundschule Mendelstraße;Grundschule;4,3;2,0;;;23.768 €;74.154 €;33.914 €
+Grundschule Mümmelmannsberg;Grundschule;3,6;1,0;;;58.407 €;66.727 €;35.452 €
+Grundschule Neurahlstedt;Grundschule;3,0;4,0;;;13.910 €;23.758 €;25.305 €
+Grundschule Nydamer Weg;Grundschule;2,9;4,0;;;9.097 €;25.338 €;17.157 €
+Grundschule Osterbrook;Grundschule;3,0;1,0;;;41.386 €;17.199 €;25.694 €
+Grundschule Poppenbüttel;Grundschule;3,2;5,0;;;;;72.706 €
+Grundschule Rahewinkel;Grundschule;4,8;1,0;;;16.250 €;32.458 €;25.324 €
+Grundschule Schimmelmannstraße;Grundschule;3,6;4,0;;;16.221 €;15.305 €;21.973 €
+Grundschule St. Nikolai;Grundschule;5,0;6,0;;;32.901 €;39.976 €;24.226 €
+Grundschule St. Pauli;Grundschule;3,3;2,0;;;;;31.714 €
+Grundschule Tonndorf;Grundschule;4,3;4,0;;;19.782 €;20.833 €;29.694 €
+Gymnasium Allee;Gymnasium;2,8;4,0;;;33.017 €;26.926 €;32.479 €
+Gymnasium Allermöhe;Gymnasium;2,0;4,0;;;49.162 €;14.736 €;35.583 €
+Gymnasium Alstertal;Gymnasium;4,1;5,0;;;21.805 €;30.861 €;5.651 €
+Gymnasium Altona;Gymnasium;4,0;5,0;;;54.363 €;55.360 €;39.675 €
+Gymnasium Bondenwald;Gymnasium;3,5;6,0;;;34.952 €;72.113 €;33.227 €
+Gymnasium Bornbrook;Gymnasium;4,2;4,0;;;36.381 €;43.350 €;37.923 €
+Gymnasium Buckhorn;Gymnasium;3,3;6,0;;;39.368 €;249.276 €;70.098 €
+Gymnasium Corveystraße;Gymnasium;3,2;5,0;;;47.094 €;28.784 €;34.315 €
+Gymnasium Dörpsweg;Gymnasium;3,5;5,0;;;27.325 €;42.422 €;59.939 €
+Gymnasium Eppendorf;Gymnasium;3,3;6,0;;;24.199 €;37.466 €;26.171 €
+Gymnasium Farmsen;Gymnasium;4,2;4,0;;;35.000 €;-€;33.371 €
+Gymnasium Grootmoor;Gymnasium;3,8;6,0;;;37.200 €;54.440 €;69.975 €
+Gymnasium Hamm;Gymnasium;3,4;2,0;;;55.641 €;51.701 €;50.797 €
+Gymnasium Heidberg;Gymnasium;4,3;5,0;;;38.264 €;42.767 €;52.992 €
+Gymnasium Hochrad;Gymnasium;4,1;6,0;;;25.534 €;32.447 €;29.392 €
+Gymnasium Hummelsbüttel;Gymnasium;3,0;4,0;;;35.683 €;22.753 €;21.101 €
+Gymnasium Kaiser-Friedrich-Ufer;Gymnasium;3,7;5,0;;;28.619 €;15.010 €;24.444 €
+Gymnasium Klosterschule;Gymnasium;3,1;5,0;;;98.238 €;34.807 €;46.619 €
+Gymnasium Lerchenfeld;Gymnasium;3,9;4,0;;;;;6.153 €
+Gymnasium Lohbrügge;Gymnasium;3,1;5,0;;;33.264 €;53.196 €;59.603 €
+Gymnasium Marienthal;Gymnasium;2,9;3,0;;;39.661 €;43.139 €;48.106 €
+Gymnasium Meiendorf;Gymnasium;2,7;5,0;;;36.072 €;34.985 €;52.614 €
+Gymnasium Oberalster;Gymnasium;2,0;5,0;;;41.169 €;32.620 €;50.124 €
 
-         Adolph-Schönfelder-Schule
-Grundschule
-3,4
-3,0
-17.550 €
-19.216 €
-23.412 €
-         Albert-Schweitzer-Gymnasium
-Gymnasium
-4,0
-6,0
-46.521 €
-25.432 €
-47.320 €
-         Albert-Schweitzer-Schule
-Grundschule
-3,1
-6,0
-32.954 €
-23.165 €
-30.870 €
-         Albrecht-Thaer-Gymnasium
-Gymnasium
-2,9
-5,0
-65.540 €
-57.827 €
-56.499 €
-         Anton-Rée-Schule Allermöhe
-Grundschule
-3,0
-3,0
-28.957 €
-41.453 €
-54.214 €
-         Berufliche Medienschule Hamburg-Wandsbek (H8)
-Berufsschule
-3,4
--
-36.939 €
-14.010 €
-15.170 €
-         Berufliche Schule Am Lämmermarkt (H 2)
-Berufsschule
-3,0
--
-39.649 €
-39.027 €
-30.874 €
-         Berufliche Schule an der Alster (H11)
-Berufsschule
-2,1
--
-42.707 €
-30.869 €
-18.223 €
-         Berufliche Schule Bramfelder See (H 20)
-Berufsschule
-3,1
--
-53.329 €
-25.323 €
-24.019 €
-         Berufsschule
-4,0
--
-65.988 €
-62.744 €
-56.996 €
-         Berufliche Schule Eppendorf (H 13)
-Berufsschule
-  Berufsschule
-3,4
-3,7
--
-37.146 €
-31.544 €
-19.676 €
-41.269 €
-12.746 €
-       Berufliche Schule für Büro-und Personalmanagement Bergedorf (H17)
--
-16.840 €
-         Berufliche Schule für Sozialpädagogik - Anna-Warburg-Schule (W 3)
-Berufsschule
-2,1
--
-51.647 €
-42.305 €
-31.515 €
-         Berufliche Schule für Wirtschaft HH-Eimsbüttel BS 26
-Berufsschule
-2,6
--
-29.416 €
-40.800 €
-59.364 €
-         Berufliche Schule für Wirtschaft und IT City Nord (H 7)
-Berufsschule
-3,1
--
-57.863 €
-41.487 €
-40.511 €
-         Berufliche Schule Holz, Farbe, Textil (G 6)
-Berufsschule
-3,2
--
-85.999 €
-56.584 €
-73.251 €
-         Berufliche Schule Recycling- und Umwelttechnik (G 8)
-Berufsschule
-4,3
--
-86.292 €
-51.522 €
-34.469 €
-         Berufliche Schule William Lindley (G 2)
-Berufsschule
-3,0
--
-13.610 €
-32.618 €
-39.759 €
-         Bildungszentrum für Blinde und Sehbehinderte
-Sonderschule
-4,4
--
-20.918 €
-34.569 €
-30.740 €
-         Brüder-Grimm-Schule
-Stadtteilschule
-4,0
-2,0
-23.621 €
-22.337 €
-25.686 €
-         Carl-Cohn-Schule
-  Carl-Götze-Schule
-Grundschule
-3,8
-4,0
-31.475 €
-17.577 €
-23.094 €
-       Grundschule
-4,0
-5,0
-21.139 €
-14.980 €
-18.216 €
-         Carl-von-Ossietzky-Gymnasium
-Gymnasium
-3,5
-5,0
-38.457 €
-40.775 €
-49.224 €
-         Charlotte-Paulsen-Gymnasium
-Gymnasium
-3,5
-5,0
-34.830 €
-21.057 €
-14.047 €
-         Christianeum
-Gymnasium
-4,0
-6,0
-28.797 €
-44.939 €
-36.322 €
-         Clara-Grunwald-Schule
-Grundschule
-2,0
-2,0
-101.573 €
-51.832 €
-         Eimsbüttler Modell, Oberstufenhaus
-Gymnasium
-3,0
--
-6.247 €
-8.241 €
-5.186 €
-         Elbinselschule
-Grundschule
-1,8
-1,0
-300 €
-         Elbschule Bildungszentrum Hören und Kommunikation
-Sonderschule
-3,0
--
-7.077 €
-21.154 €
-16.353 €
-         Emilie-Wüstenfeld-Gymnasium
-  Erich Kästner-Schule
-Gymnasium
-4,1
-5,0
-16.250 €
-6.562 €
-12.238 €
-       Grund- /Stadtteilschule
-4,1
-3,0
-106.159 €
-84.981 €
-78.264 €
-         Fridtjof-Nansen-Schule
-Grundschule
-3,3
-3,0
-27.403 €
-23.452 €
-18.718 €
-         Fritz-Köhne-Schule
-Grundschule
-3,2
-1,0
-37.355 €
-31.425 €
-22.414 €
-         Fritz-Schumacher-Schule
-Stadtteilschule
-4,1
-4,0
-38.535 €
-15.854 €
-37.600 €
-         G 15
-Berufsschule
-2,7
--
-97.601 €
-115.914 €
-89.660 €
-         G 17
-Berufsschule
-3,0
--
-35.413 €
-86.716 €
-47.563 €
-         G 19
-Berufsschule
-3,8
--
-80.382 €
-105.677 €
-121.186 €
-         Ganztagsgrundschule Sternschanze
-Grundschule
-2,8
-2,0
-6.442 €
-         Ganztagsschule an der Elbe
-Grundschule
-3,5
-2,0
-25.065 €
-56.903 €
-         Geschwister-Scholl-Stadtteilschule
-Stadtteilschule
-5,0
-1,0
-58.527 €
-59.601 €
-55.276 €
-         Goethe-Gymnasium
-Gymnasium
-3,1
-4,0
-34.325 €
-66.835 €
-29.843 €
-         Goldbek-Schule
-Grundschule
-3,4
-4,0
-14.119 €
-13.499 €
-6.943 €
-         Gretel-Bergmann-Schule
-Stadtteilschule
-2,0
-2,0
-110.583 €
-120.739 €
-133.024 €
-         Grundschule Altrahlstedt
-Grundschule
-4,4
-4,0
-6.842 €
-9.989 €
-         Grundschule Am Heidberg
-Grundschule
-3,1
-5,0
-46.952 €
-         Grundschule Archenholzstraße
-Grundschule
-4,4
-2,0
-22.064 €
-15.809 €
-62.026 €
-         Grundschule Arnkielstraße
-Grundschule
-2,8
-1,0
-37.956 €
-38.769 €
-         Grundschule Bindfeldweg
-Grundschule
-2,6
-5,0
-16.845 €
-42.683 €
-26.499 €
-         Grundschule Bramfeld
-Grundschule
-3,4
-3,0
-93.280 €
-74.689 €
-         Grundschule Eckerkoppel
-Grundschule
-5,1
-4,0
-10.072 €
-26.648 €
-         Grundschule Edwin-Scharff-Ring
-Grundschule
-3,9
-2,0
-31.622 €
-23.664 €
-35.972 €
-         Grundschule Franzosenkoppel
-Grundschule
-3,0
-3,0
-13.199 €
-28.069 €
-19.240 €
-         Grundschule Goosacker
-Grundschule
-4,4
-4,0
-39.970 €
-45.757 €
-         Grundschule Groß Flottbek
-  Grundschule Großlohering
-Grundschule
-3,2
-5,0
-22.220 €
-30.795 €
-31.033 €
-       Grundschule
-3,0
-2,0
-31.029 €
-36.781 €
-29.676 €
-         Grundschule Hasenweg
-Grundschule
-3,6
-5,0
-20.180 €
-12.865 €
-6.573 €
-         Grundschule Heidhorst
-Grundschule
-2,0
-4,0
-13.694 €
-15.915 €
-13.661 €
-         Grundschule Hoheluft
-Grundschule
-2,9
-5,0
-11.932 €
-12.788 €
-9.574 €
-         Grundschule Horn
-Grundschule
-2,1
-2,0
-24.884 €
-23.474 €
-27.473 €
-         Grundschule Islandstraße
-Grundschule
-4,8
-4,0
-11.177 €
-25.827 €
-15.792 €
-         Grundschule Karlshöhe mit Zweigstellen
-Grundschule
-3,6
-5,0
-42.513 €
-44.753 €
-42.439 €
-         Grundschule Mendelstraße
-Grundschule
-4,3
-2,0
-23.768 €
-74.154 €
-33.914 €
-         Grundschule Mümmelmannsberg
-Grundschule
-3,6
-1,0
-58.407 €
-66.727 €
-35.452 €
-         Grundschule Neurahlstedt
-Grundschule
-3,0
-4,0
-13.910 €
-23.758 €
-25.305 €
-         Grundschule Nydamer Weg
-Grundschule
-2,9
-4,0
-9.097 €
-25.338 €
-17.157 €
-         Grundschule Osterbrook
-Grundschule
-3,0
-1,0
-41.386 €
-17.199 €
-25.694 €
-         Grundschule Poppenbüttel
-Grundschule
-3,2
-5,0
-72.706 €
-         Grundschule Rahewinkel
-Grundschule
-4,8
-1,0
-16.250 €
-32.458 €
-25.324 €
-         Grundschule Schimmelmannstraße
-Grundschule
-3,6
-4,0
-16.221 €
-15.305 €
-21.973 €
-         Grundschule St. Nikolai
-Grundschule
-5,0
-6,0
-32.901 €
-39.976 €
-24.226 €
-         Grundschule St. Pauli
-Grundschule
-3,3
-2,0
-31.714 €
-         Grundschule Tonndorf
-Grundschule
-4,3
-4,0
-19.782 €
-20.833 €
-29.694 €
-         Gymnasium Allee
-Gymnasium
-2,8
-4,0
-33.017 €
-26.926 €
-32.479 €
-         Gymnasium Allermöhe
-Gymnasium
-2,0
-4,0
-49.162 €
-14.736 €
-35.583 €
-         Gymnasium Alstertal
-Gymnasium
-4,1
-5,0
-21.805 €
-30.861 €
-5.651 €
-         Gymnasium Altona
-Gymnasium
-4,0
-5,0
-54.363 €
-55.360 €
-39.675 €
-         Gymnasium Bondenwald
-Gymnasium
-3,5
-6,0
-34.952 €
-72.113 €
-33.227 €
-         Gymnasium Bornbrook
-Gymnasium
-4,2
-4,0
-36.381 €
-43.350 €
-37.923 €
-         Gymnasium Buckhorn
-Gymnasium
-3,3
-6,0
-39.368 €
-249.276 €
-70.098 €
-         Gymnasium Corveystraße
-Gymnasium
-3,2
-5,0
-47.094 €
-28.784 €
-34.315 €
-         Gymnasium Dörpsweg
-Gymnasium
-3,5
-5,0
-27.325 €
-42.422 €
-59.939 €
-         Gymnasium Eppendorf
-Gymnasium
-3,3
-6,0
-24.199 €
-37.466 €
-26.171 €
-         Gymnasium Farmsen
-Gymnasium
-4,2
-4,0
-35.000 €
--€
-33.371 €
-         Gymnasium Grootmoor
-Gymnasium
-3,8
-6,0
-37.200 €
-54.440 €
-69.975 €
-         Gymnasium Hamm
-Gymnasium
-3,4
-2,0
-55.641 €
-51.701 €
-50.797 €
-         Gymnasium Heidberg
-Gymnasium
-4,3
-5,0
-38.264 €
-42.767 €
-52.992 €
-         Gymnasium Hochrad
-Gymnasium
-4,1
-6,0
-25.534 €
-32.447 €
-29.392 €
-         Gymnasium Hummelsbüttel
-Gymnasium
-3,0
-4,0
-35.683 €
-22.753 €
-21.101 €
-         Gymnasium Kaiser-Friedrich-Ufer
-Gymnasium
-3,7
-5,0
-28.619 €
-15.010 €
-24.444 €
-         Gymnasium Klosterschule
-Gymnasium
-3,1
-5,0
-98.238 €
-34.807 €
-46.619 €
-         Gymnasium Lerchenfeld
-Gymnasium
-3,9
-4,0
-6.153 €
-         Gymnasium Lohbrügge
-Gymnasium
-3,1
-5,0
-33.264 €
-53.196 €
-59.603 €
-         Gymnasium Marienthal
-Gymnasium
-2,9
-3,0
-39.661 €
-43.139 €
-48.106 €
-         Gymnasium Meiendorf
-Gymnasium
-2,7
-5,0
-36.072 €
-34.985 €
-52.614 €
-         Gymnasium Oberalster
-Gymnasium
-2,0
-5,0
-41.169 €
-32.620 €
-50.124 €
-                                 10
-
- Bürgerschaft der Freien und Hansestadt Hamburg – 21. Wahlperiode
-Drucksache 21/2943
-SCHULE
-Gymnasium Ohlstedt Gymnasium Ohmoor Gymnasium Oldenfelde Gymnasium Osterbek Gymnasium Othmarschen Gymnasium Rahlstedt Gymnasium Rissen
-Gyula Trebitsch Schule Tonndorf Hansa-Kolleg Heilwig-Gymnasium Heinrich-Heine-Gymnasium Heinrich-Hertz-Schule
-Ida Ehre Schule Irena-Sendler-Schule Johannes-Brahms-Gymnasium Julius-Leber-Schule Kurt-Juster-Schule Kurt-Körber-Gymnasium Kurt-Tucholsky-Schule Lise-Meitner-Gymnasium Loki-Schmidt-Schule Louise-Schroeder-Schule Luisen-Gymnasium Bergedorf Margaretha-Rothe-Gymnasium Marie-Beschütz-Schule Marion-Dönhoff-Gymnasium Matthias-Claudius-Gymnasium
+Gymnasium Ohlstedt
+Gymnasium Ohmoor
+Gymnasium Oldenfelde
+Gymnasium Osterbek
+Gymnasium Othmarschen
+Gymnasium Rahlstedt
+Gymnasium Rissen
+Gyula Trebitsch Schule Tonndorf
+Hansa-Kolleg
+Heilwig-Gymnasium
+Heinrich-Heine-Gymnasium
+Heinrich-Hertz-Schule
+Ida Ehre Schule
+Irena-Sendler-Schule
+Johannes-Brahms-Gymnasium
+Julius-Leber-Schule
+Kurt-Juster-Schule
+Kurt-Körber-Gymnasium
+Kurt-Tucholsky-Schule
+Lise-Meitner-Gymnasium
+Loki-Schmidt-Schule
+Louise-Schroeder-Schule
+Luisen-Gymnasium Bergedorf
+Margaretha-Rothe-Gymnasium
+Marie-Beschütz-Schule
+Marion-Dönhoff-Gymnasium
+Matthias-Claudius-Gymnasium
 Max-Brauer-Schule
-Max-Traeger-Schule Otto-Hahn-Schule Raphael-Schule
+Max-Traeger-Schule
+Otto-Hahn-Schule
+Raphael-Schule
 ReBBZ Altona
-ReBBZ Altona-West ReBBZ Bergedorf
+ReBBZ Altona-West
+ReBBZ Bergedorf
 ReBBZ Billstedt
 ReBBZ Eimsbüttel
 ReBBZ Mitte
 ReBBZ Nord
-ReBBZ Wandsbek-Nord ReBBZ Wandsbek-Süd ReBBZ Winterhude Rudolf-Roß-Grundschule Schule Ahrensburger Weg Schule Alsterredder Schule Altengamme-Deich Schule am Eichtalpark Schule am Schleemer Park
+ReBBZ Wandsbek-Nord
+ReBBZ Wandsbek-Süd
+ReBBZ Winterhude
+Rudolf-Roß-Grundschule
+Schule Ahrensburger Weg
+Schule Alsterredder
+Schule Altengamme-Deich
+Schule am Eichtalpark
+Schule am Schleemer Park
 Schule am See
 Schule Am Sooren
 Schule Am Walde
-Schule An den Teichwiesen Schule An der Gartenstadt Schule An der Glinder Au Schule Anna-Susanna-Stieg Schule Appelhoff
-Schule auf der Uhlenhorst Schule Bahrenfelder Straße Schule Bandwirkerstraße Schule Barlsheide
+Schule An den Teichwiesen
+Schule An der Gartenstadt
+Schule An der Glinder Au
+Schule Anna-Susanna-Stieg
+Schule Appelhoff
+Schule auf der Uhlenhorst
+Schule Bahrenfelder Straße
+Schule Bandwirkerstraße
+Schule Barlsheide
 Schule Beim Pachthof
 Schule Bekassinenau
 Schule Bekkamp
-Schule Bonhoefferstraße Schule Bovestraße
+Schule Bonhoefferstraße
+Schule Bovestraße
 Schule Brehmweg
 Schule Brockdorffstraße
 Schule Buckhorn
 Schule Burgunderweg
-Schule Charlottenburger Straße Schule Duvenstedter Markt Schule Eberhofweg
+Schule Charlottenburger Straße
+Schule Duvenstedter Markt
+Schule Eberhofweg
 Schule Eduardstraße
 Schule Eenstock
 Schule Eulenkrugstraße
 Schule Fahrenkrön
-Schule Friedrich-Frank-Bogen Schule Fuchsbergredder Schule Fünfhausen-Warwisch Schule Furtweg
+Schule Friedrich-Frank-Bogen
+Schule Fuchsbergredder
+Schule Fünfhausen-Warwisch
+Schule Furtweg
 Schule Genslerstraße
-Schule Grützmühlenweg Schule Hasselbrook
+Schule Grützmühlenweg
+Schule Hasselbrook
 Schule Hinsbleek
 Schule Hinter der Lieth
 Schule Hirtenweg
@@ -692,14 +186,24 @@ Schule Hohe Landwehr
 Schule Humboldtstraße
 Schule Iserbarg
 Schule Jenfelder Straße
-Schule Kamminer Straße Schule Kielkamp
-Schule Klein Flottbeker Weg Schule Krohnstieg
+Schule Kamminer Straße
+Schule Kielkamp
+Schule Klein Flottbeker Weg
+Schule Krohnstieg
 Schule Kroonhorst
 Schule Lämmersieth
 Schule Langbargheide
 Schule Lehmkuhlenweg
-Schule Lemsahl-Mellingstedt Schule Leuschnerstraße Schule Lokstedter Damm Schule Marckmannstraße Schule Marschweg
-Schule Max-Eichholz-Ring Schule Mendelssohnstraße Schule Mittlerer Landweg Schule Molkenbuhrstraße Schule Moorflagen
+Schule Lemsahl-Mellingstedt
+Schule Leuschnerstraße
+Schule Lokstedter Damm
+Schule Marckmannstraße
+Schule Marschweg
+Schule Max-Eichholz-Ring
+Schule Mendelssohnstraße
+Schule Mittlerer Landweg
+Schule Molkenbuhrstraße
+Schule Moorflagen
 Schule Müssenredder
 Schule Nettelnburg
 Schule Neubergerweg
@@ -707,6 +211,7 @@ Schule Ochsenwerder
 Schule Ohkamp
 Schule Oppelner Straße
 Schule Paracelsusstraße
+
 Schulform
 Gymnasium Gymnasium Gymnasium Gymnasium Gymnasium Gymnasium Gymnasium Stadtteilschule Tagesgymnasium Gymnasium Gymnasium Stadtteilschule Stadtteilschule Stadtteilschule Gymnasium Stadtteilschule Sonderschule Gymnasium Stadtteilschule Gymnasium Grundschule Grundschule Gymnasium Gymnasium Grundschule Gymnasium Gymnasium Grund- /Stadtteilschule Grundschule Stadtteilschule Sonderschule ReBBZ
 ReBBZ
