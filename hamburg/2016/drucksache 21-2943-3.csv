@@ -1,95 +1,69 @@
-Schule Schulform Bezirk Projektart Gebäudeklasse
-(gewichtet) Kessfaktor Plankosten
-Anne-Frank-Schule / Grundschule Karlshöhe mit Zweigstellen Grundschule Wandsbek-Süd Neubau 3,6 5 783.600,00 €
-Anton-Rée-Schule Allermöhe Grundschule Bergedorf Neubau 3,0 3 4.712.349,60 €
-Sanierung 3,0 3 528.776,10 €
-Brüder-Grimm-Schule Stadtteilschule Hamburg-Mitte Neubau 3,5 2 4.431.889,53 €
-Sanierung 3,5 2 1.491.348,85 €
-Charlotte-Paulsen-Gymnasium Gymnasium Wandsbek-Süd Neubau 3,4 5 3.482.841,60 €
-Sanierung 3,4 5 161.520,00 €
-Christianeum Gymnasium Altona Neubau 4,0 6 1.715.468,00 €
-Sanierung 4,0 6 478.608,48 €
-Elbkinder Grundschule Grundschule Altona Neubau 3,1 6 1.719.841,20 €
-Sanierung 3,1 6 965.853,51 €
-Elfenwiese Förderschule Harburg Neubau 3,0 k.A. 60.000,00 €
-Erich Kästner-Schule Grundschule /
-Stadtteilschule Wandsbek-Süd Neubau 2,8 3 1.636.992,00 €
-Sanierung 2,8 3 6.308.397,62 €
-Friedrich-Ebert-Gymnasium Gymnasium Harburg Neubau 2,1 5 1.047.918,00 €
-Sanierung 2,1 5 4.089.920,60 €
-Fritz-Schumacher-Schule Stadtteilschule Hamburg-Nord Neubau 4,5 4 175.000,00 €
-Sanierung 4,5 4 2.264.693,76 €
-FSP II Staatliche Fachschule für Sozialpädagogik Altona Berufsschule HIBB Neubau 2,5 k.A. 3.079.324,54 €
-G 12 Staatl. Berufsschule Eidelstedt - STS Eidelstedt Berufsschule HIBB Neubau 4,0 k.A. 6.695.391,48 €
-Sanierung 4,0 k.A. 177.672,00 €
-G 16 Berufliche Schule Farmsen Berufsschule HIBB Neubau 3,9 k.A. 1.950.000,78 €
-G 20 Gewerbeschule Verkehrstechnik Berufsschule HIBB Sanierung 4,0 k.A. 120.648,92 €
-G 6 Gewerbeschule Holztechnik, Farbtechnik Berufsschule HIBB Neubau 3,0 k.A. 2.857.094,99 €
-Sanierung 3,0 k.A. 143.454,55 €
-G 8 Berufl. Schule Recycling- u. Umwelttechnik Berufsschule HIBB Neubau 4,2 k.A. 690.542,30 €
-Sanierung 4,2 k.A. 2.336.749,69 €
-G 9 Gewerbeschule Kraftfahrzeugtechnik Berufsschule HIBB Neubau 4,1 k.A. 3.459.228,54 €
-Sanierung 4,1 k.A. 4.186.319,16 €
-Gelehrtenschule des Johanneums Gymnasium Hamburg-Nord Neubau 2,6 6 3.406.072,32 €
-Goldbek-Schule Grundschule Hamburg-Nord Neubau 3,5 4 264.112,24 €
-Grundschule Am Kiefernberg Grundschule Harburg Neubau 3,9 3 608.775,00 €
-Grundschule an der Haake Grundschule Harburg Neubau 3,2 3 3.212.626,46 €
-Sanierung 3,2 3 4.658.371,20 €
-Grundschule Archenholzstraße Grundschule Hamburg-Mitte Neubau 4,4 2 1.719.841,20 €
-Sanierung 4,4 2 1.099.784,03 €
-Grundschule Eckerkoppel Grundschule Wandsbek-Süd Neubau 5,1 4 2.223.698,40 €
-Sanierung 5,1 4 3.614.345,25 €
-Grundschule Fährstraße Grundschule Harburg Neubau 4,3 1 741.000,00 €
-Sanierung 4,3 1 2.693.339,98 €
-Grundschule Goosacker / Stadtteilschule Goosacker Grundschule Altona Sanierung 4,7 4 860.838,20 €
-Grundschule Hasenweg Grundschule Wandsbek-Nord Neubau 3,5 5 833.862,40 €
-Sanierung 3,5 5 2.056.771,94 €
-Grundschule Hoheluft Grundschule Eimsbüttel Sanierung 3,0 5 223.330,03 €
-Grundschule Rahewinkel Grundschule Hamburg-Mitte Sanierung 4,9 1 154.173,23 €
-Grundschule Sachsenweg Grundschule Eimsbüttel Neubau 3,2 5 252.000,00 €
-Grundschule Schimmelmannstraße Grundschule Wandsbek-Süd Neubau 3,6 4 5.158.509,30 €
-Sanierung 3,6 4 4.164.490,38 €
-Gymnasium Alstertal Gymnasium Hamburg-Nord Neubau 4,1 5 318.000,00 €
-Sanierung 4,1 5 5.491.822,80 €
-Gymnasium Blankenese Gymnasium Altona Neubau 2,3 6 1.199.016,00 €
-Sanierung 2,3 6 1.135.345,68 €
-Gymnasium Eppendorf Gymnasium Hamburg-Nord Neubau 3,1 6 361.200,00 €
-Gymnasium Hamm Gymnasium Hamburg-Mitte Neubau 3,4 2 930.510,00 €
-Gymnasium Hoheluft Gymnasium Eimsbüttel Sanierung 4,1 5 391.484,10 €
-Gymnasium Lohbrügge Gymnasium Bergedorf Sanierung 3,0 5 456.682,74 €
-Gymnasium Oberalster Gymnasium Wandsbek-Nord Neubau 2,0 5 1.719.841,20 €
-Sanierung 2,0 5 1.949.488,50 €
-Gymnasium Rissen / Stadtteilschule Rissen Stadtteilschule Altona Neubau 3,0 6 15.587.533,61 €
-Gyula Trebitsch Schule Tonndorf Stadtteilschule Wandsbek-Süd Sanierung 4,7 4 222.627,30 €
-H 18 Handelsschule Berliner Tor Berufsschule HIBB Sanierung 3,1 k.A. 94.933,38 €
-H 3 Handelsschule u. Wirtschaftsgymnasium Schlankreye Berufsschule HIBB Sanierung 2,0 k.A. 179.402,58 €
-Hansa-Gymnasium Bergedorf Gymnasium Bergedorf Sanierung 2,7 5 4.267.892,16 €
-Heinrich-Hertz-Schule Stadtteilschule Hamburg-Nord Sanierung 3,9 4 99.539,50 €
-Heinrich-Wolgast-Schule Grundschule Hamburg-Mitte Neubau 2,9 3 129.681,00 €
-Ida Ehre Schule Stadtteilschule Eimsbüttel Neubau 4,1 3 297.000,00 €
-Sanierung 4,1 3 5.435.367,04 €
-Ilse-Löwenstein-Schule Stadtteilschule Hamburg-Nord Sanierung 3,9 4 731.250,00 €
-In der Alten Forst Grundschule Harburg Neubau 1,5 5 431.592,00 €
-Inselschule Neuwerk Grundschule Hamburg-Mitte Neubau 5,0 k.A. 200.000,00 €
-Sanierung 5,0 k.A. 535.154,00 €
-Kurt-Juster - Schule Sonderschule Hamburg-Nord Neubau 3,6 k.A. 275.522,69 €
-Sanierung 3,6 k.A. 526.469,33 €
-Kurt-Körber-Gymnasium Stadtteilschule Hamburg-Mitte Neubau 2,9 2 318.000,00 €
-Lessing Stadtteilschule Stadtteilschule Harburg Sanierung 4,8 k.A. 521.907,17 €
-Maretstraße / Community Center Grundschule /
-Stadtteilschule Harburg Neubau 1,3 1 250.000,00 €
-Marion-Dönhoff-Gymnasium Gymnasium Altona Neubau 3,3 6 209.342,70 €
-Max-Brauer-Schule Grundschule /
-Stadtteilschule Altona Sanierung 4,1 5 60.048,88 €
-Max-Schmeling-Stadtteilschule Stadtteilschule Wandsbek-Süd Neubau 2,4 2 5.206.143,74 €
-Sanierung 2,4 2 1.915.293,60 €
-Otto-Hahn-Schule Stadtteilschule Wandsbek-Süd Sanierung 3,6 2 3.370.886,50 €
-ReBBZ Hamburg-Mitte ReBBZ Hamburg-Mitte Sanierung 3,3 k.A. 886.562,22 €
-ReBBZ Harburg ReBBZ Harburg Neubau 3,1 k.A. 1.965.281,92 €
-Sanierung 3,1 k.A. 1.044.852,48 €
-Rönneburg Grundschule Harburg Sanierung 4,7 4 2.587.265,07 €
-Schule Alsterredder Grundschule Wandsbek-Nord Neubau 3,1 6 6.291.423,60 €
-Sanierung 3,1 6 547.754,70 €
+Schule;Schulform;Bezirk;Gebaeudeklasse2016Neubau;Kessfaktor2016Neubau;Plankosten2016Neubau;Gebaeudeklasse2016Sanierung;Kessfaktor2016Sanierung;Plankosten2016Sanierung
+Anne-Frank-Schule / Grundschule Karlshöhe mit Zweigstellen;Grundschule;Wandsbek-Süd;3,6;5;783.600,00 €;;;
+Anton-Rée-Schule Allermöhe;Grundschule;Bergedorf;3,0;3;4.712.349,60 €;3,0;3;528.776,10 €
+Brüder-Grimm-Schule;Stadtteilschule;Hamburg-Mitte;3,5;2;4.431.889,53 €;3,5;2;1.491.348,85 €
+Charlotte-Paulsen-Gymnasium;Gymnasium;Wandsbek-Süd;3,4;5;3.482.841,60 €;3,4;5;161.520,00 €
+Christianeum;Gymnasium;Altona;4,0;6;1.715.468,00 €;4,0;6;478.608,48 €
+Elbkinder Grundschule;Grundschule;Altona;3,1;6;1.719.841,20 €;3,1;6;965.853,51 €
+Elfenwiese;Förderschule;Harburg;3,0;0;60.000,00 €;;;
+Erich Kästner-Schule;Grundschule / Stadtteilschule;Wandsbek-Süd;2,8;3;1.636.992,00 €;2,8;3;6.308.397,62 €
+Friedrich-Ebert-Gymnasium;Gymnasium;Harburg;2,1;5;1.047.918,00 €;2,1;5;4.089.920,60 €
+Fritz-Schumacher-Schule;Stadtteilschule;Hamburg-Nord;4,5;4;175.000,00 €;4,5;4;2.264.693,76 €
+FSP II Staatliche Fachschule für Sozialpädagogik Altona;Berufsschule;HIBB;2,5;0;3.079.324,54 €;;;
+G 12 Staatl. Berufsschule Eidelstedt - STS Eidelstedt;Berufsschule;HIBB;4,0;0;6.695.391,48 €;4,0;0;177.672,00 €
+G 16 Berufliche Schule Farmsen;Berufsschule;HIBB;3,9;0;1.950.000,78 €;;;
+G 20 Gewerbeschule Verkehrstechnik;Berufsschule;HIBB;;;;4,0;0;120.648,92 €
+G 6 Gewerbeschule Holztechnik, Farbtechnik;Berufsschule;HIBB;3,0;0;2.857.094,99 €;3,0;0;143.454,55 €
+G 8 Berufl. Schule Recycling- u. Umwelttechnik;Berufsschule;HIBB;4,2;0;690.542,30 €;4,2;0;2.336.749,69 €
+G 9 Gewerbeschule Kraftfahrzeugtechnik;Berufsschule;HIBB;4,1;0;3.459.228,54 €;4,1;0;4.186.319,16 €
+Gelehrtenschule des Johanneums;Gymnasium;Hamburg-Nord;2,6;6;3.406.072,32 €;;;
+Goldbek-Schule;Grundschule;Hamburg-Nord;3,5;4;264.112,24 €;;;
+Grundschule Am Kiefernberg;Grundschule;Harburg;3,9;3;608.775,00 €;;;
+Grundschule an der Haake;Grundschule;Harburg;3,2;3;3.212.626,46 €;3,2;3;4.658.371,20 €
+Grundschule Archenholzstraße;Grundschule;Hamburg-Mitte;4,4;2;1.719.841,20 €;4,4;2;1.099.784,03 €
+Grundschule Eckerkoppel;Grundschule;Wandsbek-Süd;5,1;4;2.223.698,40 €;5,1;4;3.614.345,25 €
+Grundschule Fährstraße;Grundschule;Harburg;4,3;1;741.000,00 €;4,3;1;2.693.339,98 €
+Grundschule Goosacker / Stadtteilschule Goosacker;Grundschule;Altona;;;;4,7;4;860.838,20 €
+Grundschule Hasenweg;Grundschule;Wandsbek-Nord;3,5;5;833.862,40 €;3,5;5;2.056.771,94 €
+Grundschule Hoheluft;Grundschule;Eimsbüttel;;;;3,0;5;223.330,03 €
+Grundschule Rahewinkel;Grundschule;Hamburg-Mitte;;;;4,9;1;154.173,23 €
+Grundschule Sachsenweg;Grundschule;Eimsbüttel;3,2;5;252.000,00 €;;;
+Grundschule Schimmelmannstraße;Grundschule;Wandsbek-Süd;3,6;4;5.158.509,30 €;3,6;4;4.164.490,38 €
+Gymnasium Alstertal;Gymnasium;Hamburg-Nord;4,1;5;318.000,00 €;4,1;5;5.491.822,80 €
+Gymnasium Blankenese;Gymnasium;Altona;2,3;6;1.199.016,00 €;2,3;6;1.135.345,68 €
+Gymnasium Eppendorf;Gymnasium;Hamburg-Nord;3,1;6;361.200,00 €;;;
+Gymnasium Hamm;Gymnasium;Hamburg-Mitte;3,4;2;930.510,00 €;;;
+Gymnasium Hoheluft;Gymnasium;Eimsbüttel;;;;4,1;5;391.484,10 €
+Gymnasium Lohbrügge;Gymnasium;Bergedorf;;;;3,0;5;456.682,74 €
+Gymnasium Oberalster;Gymnasium;Wandsbek-Nord;2,0;5;1.719.841,20 €;2,0;5;1.949.488,50 €
+Gymnasium Rissen / Stadtteilschule Rissen;Stadtteilschule;Altona;3,0;6;15.587.533,61 €;;;
+Gyula Trebitsch Schule Tonndorf;Stadtteilschule;Wandsbek-Süd;;;;4,7;4;222.627,30 €
+H 18 Handelsschule Berliner Tor;Berufsschule;HIBB;;;;3,1;0;94.933,38 €
+H 3 Handelsschule u. Wirtschaftsgymnasium Schlankreye;Berufsschule;HIBB;;;;2,0;0;179.402,58 €
+Hansa-Gymnasium Bergedorf;Gymnasium;Bergedorf;;;;2,7;5;4.267.892,16 €
+Heinrich-Hertz-Schule;Stadtteilschule;Hamburg-Nord;;;;3,9;4;99.539,50 €
+Heinrich-Wolgast-Schule;Grundschule;Hamburg-Mitte;2,9;3;129.681,00 €;;;
+Ida Ehre Schule;Stadtteilschule;Eimsbüttel;4,1;3;297.000,00 €;4,1;3;5.435.367,04 €
+Ilse-Löwenstein-Schule;Stadtteilschule;Hamburg-Nord;;;;3,9;4;731.250,00 €
+In der Alten Forst;Grundschule;Harburg;1,5;5;431.592,00 €;;;
+Inselschule Neuwerk;Grundschule;Hamburg-Mitte;5,0;0;200.000,00 €;5,0;0;535.154,00 €
+Kurt-Juster - Schule;Sonderschule;Hamburg-Nord;3,6;0;275.522,69 €;3,6;0;526.469,33 €
+Kurt-Körber-Gymnasium;Stadtteilschule;Hamburg-Mitte;2,9;2;318.000,00 €;;;
+Lessing Stadtteilschule;Stadtteilschule;Harburg;;;;4,8;0;521.907,17 €
+Maretstraße / Community Center;Grundschule / Stadtteilschule;Harburg;1,3;1;250.000,00 €;;;
+Marion-Dönhoff-Gymnasium;Gymnasium;Altona;3,3;6;209.342,70 €;;;
+Max-Brauer-Schule;Grundschule / Stadtteilschule;Altona;;;;4,1;5;60.048,88 €
+Max-Schmeling-Stadtteilschule;Stadtteilschule;Wandsbek-Süd;2,4;2;5.206.143,74 €;2,4;2;1.915.293,60 €
+Otto-Hahn-Schule;Stadtteilschule;Wandsbek-Süd;;;;3,6;2;3.370.886,50 €
+ReBBZ Hamburg-Mitte;ReBBZ;Hamburg-Mitte;;;;3,3;0;886.562,22 €
+ReBBZ Harburg;ReBBZ;Harburg;3,1;0;1.965.281,92 €;3,1;0;1.044.852,48 €
+Rönneburg;Grundschule;Harburg;;;;4,7;4;2.587.265,07 €
+Schule Alsterredder;Grundschule;Wandsbek-Nord;3,1;6;6.291.423,60 €;3,1;6;547.754,70 €
+
+
+
+
+
 Bürgerschaft der Freien und Hansestadt Hamburg – 21. Wahlperiode Drucksache 21/2943
 17
 Anlage 􀀘
