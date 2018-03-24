@@ -1,0 +1,687 @@
+BSN;NAME;AnzahlAktiveLehrkraefte;DarunterAnzahlAktiveQuereinsteigende;Davon1FachQuereinsteigende;Davon2FachQuereinsteigende;AnteilQuereinsteigendeAnLehrkraefte
+01G01;Grundschule am Arkonaplatz;31;1;1;0;3%
+01G02;Papageno-Grundschule;38;5;0;5;13%
+01G04;Kastanienbaum-Grundschule;27;1;1;0;4%
+01G05;Grundschule Neues Tor;35;2;1;1;6%
+01G07;GutsMuths-Grundschule;26;2;1;1;8%
+01G08;Grundschule am Brandenburger Tor;42;1;1;0;2%
+01G10;City-Grundschule;26;1;0;1;4%
+01G11;Kurt-Tucholsky-Grundschule;50;5;2;3;10%
+01G15;Anne-Frank-Grundschule;25;1;1;0;4%
+01G16;Moabiter Grundschule;35;5;5;0;14%
+01G18;Carl-Bolle-Grundschule;35;7;4;3;20%
+01G19;Hansa-Grundschule;25;0;0;0;0%
+01G24;Gottfried-Röhl-Grundschule;43;4;2;2;9%
+01G25;Rudolf-Wissell-Grundschule;40;3;3;0;8%
+01G27;Gesundbrunnen-Grundschule;48;5;1;4;10%
+01G28;Brüder-Grimm-Grundschule;40;3;2;1;8%
+01G29;Wilhelm-Hauff-Grundschule;40;8;5;3;20%
+01G31;Wedding-Grundschule;46;5;0;5;11%
+01G32;Carl-Kraemer-Grundschule;43;10;2;8;23%
+01G35;Humboldthain-Grundschule;43;3;1;2;7%
+01G36;Andersen-Grundschule;29;2;1;1;7%
+01G37;Heinrich-Seidel-Grundschule;43;4;1;3;9%
+01G38;Gustav-Falke-Grundschule;33;4;2;2;12%
+01G39;Vineta-Grundschule;35;4;3;1;11%
+01G40;Möwensee-Grundschule;35;3;3;0;9%
+01G41;Erika-Mann-Grundschule;57;5;1;4;9%
+01G42;Anna-Lindh-Schule (Grundschule);69;3;2;1;4%
+01G43;Albert-Gutzmann-Schule (Grundschule);26;1;1;0;4%
+01G44;Allegro-Grundschule;36;1;1;0;3%
+01G45;Leo-Lionni-Grundschule;55;4;3;1;7%
+01G46;Grundschule am Koppenplatz;54;4;2;2;7%
+01G47;Miriam-Makeba-Grundschule;40;2;0;2;5%
+02G01;Spartacus-Grundschule;31;3;1;2;10%
+02G02;Hausburg-Grundschule;43;1;0;1;2%
+02G03;Justus-von-Liebig-Grundschule;41;5;2;3;12%
+02G04;Pettenkofer-Grundschule;32;3;3;0;9%
+02G07;Ludwig-Hoffmann-Grundschule;27;0;0;0;0%
+02G08;Grundschule am Traveplatz;27;1;0;1;4%
+02G09;Zille-Grundschule;29;0;0;0;0%
+02G10;Modersohn-Grundschule;32;0;0;0;0%
+02G11;Thalia-Grundschule;22;3;1;2;14%
+02G12;Kurt-Schumacher-Grundschule;26;3;2;1;12%
+02G13;Charlotte-Salomon-Grundschule;45;3;0;3;7%
+02G14;Galilei-Grundschule;33;0;0;0;0%
+02G16;Lenau-Grundschule;40;4;2;2;10%
+02G18;Nürtingen-Grundschule;56;2;1;1;4%
+02G19;Fanny-Hensel-Grundschule;28;1;0;1;4%
+02G20;Bürgermeister-Herz-Grundschule;37;0;0;0;0%
+02G21;Reinhardswald-Grundschule;46;1;0;1;2%
+02G22;Jens-Nydahl-Grundschule;42;4;2;2;10%
+02G23;Fichtelgebirge-Grundschule;36;3;2;1;8%
+02G24;Otto-Wels-Grundschule;58;5;1;4;9%
+02G26;Lemgo-Grundschule;36;3;2;1;8%
+02G27;Hunsrück-Grundschule;44;6;3;3;14%
+02G29;Heinrich-Zille-Grundschule;42;1;1;0;2%
+02G31;Adolf-Glaßbrenner-Grundschule;35;0;0;0;0%
+02G32;Clara-Grunwald-Grundschule;27;0;0;0;0%
+02G33;Aziz-Nesin-Grundschule;35;1;1;0;3%
+02G34;Jane-Goodall-Grundschule;27;1;0;1;4%
+02G35;Rosa-Parks-Grundschule;43;3;2;1;7%
+02G36;Blumen-Grundschule;56;2;2;0;4%
+03G01;Schule am Hamburger Platz (Grundschule);26;0;0;0;0%
+03G02;Heinrich-Roller-Grundschule;26;0;0;0;0%
+03G03;Grundschule am Kollwitzplatz;30;1;0;1;3%
+03G04;Grundschule an der Marie;29;0;0;0;0%
+03G05;Homer-Grundschule;34;4;1;3;12%
+03G06;Bötzow-Grundschule;27;1;1;0;4%
+03G08;Grundschule am Planetarium;44;6;2;4;14%
+03G09;Thomas-Mann-Grundschule;32;4;4;0;13%
+03G10;Grundschule am Hohen Feld;36;1;1;0;3%
+03G11;Schule am Falkplatz (Grundschule);39;1;1;0;3%
+03G12;Paul-Lincke-Grundschule;33;1;0;1;3%
+03G13;Rudolf-Dörrier-Grundschule;26;0;0;0;0%
+03G14;Bornholmer Grundschule;35;1;1;0;3%
+03G15;Schule am Senefelderplatz;26;2;0;2;8%
+03G16;Grundschule am Teutoburger Platz;29;1;0;1;3%
+03G17;Grundschule am Weißen See;30;2;0;2;7%
+03G18;Picasso-Grundschule;38;3;2;1;8%
+03G20;Grundschule im Moselviertel;26;2;1;1;8%
+03G21;Grundschule unter den Bäumen;24;1;0;1;4%
+03G22;Grundschule am Wasserturm;21;1;0;1;5%
+03G23;Grundschule Alt-Karow;18;1;0;1;6%
+03G24;Grundschule im Panketal;35;2;0;2;6%
+03G25;Carl-Humann-Grundschule;29;1;0;1;3%
+03G26;Arnold-Zweig-Grundschule;35;1;0;1;3%
+03G27;Elizabeth-Shaw-Grundschule;26;2;0;2;8%
+03G28;Grundschule im Hasengrund;33;1;1;0;3%
+03G29;Grundschule am Sandhaus;25;2;2;0;8%
+03G32;Grundschule an den Buchen;24;0;0;0;0%
+03G33;Jeanne-Barez-Schule (Grundschule);35;1;1;0;3%
+03G34;Mendel-Grundschule;37;3;1;2;8%
+03G35;Platanengrundschule;9;0;0;0;0%
+03G36;Elisabeth-Christinen-Grundschule;22;2;1;1;9%
+03G37;Klecks-Grundschule;29;3;0;3;10%
+03G38;Grundschule im Blumenviertel;33;1;0;1;3%
+03G39;Grundschule Wolkenstein;31;1;0;1;3%
+03G40;Schule am Birkenhof;29;2;2;0;7%
+03G41;Trelleborg-Schule (Grundschule);32;2;0;2;6%
+03G43;Grundschule Wilhelmsruh;27;0;0;0;0%
+03G44;Georg-Zacharias-Grundschule;20;1;0;1;5%
+03G45;Grundschule im Hofgarten;25;3;1;2;12%
+03G46;Grundschule im Eliashof;21;2;1;1;10%
+03G47;47. Schule (Grundschule);15;2;1;1;13%
+04G01;Eichendorff-Grundschule;32;1;0;1;3%
+04G02;Lietzensee-Grundschule;28;4;1;3;14%
+04G04;Joan-Miró-Grundschule;66;3;3;0;5%
+04G05;Dietrich-Bonhoeffer-Grundschule;22;0;0;0;0%
+04G06;Wald-Grundschule;29;0;0;0;0%
+04G07;Ludwig-Cauer-Grundschule;27;0;0;0;0%
+04G08;Mierendorff-Grundschule;38;5;4;1;13%
+04G09;Erwin-von-Witzleben-Grundschule;26;0;0;0;0%
+04G11;Helmuth-James-von-Moltke-Grundschule;38;6;2;4;16%
+04G12;Schinkel-Grundschule;41;4;0;4;10%
+04G13;Nehring-Grundschule;35;1;1;0;3%
+04G14;Reinhold-Otto-Grundschule;29;1;1;0;3%
+04G15;Charles-Dickens-Grundschule;39;2;2;0;5%
+04G17;Johann-Peter-Hebel-Grundschule;40;1;1;0;3%
+04G18;Ernst-Habermann-Grundschule;20;0;0;0;0%
+04G19;Grundschule am Rüdesheimer Platz;59;2;1;1;3%
+04G20;Katharina-Heinroth-Grundschule;40;0;0;0;0%
+04G21;Halensee-Grundschule;29;1;0;1;3%
+04G22;Grunewald-Grundschule;35;4;0;4;11%
+04G23;Alt-Schmargendorf-Grundschule;33;0;0;0;0%
+04G24;Carl-Orff-Grundschule;35;0;0;0;0%
+04G25;Cecilien-Schule (Grundschule);31;3;1;2;10%
+04G26;Birger-Forell-Grundschule;28;1;1;0;4%
+04G27;Judith-Kerr-Grundschule;33;1;1;0;3%
+05G01;Ernst-Ludwig-Heim-Grundschule;35;6;4;2;17%
+05G02;Grundschule am Eichenwald;30;1;0;1;3%
+05G04;Klosterfeld-Grundschule;34;4;1;3;12%
+05G05;Christoph-Földerich-Grundschule;44;3;0;3;7%
+05G06;Siegerland-Grundschule;33;3;0;3;9%
+05G07;Lynar-Grundschule;46;6;1;5;13%
+05G08;Konkordia-Grundschule;29;3;1;2;10%
+05G10;Grundschule am Birkenhain;28;2;1;1;7%
+05G11;Robert-Reinick-Grundschule;41;4;3;1;10%
+05G12;Grundschule am Weinmeisterhorn;23;3;1;2;13%
+05G13;Bernd-Ryke-Grundschule;34;2;1;1;6%
+05G14;Linden-Grundschule;40;3;2;1;8%
+05G15;Askanier-Grundschule;30;0;0;0;0%
+05G16;Zeppelin-Grundschule;19;1;1;0;5%
+05G17;Astrid-Lindgren-Grundschule;38;1;0;1;3%
+05G18;Grundschule im Beerwinkel;45;6;3;3;13%
+05G19;Grundschule am Ritterfeld;31;1;1;0;3%
+05G20;Carl-Schurz-Grundschule;35;7;3;4;20%
+05G21;Paul-Moor-Schule;33;2;2;0;6%
+05G22;Christian-Morgenstern-Grundschule;46;7;5;2;15%
+05G23;Grundschule am Brandwerder;25;2;2;0;8%
+05G24;Grundschule am Windmühlenberg;21;0;0;0;0%
+05G25;Grundschule am Wasserwerk;15;1;0;1;7%
+05G26;Grundschule am Amalienhof;34;3;2;1;9%
+05G27;Charlie-Rivel-Grundschule;44;5;3;2;11%
+05G28;Grundschule an der Pulvermühle;26;4;3;1;15%
+05G29;Mary-Poppins-Grundschule;32;4;2;2;13%
+05G30;30. Schule (Grundschule);50;9;5;4;18%
+06G01;Nord-Grundschule;30;2;2;0;7%
+06G02;Süd-Grundschule;28;1;1;0;4%
+06G03;Johannes-Tews-Grundschule;31;1;1;0;3%
+06G04;Erich-Kästner-Grundschule;27;1;0;1;4%
+06G05;Conrad-Schule (Grundschule);30;2;2;0;7%
+06G06;Mühlenau-Grundschule;50;2;2;0;4%
+06G07;Zinnowwald-Grundschule;33;3;1;2;9%
+06G08;Schweizerhof-Grundschule;33;1;0;1;3%
+06G09;Dreilinden-Grundschule;21;1;1;0;5%
+06G10;Grundschule am Buschgraben;21;1;0;1;5%
+06G12;Quentin-Blake-Grundschule;34;2;2;0;6%
+06G14;Sachsenwald-Grundschule;34;1;0;1;3%
+06G15;Dunant-Grundschule;36;0;0;0;0%
+06G16;Rothenburg-Grundschule;21;1;1;0;5%
+06G17;Grundschule am Insulaner;34;2;2;0;6%
+06G18;Athene-Grundschule;37;3;1;2;8%
+06G20;Alt-Lankwitzer Grundschule;31;1;0;1;3%
+06G21;Paul-Schneider-Grundschule;31;1;0;1;3%
+06G22;Giesensdorfer Grundschule;26;1;0;1;4%
+06G23;Kronach-Grundschule;33;0;0;0;0%
+06G24;Grundschule unter den Kastanien;30;1;0;1;3%
+06G25;Clemens-Brentano-Grundschule;32;1;0;1;3%
+06G26;Käthe-Kruse-Grundschule;24;0;0;0;0%
+06G27;Grundschule am Königsgraben;24;2;2;0;8%
+06G28;Ludwig-Bechstein-Grundschule;23;0;0;0;0%
+06G29;Grundschule am Karpfenteich;28;0;0;0;0%
+06G30;Mercator-Grundschule;35;2;1;1;6%
+06G31;Grundschule an der Bäke;33;2;2;0;6%
+06G32;Grundschule am Stadtpark Steglitz;37;2;0;2;5%
+06G33;Friedrich-Drake-Grundschule;14;1;0;1;7%
+07G01;Spreewald-Grundschule;28;2;2;0;7%
+07G02;Finow-Grundschule;44;2;1;1;5%
+07G03;Werbellinsee-Grundschule;37;1;1;0;3%
+07G05;Havelland-Grundschule;32;1;1;0;3%
+07G06;Sternberg-Grundschule;25;1;1;0;4%
+07G07;Lindenhof-Grundschule;29;0;0;0;0%
+07G10;Teltow-Grundschule;42;5;1;4;12%
+07G12;Scharmützelsee-Grundschule;38;1;0;1;3%
+07G13;Neumark-Grundschule;26;0;0;0;0%
+07G14;Löcknitz-Grundschule;26;1;0;1;4%
+07G15;Fläming-Grundschule;46;3;2;1;7%
+07G16;Ruppin-Grundschule;41;2;2;0;5%
+07G17;Stechlinsee-Grundschule;35;0;0;0;0%
+07G18;Grundschule am Barbarossaplatz;35;0;0;0;0%
+07G19;Paul-Simmel-Grundschule;37;1;0;1;3%
+07G20;Maria-Montessori-Grundschule;36;3;1;2;8%
+07G21;Grundschule auf dem Tempelhofer Feld;36;2;1;1;6%
+07G22;Paul-Klee-Grundschule;47;3;2;1;6%
+07G23;Schätzelberg-Grundschule;21;0;0;0;0%
+07G24;Tempelherren-Grundschule;25;4;3;1;16%
+07G25;Ludwig-Heck-Grundschule;32;1;1;0;3%
+07G26;Grundschule im Taunusviertel;24;4;1;3;17%
+07G27;Rudolf-Hildebrand-Grundschule;31;1;0;1;3%
+07G28;Kiepert-Grundschule;40;3;2;1;8%
+07G29;Käthe-Kollwitz-Grundschule;40;0;0;0;0%
+07G30;Annedore-Leber-Grundschule;41;3;1;2;7%
+07G31;Carl-Sonnenschein-Grundschule;29;3;1;2;10%
+07G32;Bruno-H.-Bürgel-Grundschule;33;4;1;3;12%
+07G34;Marienfelder Schule (Grundschule);41;4;4;0;10%
+07G35;Nahariya-Grundschule;41;2;2;0;5%
+07G36;Grundschule am Dielingsgrund;34;4;1;3;12%
+07G37;Ikarus-Grundschule;35;2;2;0;6%
+08G01;Rixdorfer Schule (Grundschule);35;1;0;1;3%
+08G02;Theodor-Storm-Schule (Grundschule);20;2;0;2;10%
+08G03;Hans-Fallada-Schule (Grundschule);40;1;1;0;3%
+08G05;Elbe-Schule (Grundschule);25;1;1;0;4%
+08G06;Karl-Weise-Schule (Grundschule);24;2;1;1;8%
+08G07;Hermann-Boddin-Schule (Grundschule);29;2;2;0;7%
+08G08;Karlsgarten-Schule (Grundschule);39;2;0;2;5%
+08G09;Regenbogen-Schule (Grundschule);43;1;0;1;2%
+08G11;Schliemann-Schule (Grundschule);31;3;0;3;10%
+08G12;Peter-Petersen-Schule (Grundschule);20;0;0;0;0%
+08G13;Bruno-Taut-Schule (Grundschule);30;2;2;0;7%
+08G14;Konrad-Agahd-Schule (Grundschule);28;5;4;1;18%
+08G15;Hermann-Sander-Schule (Grundschule);42;1;0;1;2%
+08G16;Hugo-Heimann-Schule (Grundschule);21;3;2;1;14%
+08G17;Richard-Schule (Grundschule);31;2;2;0;6%
+08G18;Eduard-Mörike-Schule (Grundschule);35;10;7;3;29%
+08G19;Herman-Nohl-Schule (Grundschule);49;7;2;5;14%
+08G20;Sonnen-Schule (Grundschule);31;5;2;3;16%
+08G21;Silberstein-Schule (Grundschule);25;6;4;2;24%
+08G22;Schule am Regenweiher (Grundschule);23;1;0;1;4%
+08G23;Zürich-Schule (Grundschule);31;3;3;0;10%
+08G24;Schule am Teltowkanal (Grundschule);28;2;2;0;7%
+08G25;Michael-Ende-Schule (Grundschule);25;2;1;1;8%
+08G26;Christoph-Ruden-Schule (Grundschule);25;2;2;0;8%
+08G27;Oskar-Heinroth-Schule (Grundschule);31;0;0;0;0%
+08G28;Matthias-Claudius-Schule (Grundschule);27;1;1;0;4%
+08G29;Wetzlar-Schule (Grundschule);29;0;0;0;0%
+08G30;Schule am Sandsteinweg (Grundschule);48;1;1;0;2%
+08G31;Janusz-Korczak-Schule (Grundschule);20;1;0;1;5%
+08G33;Schule am Fliederbusch (Grundschule);20;3;1;2;15%
+08G34;Lisa-Tetzner-Schule (Grundschule);29;1;0;1;3%
+08G35;Schule in der Köllnischen Heide (Grundschule);48;3;1;2;6%
+08G36;Löwenzahn-Schule (Grundschule);28;3;1;2;11%
+08G37;Rose-Oehmichen-Schule (Grundschule);18;0;0;0;0%
+09G01;Bouché-Schule (Grundschule);30;4;2;2;13%
+09G03;Schule am Heidekampgraben (Grundschule);25;4;1;3;16%
+09G04;Sonnenblumen-Schule (Grundschule);30;5;3;2;17%
+09G05;Schule am Ginkobaum (Grundschule);28;3;0;3;11%
+09G06;Melli-Beese-Schule (Grundschule);23;3;3;0;13%
+09G07;Schule an der alten Feuerwache (Grundschule);27;5;3;2;19%
+09G09;Heide-Schule (Grundschule);28;3;0;3;11%
+09G10;Schule am Berg (Grundschule);32;3;2;1;9%
+09G11;Schule am Pegasuseck (Grundschule);29;1;0;1;3%
+09G13;Schule am Altglienicker Wasserturm (Grundschule);15;2;2;0;13%
+09G14;Schule am Buntzelberg (Grundschule);29;0;0;0;0%
+09G15;Schule am Mohnweg (Grundschule);36;3;1;2;8%
+09G16;Wendenschloß-Schule (Grundschule);23;2;0;2;9%
+09G17;Uhlenhorst-Grundschule;26;1;1;0;4%
+09G18;Schule in der Köllnischen Vorstadt (Grundschule);34;2;1;1;6%
+09G19;Amtsfeld-Schule (Grundschule);32;3;3;0;9%
+09G20;Müggelheimer Schule (Grundschule);18;0;0;0;0%
+09G21;Edison-Grundschule;39;4;2;2;10%
+09G22;Schule an der Wuhlheide (Grundschule);38;2;1;1;5%
+09G23;Hauptmann-von-Köpenick-Schule (Grundschule);23;3;1;2;13%
+09G24;Müggelsee-Schule (Grundschule);21;1;1;0;5%
+09G25;Müggelschlößchen-Schule (Grundschule);23;1;1;0;4%
+09G26;Schule an den Püttbergen (Grundschule);28;1;0;1;4%
+09G27;Friedrichshagener Schule (Grundschule);29;2;2;0;7%
+09G29;Schmöckwitzer Insel-Schule (Grundschule);14;1;1;0;7%
+09G30;Kiefholz-Grundschule;21;4;1;3;19%
+10G01;Paavo-Nurmi-Grundschule;27;3;3;0;11%
+10G03;Selma-Lagerlöf-Grundschule;31;3;1;2;10%
+10G04;Falken-Grundschule;24;1;1;0;4%
+10G05;Ebereschen-Grundschule;27;1;0;1;4%
+10G07;Karl-Friedrich-Friesen-Grundschule;29;2;0;2;7%
+10G08;Wilhelm-Busch-Grundschule;38;3;3;0;8%
+10G09;Grundschule am Bürgerpark;29;1;1;0;3%
+10G10;Peter-Pan-Grundschule;40;4;1;3;10%
+10G11;Grundschule an der Mühle;28;2;2;0;7%
+10G12;Grundschule an der Geißenweide;31;1;1;0;3%
+10G13;Johann-Strauss-Grundschule;38;0;0;0;0%
+10G14;Grundschule unter dem Regenbogen;54;2;0;2;4%
+10G16;Grundschule am Fuchsberg;25;0;0;0;0%
+10G17;Beatrix-Potter-Grundschule;42;4;2;2;10%
+10G18;Pusteblume-Grundschule;41;7;4;3;17%
+10G19;Bücherwurm-Schule am Weiher (Grundschule);35;0;0;0;0%
+10G22;Kolibri-Grundschule;45;3;1;2;7%
+10G25;Grundschule am Schleipfuhl;35;0;0;0;0%
+10G26;Friedrich-Schiller-Grundschule;18;0;0;0;0%
+10G28;Grundschule am Hollerbusch;45;3;1;2;7%
+10G29;Grundschule an der Wuhle;32;0;0;0;0%
+10G30;Mahlsdorfer Grundschule;26;0;0;0;0%
+10G31;Franz-Carl-Achard-Grundschule;25;1;1;0;4%
+10G32;Kiekemal-Schule (Grundschule);27;0;0;0;0%
+10G33;Ulmen-Grundschule;34;1;1;0;3%
+10G34;34. Schule (Grundschule);17;0;0;0;0%
+11G01;Sonnenuhr-Schule (Grundschule);33;1;0;1;3%
+11G02;Schule am Roederplatz (Grundschule);34;5;2;3;15%
+11G03;Schule im Gutspark (Grundschule);33;2;1;1;6%
+11G05;Schule auf dem lichten Berg (Grundschule);30;5;3;2;17%
+11G06;Adam-Ries-Schule (Grundschule);27;2;0;2;7%
+11G07;Hermann-Gmeiner-Schule (Grundschule);28;5;2;3;18%
+11G08;Robinson-Schule (Grundschule);22;3;2;1;14%
+11G09;Bürgermeister-Ziethen-Schule (Grundschule);37;5;4;1;14%
+11G10;Schule im Ostseekarree (Grundschule);26;2;2;0;8%
+11G11;Bernhard-Grzimek-Schule (Grundschule);34;2;1;1;6%
+11G12;Lew-Tolstoi-Schule (Grundschule);36;2;1;1;6%
+11G13;Karlshorster Schule (Grundschule);36;3;2;1;8%
+11G14;Richard-Wagner-Schule (Grundschule);40;2;1;1;5%
+11G16;Schule an der Victoriastadt (Grundschule);29;0;0;0;0%
+11G17;Brodowin-Schule (Grundschule);39;3;1;2;8%
+11G18;Schule am Wilhelmsberg (Grundschule);35;3;0;3;9%
+11G19;Obersee-Schule (Grundschule);27;3;1;2;11%
+11G21;Schule am Faulen See (Grundschule);27;1;1;0;4%
+11G22;Martin-Niemöller-Grundschule;45;6;4;2;13%
+11G23;Friedrichsfelder Schule (Grundschule);33;3;3;0;9%
+11G25;Schule am Wäldchen (Grundschule);33;2;0;2;6%
+11G26;Randow-Schule (Grundschule);25;2;2;0;8%
+11G28;Feldmark-Schule (Grundschule);45;4;3;1;9%
+11G29;Matibi-Schule (Grundschule);37;1;0;1;3%
+11G31;Schmetterlings-Grundschule;18;2;2;0;11%
+11G32;32. Schule (Grundschule);10;0;0;0;0%
+12G01;Havelmüller-Grundschule;24;2;2;0;8%
+12G02;Grundschule am Schäfersee;36;4;2;2;11%
+12G03;Reginhard-Grundschule;32;5;3;2;16%
+12G04;Till-Eulenspiegel-Grundschule;28;1;0;1;4%
+12G05;Kolumbus-Grundschule;47;7;6;1;15%
+12G06;Hausotter-Grundschule;32;1;1;0;3%
+12G07;Mark-Twain-Grundschule;37;2;0;2;5%
+12G09;Grundschule an der Peckwisch;40;4;1;3;10%
+12G10;Peter-Witte-Grundschule;24;1;0;1;4%
+12G11;Ringelnatz-Grundschule;24;2;1;1;8%
+12G12;Borsigwalder Grundschule;31;3;1;2;10%
+12G13;Franz-Marc-Grundschule;31;2;1;1;6%
+12G14;Alfred-Brehm-Grundschule;26;2;1;1;8%
+12G15;Hoffmann-von-Fallersleben-Grundschule;26;1;1;0;4%
+12G17;Ellef-Ringnes-Grundschule;23;2;1;1;9%
+12G18;Grundschule am Tegelschen Ort;27;0;0;0;0%
+12G19;Münchhausen-Grundschule;29;2;0;2;7%
+12G20;Grundschule am Vierrutenberg;28;2;1;1;7%
+12G21;Grundschule am Fließtal;31;0;0;0;0%
+12G22;Gustav-Dreyer-Grundschule;29;0;0;0;0%
+12G23;Victor-Gollancz-Grundschule;41;0;0;0;0%
+12G24;Renée-Sintenis-Grundschule;33;0;0;0;0%
+12G26;Märkische Grundschule;38;0;0;0;0%
+12G27;Chamisso-Grundschule;44;3;3;0;7%
+12G28;Grundschule in den Rollbergen;30;5;3;2;17%
+12G29;Hermann-Schulz-Grundschule;33;2;2;0;6%
+12G30;Reineke-Fuchs-Grundschule;40;2;0;2;5%
+12G32;Charlie-Chaplin-Grundschule;40;1;1;0;3%
+12G33;Lauterbach-Grundschule;50;3;0;3;6%
+12G34;Otfried-Preußler-Grundschule;37;2;2;0;5%
+01K01;Willy-Brandt-Schule;52;11;4;7;21%
+01K02;Ernst-Schering-Schule;56;4;1;3;7%
+01K03;Ernst-Reuter-Schule;111;12;3;9;11%
+01K04;Heinrich-von-Stephan-Schule (Gemeinschaftsschule);69;3;0;3;4%
+01K06;Herbert-Hoover-Schule (Integrierte Sekundarschule);47;2;0;2;4%
+01K07;Hemingway-Schule;44;2;0;2;5%
+01K08;Schule am Schillerpark (Integrierte Sekundarschule);66;2;0;2;3%
+01K09;Hedwig-Dohm-Schule (Integrierte Sekundarschule);49;3;1;2;6%
+01K10;Theodor-Heuss-Gemeinschaftsschule;106;3;2;1;3%
+02K01;Ellen-Key-Schule;72;0;0;0;0%
+02K02;Carl-von-Ossietzky-Schule (Gemeinschaftsschule);131;6;2;4;5%
+02K03;Hector-Peterson-Schule;36;2;1;1;6%
+02K04;Lina-Morgenstern-Schule (Gemeinschaftsschule);60;0;0;0;0%
+02K05;Schule am Königstor (Integrierte Sekundarschule);46;4;2;2;9%
+02K06;Emanuel-Lasker-Schule;39;4;3;1;10%
+02K07;Georg-Weerth-Schule;36;0;0;0;0%
+02K08;Refik-Veseli-Schule (Integrierte Sekundarschule);59;2;0;2;3%
+02K09;Albrecht-von-Graefe-Schule (Integrierte Sekundarschule);24;1;1;0;4%
+02K10;Ferdinand-Freiligrath-Schule (Integrierte Sekundarschule);33;0;0;0;0%
+03K01;Kurt-Schwitters-Schule;88;3;0;3;3%
+03K02;Kurt-Tucholsky-Schule (Integrierte Sekundarschule);69;0;0;0;0%
+03K03;Konrad-Duden-Schule (Integrierte Sekundarschule);34;1;0;1;3%
+03K04;Gustave-Eiffel-Schule;39;1;0;1;3%
+03K05;Heinz-Brandt-Schule;44;2;1;1;5%
+03K06;Reinhold-Burger-Schule;46;4;2;2;9%
+03K07;Tesla-Schule (Gemeinschaftsschule);41;1;1;0;2%
+03K08;Hagenbeck-Schule;38;1;0;1;3%
+03K09;Janusz-Korczak-Schule (Integrierte Sekundarschule);31;0;0;0;0%
+03K10;Hufeland-Schule (Integrierte Sekundarschule);48;3;1;2;6%
+03K11;Wilhelm-von-Humboldt-Schule (Gemeinschaftsschule);72;6;1;5;8%
+04A08;Sportschule im Olympiapark - Poelchau-Schule;57;4;0;4;7%
+04K02;Friedensburg-Schule;109;0;0;0;0%
+04K03;Robert-Jungk-Schule;101;0;0;0;0%
+04K04;Nelson-Mandela-Schule;140;0;0;0;0%
+04K05;Paula-Fürst-Schule (Gemeinschaftsschule);94;4;2;2;4%
+04K06;Schule am Schloss (Integrierte Sekundarschule);46;1;0;1;2%
+04K07;Integrierte Sekundarschule Wilmersdorf;35;2;0;2;6%
+04K08;Peter-Ustinov-Schule;58;6;3;3;10%
+04K09;Otto-von-Guericke-Schule (Integrierte Sekundarschule);41;2;0;2;5%
+05K01;Martin-Buber-Oberschule (Integrierte Sekundarschule);95;1;0;1;1%
+05K02;Carlo-Schmid-Oberschule (Integrierte Sekundarschule);94;6;2;4;6%
+05K03;Bertolt-Brecht-Oberschule (Integrierte Sekundarschule);103;4;0;4;4%
+05K04;Heinrich-Böll-Oberschule (Integrierte Sekundarschule);87;9;3;6;10%
+05K05;B.-Traven-Gemeinschaftsschule;42;3;1;2;7%
+05K06;Wolfgang-Borchert-Schule (Integrierte Sekundarschule);52;1;1;0;2%
+05K07;Schule an der Jungfernheide (Integrierte Sekundarschule);44;1;0;1;2%
+05K08;Schule an der Haveldüne (Integrierte Sekundarschule);65;1;1;0;2%
+05K09;Schule am Staakener Kleeblatt (Integrierte Sekundarschule);27;2;2;0;7%
+06K01;John-F.-Kennedy-Schule;150;1;0;1;1%
+06K02;Wilma-Rudolph-Schule (Integrierte Sekundarschule);90;1;0;1;1%
+06K03;Kopernikus-Schule (Integrierte Sekundarschule);83;4;2;2;5%
+06K04;Bröndby-Schule (Integrierte Sekundarschule);98;3;1;2;3%
+06K08;Max-von-Laue-Schule;42;2;0;2;5%
+06K09;Gail-S.-Halvorsen-Integrierte Sekundarschule;46;5;2;3;11%
+06K10;Helene-Lange-Schule (Integrierte Sekundarschule);51;0;0;0;0%
+06K11;Anna-Essinger-Gemeinschaftsschule;95;7;2;5;7%
+07K01;Sophie-Scholl-Schule;118;1;0;1;1%
+07K02;Carl-Zeiss-Schule;92;3;0;3;3%
+07K03;Gustav-Heinemann-Oberschule;107;1;0;1;1%
+07K04;Theodor-Haubach-Schule;36;2;0;2;6%
+07K05;Solling-Schule;46;2;1;1;4%
+07K06;Georg-von-Giesche-Schule;50;2;1;1;4%
+07K07;Johanna-Eck-Schule (Integrierte Sekundarschule);61;0;0;0;0%
+07K09;Gustav-Langenscheidt-Schule;40;0;0;0;0%
+07K10;Friedrich-Bergius-Schule;39;0;0;0;0%
+07K11;Hugo-Gaudig-Schule;45;2;1;1;4%
+07K12;Friedenauer Gemeinschaftsschule;84;4;1;3;5%
+07K13;Schule am Berlinickeplatz (Integrierte Sekundarschule);36;2;1;1;6%
+08K01;Walter-Gropius-Schule (Gemeinschaftsschule);95;2;0;2;2%
+08K02;Hermann-von-Helmholtz-Schule;72;10;3;7;14%
+08K03;Otto-Hahn-Schule;74;5;0;5;7%
+08K04;Heinrich-Mann-Schule;40;6;2;4;15%
+08K05;Clay-Schule;105;4;0;4;4%
+08K06;Fritz-Karsen-Schule (Gemeinschaftsschule);117;6;2;4;5%
+08K08;Gemeinschaftsschule auf dem Campus Rütli;85;0;0;0;0%
+08K09;Röntgen-Schule;43;1;0;1;2%
+08K10;Zuckmayer-Schule;40;4;0;4;10%
+08K11;Alfred-Nobel-Schule;55;2;0;2;4%
+08K12;Kepler-Schule;38;3;0;3;8%
+08K13;Gemeinschaftsschule Campus Efeuweg;76;11;6;5;14%
+09A07;Flatow-Oberschule;39;0;0;0;0%
+09K01;Merian-Schule (Integrierte Sekundarschule);78;1;0;1;1%
+09K02;Anna-Seghers-Schule (Gemeinschaftsschule);91;2;1;1;2%
+09K03;Fritz-Kühn-Schule (Integrierte Sekundarschule);36;3;2;1;8%
+09K04;Isaac-Newton-Schule (Integrierte Sekundarschule);34;0;0;0;0%
+09K05;Wilhelm-Bölsche-Schule (Integrierte Sekundarschule);43;1;0;1;2%
+09K06;Hans-Grade-Schule (Integrierte Sekundarschule);36;1;1;0;3%
+09K07;Sophie-Brahe-Gemeinschaftsschule;66;3;0;3;5%
+09K08;Schule an der Dahme (Integrierte Sekundarschule);39;0;0;0;0%
+09K09;Grünauer Gemeinschaftsschule;73;3;1;2;4%
+10K01;Rudolf-Virchow-Schule;97;6;1;5;6%
+10K02;Ernst-Haeckel-Schule;58;0;0;0;0%
+10K03;Kerschensteiner-Schule;26;0;0;0;0%
+10K05;Jean-Piaget-Schule;42;0;0;0;0%
+10K06;Georg-Klingenberg-Schule;32;3;0;3;9%
+10K07;Caspar-David-Friedrich-Schule;45;2;1;1;4%
+10K08;Johann-Julius-Hecker-Schule;36;0;0;0;0%
+10K09;Konrad-Wachsmann-Schule;39;1;1;0;3%
+10K10;Wolfgang-Amadeus-Mozart-Schule (Gemeinschaftsschule);68;7;2;5;10%
+10K11;Marcana-Schule (Gemeinschaftsschule);22;1;0;1;5%
+10K12;Gretel-Bergmann-Gemeinschaftsschule;93;5;2;3;5%
+11A07;Schul- und Leistungssportzentrum Berlin (Sportforum);141;1;1;0;1%
+11K01;Alexander-Puschkin-Schule;42;0;0;0;0%
+11K02;Mildred-Harnack-Schule;73;3;1;2;4%
+11K04;Gutenberg-Schule;72;0;0;0;0%
+11K05;Fritz-Reuter-Schule;66;2;2;0;3%
+11K06;Schule am Rathaus;34;0;0;0;0%
+11K07;Vincent-van-Gogh-Schule (Integrierte Sekundarschule);42;2;1;1;5%
+11K08;George-Orwell-Schule;36;1;0;1;3%
+11K09;Philipp-Reis-Schule (Integrierte Sekundarschule);39;3;1;2;8%
+11K10;Grüner Campus Malchow (Gemeinschaftsschule);140;20;9;11;14%
+11K11;Paul-Schmidt-Schule (Integrierte Sekundarschule);42;0;0;0;0%
+11K12;Paul-und-Charlotte-Kniese-Schule (Gemeinschaftsschule);60;7;1;6;12%
+12K01;Julius-Leber-Schule;40;3;0;3;8%
+12K02;Bettina-von-Arnim-Schule;131;7;0;7;5%
+12K03;Max-Beckmann-Schule (Integrierte Sekundarschule);94;4;1;3;4%
+12K04;Paul-Löbe-Schule;54;2;1;1;4%
+12K05;Gustav-Freytag-Schule (Integrierte Sekundarschule);44;3;2;1;7%
+12K06;Benjamin-Franklin-Schule (Integrierte Sekundarschule);45;5;0;5;11%
+12K07;Jean-Krämer-Schule (Integrierte Sekundarschule) Wittenau;58;5;0;5;9%
+12K09;Carl-Benz-Schule (Integrierte Sekundarschule);37;1;0;1;3%
+12K10;Carl-Bosch-Schule;38;2;1;1;5%
+12K11;Albrecht-Haushofer-Schule;33;2;1;1;6%
+12K12;Campus Hannah Höch (Gemeinschaftsschule);67;6;1;5;9%
+01Y02;John-Lennon-Gymnasium;67;1;0;1;1%
+01Y04;Musikgymnasium Carl Philipp Emanuel Bach;17;0;0;0;0%
+01Y07;Französisches Gymnasium;64;0;0;0;0%
+01Y08;Lessing-Gymnasium;76;4;0;4;5%
+01Y09;Diesterweg-Schule (Gymnasium);50;1;0;1;2%
+01Y11;Max-Planck-Schule (Gymnasium);67;0;0;0;0%
+01Y12;Gymnasium Tiergarten;85;1;0;1;1%
+02Y01;Andreas-Gymnasium;70;0;0;0;0%
+02Y03;Heinrich-Hertz-Gymnasium;46;0;0;0;0%
+02Y04;Georg-Friedrich-Händel-Gymnasium;45;1;0;1;2%
+02Y05;Dathe-Gymnasium;68;0;0;0;0%
+02Y06;Leibniz-Gymnasium;68;0;0;0;0%
+02Y07;Robert-Koch-Gymnasium;48;1;0;1;2%
+02Y08;Hermann-Hesse-Gymnasium;51;2;0;2;4%
+03Y03;Käthe-Kollwitz-Gymnasium;68;0;0;0;0%
+03Y04;Heinrich-Schliemann-Gymnasium;70;4;0;4;6%
+03Y08;Carl-von-Ossietzky-Gymnasium;80;2;0;2;3%
+03Y10;Rosa-Luxemburg-Gymnasium;94;8;0;8;9%
+03Y13;Felix-Mendelssohn-Bartholdy-Gymnasium;69;1;0;1;1%
+03Y14;Primo-Levi-Gymnasium;92;0;0;0;0%
+03Y15;Max-Delbrück-Gymnasium;74;0;0;0;0%
+03Y16;Robert-Havemann-Gymnasium;74;1;0;1;1%
+03Y17;17. Schule (Gymnasium);19;1;1;0;5%
+04Y01;Schiller-Gymnasium;82;1;1;0;1%
+04Y02;Wald-Gymnasium;63;0;0;0;0%
+04Y03;Sophie-Charlotte-Gymnasium;77;0;0;0;0%
+04Y04;Gottfried-Keller-Gymnasium;66;0;0;0;0%
+04Y05;Herder-Gymnasium;54;1;0;1;2%
+04Y06;Heinz-Berggruen-Gymnasium;72;1;1;0;1%
+04Y07;Friedrich-Ebert-Gymnasium;70;0;0;0;0%
+04Y08;Hildegard-Wegscheider-Gymnasium;43;3;0;3;7%
+04Y09;Walther-Rathenau-Gymnasium;43;1;0;1;2%
+04Y10;Marie-Curie-Gymnasium;61;0;0;0;0%
+04Y11;Goethe-Gymnasium;46;0;0;0;0%
+05Y01;Freiherr-vom-Stein-Gymnasium;68;4;0;4;6%
+05Y02;Kant-Gymnasium;52;2;0;2;4%
+05Y03;Hans-Carossa-Gymnasium;84;1;0;1;1%
+05Y04;Carl-Friedrich-von-Siemens-Gymnasium;46;5;4;1;11%
+05Y05;Lily-Braun-Gymnasium;58;3;1;2;5%
+06Y01;Schadow-Gymnasium;101;1;0;1;1%
+06Y02;Droste-Hülshoff-Gymnasium;71;0;0;0;0%
+06Y03;Arndt-Gymnasium Dahlem;64;0;0;0;0%
+06Y04;Dreilinden-Gymnasium;52;1;1;0;2%
+06Y05;Werner-von-Siemens-Gymnasium;61;0;0;0;0%
+06Y06;Beethoven-Gymnasium;71;0;0;0;0%
+06Y07;Paulsen-Gymnasium;54;2;0;2;4%
+06Y08;Hermann-Ehlers-Gymnasium;50;3;0;3;6%
+06Y09;Fichtenberg-Oberschule;69;1;1;0;1%
+06Y10;Lilienthal-Gymnasium;58;1;0;1;2%
+06Y11;Goethe-Gymnasium Lichterfelde;66;0;0;0;0%
+06Y12;Willi-Graf-Gymnasium;46;0;0;0;0%
+06Y13;Gymnasium Steglitz;72;0;0;0;0%
+07Y01;Robert-Blum-Gymnasium;64;2;0;2;3%
+07Y02;Rückert-Gymnasium;57;0;0;0;0%
+07Y03;Rheingau-Gymnasium;63;0;0;0;0%
+07Y04;Paul-Natorp-Gymnasium;65;2;0;2;3%
+07Y05;Luise-Henriette-Gymnasium;54;1;0;1;2%
+07Y06;Askanisches Gymnasium;52;0;0;0;0%
+07Y07;Eckener-Gymnasium;62;1;0;1;2%
+07Y08;Ulrich-von-Hutten-Gymnasium;64;0;0;0;0%
+07Y09;Georg-Büchner-Gymnasium;50;0;0;0;0%
+08Y01;Albrecht-Dürer-Gymnasium;48;0;0;0;0%
+08Y02;Albert-Schweitzer-Gymnasium;55;1;1;0;2%
+08Y03;Albert-Einstein-Gymnasium;101;1;0;1;1%
+08Y04;Ernst-Abbe-Gymnasium;47;2;0;2;4%
+08Y05;Leonardo-da-Vinci-Gymnasium;62;1;0;1;2%
+08Y06;Hannah-Arendt-Gymnasium;60;2;0;2;3%
+09Y03;Archenhold-Gymnasium;49;1;0;1;2%
+09Y04;Anne-Frank-Gymnasium;65;0;0;0;0%
+09Y05;Alexander-von-Humboldt-Gymnasium;49;1;0;1;2%
+09Y06;Gerhart-Hauptmann-Gymnasium;54;0;0;0;0%
+09Y10;Gebrüder-Montgolfier-Gymnasium;63;0;0;0;0%
+09Y11;Emmy-Noether-Gymnasium;67;0;0;0;0%
+10Y01;Tagore-Gymnasium;65;2;1;1;3%
+10Y02;Otto-Nagel-Gymnasium;62;1;0;1;2%
+10Y03;Wilhelm-von-Siemens-Gymnasium;66;1;0;1;2%
+10Y08;Sartre-Gymnasium;53;2;1;1;4%
+10Y11;Melanchthon-Gymnasium;60;0;0;0;0%
+11Y02;Johann-Gottfried-Herder-Gymnasium;68;3;0;3;4%
+11Y05;Hans-und-Hilde-Coppi-Oberschule;53;0;0;0;0%
+11Y09;Barnim-Gymnasium;98;1;0;1;1%
+11Y10;Manfred-von-Ardenne-Gymnasium;46;0;0;0;0%
+11Y11;Immanuel-Kant-Gymnasium;59;0;0;0;0%
+12Y01;Friedrich-Engels-Gymnasium;79;1;0;1;1%
+12Y02;Europäisches Gymnasium Bertha-von-Suttner;92;3;1;2;3%
+12Y03;Humboldt-Gymnasium;101;5;1;4;5%
+12Y04;Gabriele-von-Bülow-Gymnasium;66;0;0;0;0%
+12Y05;Georg-Herwegh-Gymnasium;71;3;0;3;4%
+12Y06;Schulfarm Insel Scharfenberg;46;2;0;2;4%
+12Y07;Romain-Rolland-Gymnasium;80;0;0;0;0%
+12Y08;Thomas-Mann-Gymnasium;74;0;0;0;0%
+01S01;Schule am Zille-Park;34;3;2;1;9%
+01S05;Schule in der Charité;55;1;0;1;2%
+01S06;Albert-Gutzmann-Schule;32;3;1;2;9%
+01S07;Charlotte-Pfeffer-Schule;23;1;0;1;4%
+02S01;Temple-Grandin-Schule;38;0;0;0;0%
+02S02;Gustav-Meyer-Schule;33;4;2;2;12%
+02S03;Margarethe-von-Witzleben-Schule;40;3;1;2;8%
+02S06;Liebmann-Schule;19;3;1;2;16%
+03S03;Helene-Haeusler-Schule;35;0;0;0;0%
+03S06;Schule am Birkenhof;15;0;0;0;0%
+03S07;Schule an der Heide;12;0;0;0;0%
+03S08;Panke-Schule;24;0;0;0;0%
+03S09;Schule an der Strauchwiese;19;0;0;0;0%
+03S10;Marianne-Buggenhagen-Schule;46;3;2;1;7%
+04S02;Arno-Fuchs-Schule;32;0;0;0;0%
+04S04;Reinfelder-Schule;61;0;0;0;0%
+04S05;Ernst-Adolf-Eschke-Schule für Gehörlose;42;0;0;0;0%
+04S06;Finkenkrug-Schule;25;0;0;0;0%
+04S07;Comenius-Schule;101;3;1;2;3%
+05S01;Schule am Grüngürtel;15;0;0;0;0%
+05S03;Schule am Gartenfeld;28;2;2;0;7%
+05S04;Schule am Stadtrand;33;1;0;1;3%
+06S01;Pestalozzi-Schule;41;2;1;1;5%
+06S02;Biesalski-Schule;48;2;0;2;4%
+06S03;Peter-Frankenfeld-Schule;21;0;0;0;0%
+06S05;J.-A.-Zeune-Schule für Blinde und Berufsfachschule Dr. Silex;41;0;0;0;0%
+07S01;Prignitz-Schule;19;3;2;1;16%
+07S03;Steinwald-Schule;21;0;0;0;0%
+07S04;Marianne-Cohn-Schule;22;0;0;0;0%
+08S01;Adolf-Reichwein-Schule;30;1;1;0;3%
+08S04;Schule am Zwickauer Damm;30;2;0;2;7%
+08S05;Schule am Hasenhegerweg;13;0;0;0;0%
+08S06;Hans-Fallada-Schule;22;0;0;0;0%
+08S07;Schule am Bienwaldring;39;0;0;0;0%
+08S08;Schilling-Schule;53;2;2;0;4%
+08S09;Schule an der Windmühle;17;0;0;0;0%
+09S03;Albatros-Schule;29;1;0;1;3%
+09S04;Ahorn-Schule;28;1;1;0;4%
+09S05;Schule am Altglienicker Wasserturm;7;0;0;0;0%
+09S06;Schule am Wildgarten;30;0;0;0;0%
+10S04;Schule am Pappelhof;29;2;1;1;7%
+10S07;Schule am Rosenhain;39;0;0;0;0%
+10S08;Schule am Mummelsoll;30;1;0;1;3%
+11S02;Schule am Fennpfuhl;25;0;0;0;0%
+11S04;Paul-und-Charlotte-Kniese-Schule;9;1;1;0;11%
+11S05;Schule am grünen Grund;33;8;3;5;24%
+11S06;Selma-Lagerlöf-Schule;24;1;0;1;4%
+11S07;Carl-von-Linné-Schule;77;4;0;4;5%
+11S08;Schule am Breiten Luch;28;4;2;2;14%
+11S12;Nils-Holgersson-Schule;40;0;0;0;0%
+12S01;Stötzner-Schule;24;2;1;1;8%
+12S03;Lauterbach-Schule;30;0;0;0;0%
+12S04;Schule am Park;33;1;0;1;3%
+12S05;Wiesengrund-Schule;21;4;0;4;19%
+12S06;Toulouse-Lautrec-Schule;38;6;2;4;16%
+01A04;Berlin-Kolleg;66;0;0;0;0%
+03A04;Abendgymnasium Prenzlauer Berg;22;1;0;1;5%
+03A05;Volkshochschule Pankow;5;0;0;0;0%
+04A04;Charlotte-Wolff-Kolleg;30;1;0;1;3%
+04A06;Peter-A.-Silbermann-Schule;15;0;0;0;0%
+05A03;Volkshochschule Spandau;5;0;0;0;0%
+06A05;Volkshochschule Steglitz-Zehlendorf;19;0;0;0;0%
+07A05;Kolleg Schöneberg;40;0;0;0;0%
+07A06;Volkshochschule Tempelhof-Schöneberg;10;0;0;0;0%
+09A05;Treptow-Kolleg;39;0;0;0;0%
+09A06;Volkshochschule Treptow-Köpenick;6;0;0;0;0%
+10A04;Victor-Klemperer-Kolleg;43;0;0;0;0%
+01B01;OSZ Banken, Immobilien und Versicherungen;103;0;0;0;0%
+01B02;Staatliche Technikerschule Berlin;86;5;2;3;6%
+01B03;OSZ Kommunikations-, Informations- und Medientechnik;89;2;0;2;2%
+01B04;OSZ Gesundheit I;102;7;0;7;7%
+01B05;Staatliche Wirtschaftsfachschule für Hotellerie und Gastronomie Berlin;23;0;0;0;0%
+02B01;August-Sander-Schule;93;1;0;1;1%
+02B02;Hans-Böckler-Schule (OSZ Konstruktionsbautechnik);70;4;2;2;6%
+02B03;OSZ Bekleidung und Mode;69;1;0;1;1%
+02B04;OSZ Handel 1;200;0;0;0;0%
+02B05;Jane-Addams-Schule (OSZ Sozialwesen);144;6;0;6;4%
+03B02;Berufliche Schule für Sozialwesen Pankow;57;1;0;1;2%
+03B04;Brillat-Savarin-Schule (OSZ Gastgewerbe);151;0;0;0;0%
+03B06;Konrad-Zuse-Oberschule;44;0;0;0;0%
+03B07;Elinor-Ostrom-Schule (OSZ Bürowirtschaft und Dienstleistungen);93;2;0;2;2%
+03B08;Staatliche Ballettschule Berlin und Schule für Artistik;68;0;0;0;0%
+03B10;OSZ Bau- und Holztechnik;181;4;1;3;2%
+04B01;Loschmidt-Oberschule;51;0;0;0;0%
+04B02;Hans-Litten-Schule (OSZ Recht und Wirtschaft);119;5;0;5;4%
+04B03;OSZ Kraftfahrzeugtechnik;71;4;0;4;6%
+04B04;Ruth-Cohn-Schule (OSZ Sozialwesen);92;3;1;2;3%
+04B05;Anna-Freud-Schule (OSZ Sozialwesen);140;9;1;8;6%
+04B06;Leopold-Ullstein-Schule (OSZ Wirtschaft);63;1;0;1;2%
+04B07;OSZ Körperpflege;68;1;0;1;1%
+04B08;Kläre-Bloch-Schule;22;0;0;0;0%
+05B01;OSZ TIEM (Technische Informatik, Industrieelektronik und EnergieManagement);102;4;0;4;4%
+05B02;Knobelsdorff-Schule (OSZ Bautechnik I);144;2;0;2;1%
+06B01;Peter-Lenné-Schule (OSZ Natur und Umwelt);85;2;1;1;2%
+06B02;Louise-Schroeder-Schule (OSZ Bürowirtschaft und Verwaltung);146;1;0;1;1%
+06B03;OSZ Bürowirtschaft I;77;0;0;0;0%
+06B04;Wilhelm-Ostwald-Schule (OSZ Gestaltung);99;3;1;2;3%
+07B02;Marie-Elisabeth-Lüders-Oberschule;47;2;0;2;4%
+07B03;OSZ Lotis (Logistik, Touristik und Steuern);117;1;0;1;1%
+08B01;Annedore-Leber-Oberschule;53;1;0;1;2%
+08B02;Lise-Meitner-Schule (OSZ Chemie, Physik und Biologie);122;6;0;6;5%
+08B04;OSZ Informations- und Medizintechnik;144;12;2;10;8%
+08B05;Carl-Legien-Schule;32;0;0;0;0%
+09B03;Hermann-Scheer-Schule (OSZ Wirtschaft);83;3;1;2;4%
+10B01;Oscar-Tietz-Schule (OSZ Handel II);78;0;0;0;0%
+10B02;Rahel-Hirsch-Schule (OSZ Gesundheit/Medizin);84;3;0;3;4%
+11B01;Hein-Moeller-Schule (OSZ Energietechnik II);63;10;2;8;16%
+11B02;Max-Taut-Schule (OSZ Gebäude, Umwelt, Technik);102;10;3;7;10%
+11B04;Friedrich-List-Schule (OSZ Büromanagement und Wirtschaftssprachen);86;2;0;2;2%
+12B01;Georg-Schlesinger-Schule (OSZ Maschinenund Fertigungstechnik);84;6;2;4;7%
+12B02;Emil-Fischer-Schule (OSZ Ernährung und Lebensmitteltechnik);119;3;0;3;3%
+12B03;Ernst-Litfaß-Schule (OSZ Mediengestaltung und Medientechnologie);83;3;0;3;4%
