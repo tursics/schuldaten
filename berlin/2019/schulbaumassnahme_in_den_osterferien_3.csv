@@ -1,0 +1,243 @@
+Schulname;Bezirk;Raum;Fenster;Fassade;Dach;Sanitär;Elektro;Akustik;Brandschutz;Maler;Boden;Schliessanlage;Amok;Heizung;Barrierefreiheit;AulaMensa;Sport;Komplett;Gesundheit;Sonstiges;Schulbaumaßnahme;KostenInEuroBrutto;BSN;Strasse;PLZ;Schulart;lat;lng
+Kurt-Tucholsky-Grundschule;Mitte;;X;;;;;;;;;;;;;;;;;;Sanierung Fenster (3.BA);209500;01G11;Rathenower Str. 18;10559;Grundschule;52.53026;13.35303
+Carl-Bolle-Grundschule;Mitte;;;;;X;;;;;;;;;;;;;;;Sanierung WC-Anlagen (3.BA);390000;01G18;Waldenserstr. 20-21;10551;Grundschule;52.528894;13.331807
+Gesundbrunnen-Grundschule;Mitte;;;;;;;;;;;;;;;;;;;X;Umsetzung Schulkonzept;316900;01G27;Prinzenallee 8;13357;Grundschule;52.55338;13.38292
+Andersen-Grundschule;Mitte;;;;;X;;;;;;;;;;;;;;;Sanierung Jungen WC (2.BA);225800;01G36;Kattegatstr. 26;13359;Grundschule;52.56553;13.38891
+Anna-Lindh-Schule (Grundschule);Mitte;;;;X;;;;;;;;;;;;;;;;Sanierung Dächer;800000;01G42;Guineastr. 17-18;13351;Grundschule;52.550375;13.341886
+Allegro-Grundschule;Mitte;;;;;;;;;;;;;;;;X;;;;Sanierung Sporthalle;1144000;01G44;Lützowstr. 83-85;10785;Grundschule;52.503571;13.363001
+Leo-Lionni-Grundschule;Mitte;;;;X;;;;;;;;;;;;;;;;Sanierung Dächer;1100000;01G45;Müllerstr. 158;13353;Grundschule;52.544342;13.361352
+Charlotte-Pfeffer-Schule;Mitte;;;;;;;;;;;;;;;;;;;X;Umsetzung BPU (3.BA);6800000;01S07;Berolinastr. 8;10178;"Förderschwerp.""Geistige Entwicklung""";52.52226;13.42328
+Lessing-Gymnasium;Mitte;;X;;X;;;;;;;;;;;;;;;;Sanierung Dach und Fenster;1804000;01Y08;Schöningstr. 17;13349;Gymnasium;52.55734;13.34371
+Hausburg-Grundschule;Friedrichshain-Kreuzberg;X;X;X;X;;X;X;X;X;;;;;;;;;;;Dachsanierung, Fassade, Fenster, Innenräume, Elektrik, Akustik, Brandschutz, Maler;1250000;02G02;Hausburgstr. 20;10249;Grundschule;52.524208;13.454324
+Pettenkofer-Grundschule;Friedrichshain-Kreuzberg;;;;;;;X;;;X;;;;;;;;;;Schulgebäude: Akustik, Bodenbelag;300000;02G04;Pettenkoferstr. 20-24;10247;Grundschule;52.518656;13.471
+Kurt-Schumacher-Grundschule;Friedrichshain-Kreuzberg;;;;;;;;X;;;;;;;;;;;;Hauptgebäude: Komplettsanierung Brandschutz, 1. BA;758100;02G12;Puttkamerstr. 19;10969;Grundschule;52.504384;13.388493
+Charlotte-Salomon-Grundschule;Friedrichshain-Kreuzberg;X;;;;X;;X;X;;;;;;;;X;;;;"Hauptgebäude: Brandschutz, Sanitär, Akustik, pädagogische Sonderräume; Sporthalle: Sanitär";900000;02G13;Großbeerenstr. 40;10965;Grundschule;52.49041;13.38183
+Galilei-Grundschule;Friedrichshain-Kreuzberg;;;;;;;;;X;;X;X;;;;;;;;Hauptgebäude: Maler, Schließanlage, Amokbeschilderung;300550;02G14;Friedrichstr. 13;10969;Grundschule;52.501885;13.391531
+Nürtingen-Grundschule;Friedrichshain-Kreuzberg;;;;;;;;;;;;;;;;;X;;;Rotes Haus: Komplettsanierung;1900000;02G18;Mariannenplatz 28;10997;Grundschule;52.505469;13.426859
+Reinhardswald-Grundschule;Friedrichshain-Kreuzberg;;;X;X;;;;;;;;;;;;X;;;;Sporthalle: Außenhülle, Dach;1030000;02G21;Gneisenaustr. 73-74;10961;Grundschule;52.49059;13.3999
+Jens-Nydahl-Grundschule;Friedrichshain-Kreuzberg;X;;;X;;X;X;;;X;;;;;;X;;X;X;Sporthalle: Energetische Sanierung, KMF, Elektro, Beleuchtung, Rauabzüge, Unterdecke, Prallwände, Sportboden, Fußbodenheizung, Akustik, Sanitär, Gründach;800000;02G22;Kohlfurter Str. 20;10999;Grundschule;52.497294;13.41619
+Fichtelgebirge-Grundschule;Friedrichshain-Kreuzberg;;;X;X;;X;;;;;;;X;;;X;;;;Sporthalle: Außenhülle, Dach, Heizung, Beleuchtung;1000000;02G23;Görlitzer Ufer 2;10997;Grundschule;52.49575;13.44495
+Otto-Wels-Grundschule;Friedrichshain-Kreuzberg;;X;;X;X;;;X;;;;;;;;;;;;"Hauptgebäude: Sanierung Sanitär,Brandschutz; 3. BA Sanierung Flure, Dach Fenster";950000;02G24;Alexandrinenstr. 12;10969;Grundschule;52.499923;13.401623
+Lemgo-Grundschule;Friedrichshain-Kreuzberg;;;;;;;;;;;;;;;;;;;X;starke Beeinträchtigung auf Schulhof wegen Baustelleneinrichtung R.-Koch-Gymnasium;;02G26;Böckhstr. 5;10967;Grundschule;52.494198;13.416454
+Adolf-Glaßbrenner-Grundschule;Friedrichshain-Kreuzberg;;;;;;;;;;;;;;;;X;;;X;Sporthalle:Trinkwasserhygiene;115000;02G31;Hagelberger Str. 34;10965;Grundschule;52.49085;13.38065
+Clara-Grunwald-Grundschule;Friedrichshain-Kreuzberg;;;;;;;;;;;;;;;;;;;X;Schulgebäude: Trinkwasserhygiene;200000;02G32;Hallesche Str. 24;10963;Grundschule;52.50077;13.38313
+Schule am Königstor (Integrierte Sekundarschule);Friedrichshain-Kreuzberg;;;;;;;;;;;;;;X;;;;;;Schaffung Barrierefreiheit (Aufzug), 2. BA;110000;02K05;Weinstr. 3;10249;Integrierte Sekundarschule;52.525666;13.425987
+Georg-Weerth-Schule;Friedrichshain-Kreuzberg;X;;;;;;;;;;;;;;;;;;;Umbau und Schaffung von Arbeitsräumen;100000;02K07;Eckertstr. 16;10249;Integrierte Sekundarschule;52.518996;13.450401
+Refik-Veseli-Schule (Integrierte Sekundarschule);Friedrichshain-Kreuzberg;;;;;X;;;;;X;;;X;;;X;;;;Sanierung Sanitär Sporthalle, 3. BA, Sanierung Boden und Heizung Sporthalle;440000;02K08;Skalitzer Str. 55;10997;Integrierte Sekundarschule;52.49962;13.43555
+Ferdinand-Freiligrath-Schule (Integrierte Sekundarschule);Friedrichshain-Kreuzberg;X;X;;;X;;;;;;;;;;X;;;;;Sanierung Fachräume, Aula, Fenster, Sanitär;1450000;02K10;Bergmannstr. 64;10961;Integrierte Sekundarschule;52.488798;13.40149
+Gustav-Meyer-Schule;Friedrichshain-Kreuzberg;;;;;X;X;;X;;;;;;X;;;X;;;Brandschutz, KMF, Elektro, Beleuchtung, Sanitär, Sanierung SH inkl. Barrierefreiheit, Gesamtsanierung inkl. Schaffung Barrierefreiheit;2257000;02S02;Kohlfurter Str. 22;10999;"Förderschwerp.""Geistige Entwicklung""";52.497102;13.416721
+Andreas-Oberschule;Friedrichshain-Kreuzberg;;;;;;;;;;;;;X;;;;;;X;Feuchtesanierung, Fundamentunterfangung, Heizung;1500000;02Y01;Koppenstr. 76;10243;Gymnasium;52.514039;13.434606
+Georg-Friedrich-Händel-Gymnasium;Friedrichshain-Kreuzberg;;;;;;;X;;;;;;;;X;;;;X;Neubau Aula/Veranstaltungsraum (Akustikmaßnahmen, hydraulisches Hubpodest), 4. BA;245000;02Y04;Frankfurter Allee 6A;10247;Gymnasium;52.515331;13.455796
+Dathe-Gymnasium;Friedrichshain-Kreuzberg;X;;;;X;;;;;;;;;X;;;;;;Sanierung Räume, 2. BA, Sanierung Sanitär, Schaffung Barrierefreiheit (Aufzug);560000;02Y05;Helsingforser Str. 11-13;10243;Gymnasium;52.510001;13.445399
+Leibniz-Gymnasium;Friedrichshain-Kreuzberg;;;;;;;;X;;;;;;;;;;;X;Brandschutz, Hausalarm;400000;02Y06;Schleiermacherstr. 23;10961;Gymnasium;52.48978;13.39747
+Robert-Koch-Gymnasium;Friedrichshain-Kreuzberg;;;;;;;;;;;;;;;;;X;;X;Vorbereitung Aufstellung Unterrichtscontainer, Schulgebäude: Komplettsanierung;4834514;02Y07;Dieffenbachstr. 60;10967;Gymnasium;52.49323;13.41596
+Hermann-Hesse-Oberschule;Friedrichshain-Kreuzberg;X;;;;;;;;;;;;;X;;;X;;;Sanierung Fachräume, Komplettsanierung Gebäude, Aufzug;931606;02Y08;Böckhstr. 16;10967;Gymnasium;52.493579;13.419151
+Schule am Hamburger Platz (Grundschule);Pankow;X;;;;;;;;;;;;;;;;;;;Instandsetzung Klassenräume;70000;03G01;Gustav-Adolf-Str. 21;13086;Grundschule;52.55381;13.43681
+Heinrich-Roller-Grundschule;Pankow;;X;X;;;;;;;;;;;;;;;;;Sanierung Fassade und Fenster;715000;03G02;Heinrich-Roller-Str. 18;10405;Grundschule;52.53064;13.42364
+Schule am Falkplatz (Grundschule);Pankow;;;;;;;;;;;;;;;;X;;;X;Sanierung innenliegende Sporthalle und Treppenhäuser;850000;03G11;Gleimstr. 49;10437;Grundschule;52.54749;13.40538
+Paul-Lincke-Grundschule;Pankow;;;;;;;;;;;;;;X;X;;;;X;Sanierung Technische Gebäudeausrüstung, Mensa, Barrierefreiheit;1600000;03G12;Pieskower Weg 39;10409;Grundschule;52.54129;13.44553
+Bornholmer Grundschule;Pankow;;;;;;;;;X;X;;;;;;;;;;Maler- und Fußbodenbelagsarbeiten Klassenräume;12000;03G14;Ibsenstr. 17;10439;Grundschule;52.55572;13.40768
+Grundschule im Moselviertel;Pankow;;;;;;;;;X;;;;;;;;;;;Malerarbeiten Klassenräume;10000;03G20;Brodenbacher Weg 31;13088;Grundschule;52.559028;13.475454
+Grundschule im Panketal;Pankow;X;;;;;;;;;;;;;;;;;;;Umbau Hausmeisterwohnung zur Schulnutzung;160000;03G24;Achillesstr. 31;13125;Grundschule;52.61986;13.486729
+Elizabeth-Shaw-Grundschule;Pankow;;;;;X;;;;;;;;;;;X;;;;Sanierung Sanitär und Umkleide Sporthalle;1400000;03G27;Grunowstr. 17;13187;Grundschule;52.56831;13.41044
+Grundschule im Hasengrund;Pankow;;;;;;;;;;;;;;;X;;;;X;Mensa, Restarbeiten Medientechnik;70000;03G28;Charlottenstr. 19;13156;Grundschule;52.59089;13.410577
+Grundschule an den Buchen;Pankow;;;;;;;;X;;;;;;;;;;;;Brandschutzmaßnahmen;150000;03G32;Wilhelm-Wolff-Str. 19;13156;Grundschule;52.579207;13.394536
+Elisabeth-Christinen-Grundschule;Pankow;;;;;;;;;;;;;;;X;;;;;Sanierung Haus B, Mensa;2000000;03G36;Lindenberger Str. 12;13156;Grundschule;52.58294;13.41741
+Grundschule im Blumenviertel;Pankow;;;;;;;;;;;;;;;;;;;X;Bauwerksabdichtung, Drainage;550000;03G38;Syringenplatz 30;10407;Grundschule;52.535141;13.458074
+Trelleborg-Schule (Grundschule);Pankow;;;;X;;;;X;;;;;;;;;;;;"Sanierung Dach Thulestraße; Brandschutzmaßnahmen Rettungswege";100000;03G41;Eschengraben 40;13189;Grundschule;52.556012;13.421818
+Georg-Zacharias-Grundschule;Pankow;;;;;;;;;;;;;;;;X;;;;Sanierung Sporthalle;485000;03G44;Sulzfelder Str. 15;13088;Grundschule;52.55219;13.47502
+Heinz-Brandt-Schule;Pankow;;;X;;;;;;X;;;;;X;;X;;;;Sanierung Fassade Sporthalle, Barrierefreiheit, Arbeitslehrezentrum Malerarbeiten Treppenhäuser;160000;03K05;Langhansstr. 120;13086;Integrierte Sekundarschule;52.551192;13.441808
+Tesla-Schule (Gemeinschaftsschule);Pankow;;X;X;X;;;;;;;;;;;;;;;;Sanierung Dach, Fassade, Fenster;1700000;03K07;Rudi-Arndt-Str. 18;10407;Integrierte Sekundarschule;52.529086;13.446061
+Janusz-Korczak-Schule (Integrierte Sekundarschule);Pankow;;;;;;X;;;;;;;X;;;;;;;Restarbeiten Erneuerung Heizungsanlage,Regelung, Elektro und Nebenleistungen;150000;03K09;Dolomitenstr. 94;13187;Integrierte Sekundarschule;52.562908;13.407559
+Wilhelm-von-Humboldt-Schule (Gemeinschaftsschule);Pankow;;X;;;;;;;;;;;;;;;;;;Sanierung Metallfenster Fenster;300000;03K11;Erich-Weinert-Str. 70;10439;Integrierte Sekundarschule;52.54845;13.42476
+Schule an der Strauchwiese;Pankow;;;;;;;;;X;;;;;;;;;;;Malerarbeiten Klassenräume;12000;03S09;Mendelstr. 54;13187;Übrige Förderschwerpunkte;52.57805;13.41782
+Heinrich-Schliemann-Gymnasium;Pankow;;;;;;;;;;;;;;;;;X;;;Sanierung Vorderhaus;500000;03Y04;Dunckerstr. 64;10439;Gymnasium;52.54663;13.42365
+Primo-Levi-Gymnasium;Pankow;;;;;X;;;;;;;;;;;X;;;;Sanierung der innenliegenden Sporthallen einschl. Sanitär;485000;03Y14;Pistoriusstr. 133;13086;Gymnasium;52.5516;13.45369
+Max-Delbrück-Gymnasium;Pankow;;;;;;;;;X;;;;;;;;;;;Malerarbeiten Klassenräume;10000;03Y15;Kuckhoffstr. 2-22;13156;Gymnasium;52.583884;13.402118
+Lietzensee-Grundschule;Charlottenburg-Wilmersdorf;;;;;;;;;;X;;;;;;;;;;Sanierung Bodenbelag im Treppenhaus;200000;04G02;Witzlebenstr. 34;14057;Grundschule;52.5094;13.29502
+Joan-Miró-Grundschule;Charlottenburg-Wilmersdorf;X;X;X;X;;X;;;;;;;;;;;;;;Sanierung Fenster, 2. BA, Sanierung Elektro, 5. BA, Sanierung Räume, Fassade, Dach;1000000;04G04;Bleibtreustr. 43;10623;Grundschule;52.50357;13.32014
+Mierendorff-Grundschule;Charlottenburg-Wilmersdorf;X;;;X;;X;;;;;;;;;;;;;;Fortführung Sanierung Räume, Elektro, 2. BA, Sanierung Dach;1700000;04G08;Mierendorffstr. 20-24;10589;Grundschule;52.523791;13.303338
+Erwin-von-Witzleben-Grundschule;Charlottenburg-Wilmersdorf;;;;;;;;;;;;;;;X;;;;;Fortführung und Beendigung der Mensaerweiterung;185000;04G09;Halemweg 34;13627;Grundschule;52.53967;13.2873
+Schinkel-Grundschule;Charlottenburg-Wilmersdorf;;;;;X;;;;;;;;;;X;;;;;Beginn der Sanitärstrangsanierung, Fortführung Sanierung der Aula;375000;04G12;Nithackstr. 8;10585;Grundschule;52.51782;13.29876
+Nehring-Grundschule;Charlottenburg-Wilmersdorf;X;X;;X;;X;;;;;;;;;;;;;;Sanierung Fenster, 6. BA, Sanierung Räume, Elektro, Dach;1000000;04G13;Nehringstr. 9-10;14059;Grundschule;52.514893;13.293865
+Reinhold-Otto-Grundschule;Charlottenburg-Wilmersdorf;X;;;;;;;;;;;;;;;;;;X;Sanierung Flure und Räume;190000;04G14;Leistikowstr. 7-8;14050;Grundschule;52.513329;13.268399
+Charles-Dickens-Grundschule;Charlottenburg-Wilmersdorf;;;;;;;;X;;;;;;;;;;;;Herstellung eines zweiten Rettungsweges;100000;04G15;Dickensweg 15;14055;Grundschule;52.508946;13.236971
+Ernst-Habermann-Grundschule;Charlottenburg-Wilmersdorf;;;;;;;;;;;;;;;;X;;;;Sanierung der Sporthalle und Umkleiden;170000;04G18;Prinzregentenstr. 33-34;10715;Grundschule;52.48328;13.33269
+Katharina-Heinroth-Grundschule;Charlottenburg-Wilmersdorf;X;;;;;X;;;;;;;;;X;;;;;Sanierung Räume, Elektro, Sanierung der Aula;1200000;04G20;Münstersche Str. 15-17;10709;Grundschule;52.494;13.30619
+Halensee-Grundschule;Charlottenburg-Wilmersdorf;;;;;;;;;;;;;;;X;;;;;Fortführung und Beendigung der Sanierung Aula;180000;04G21;Joachim-Friedrich-Str. 35-36;10711;Grundschule;52.49993;13.2961
+Grunewald-Grundschule;Charlottenburg-Wilmersdorf;;;;;;;;;;;;;;;;;;;X;Erneuerung der Trinkwarmwasseranlage, Sanierung und Ausbau der Direktorenvilla;600000;04G22;Delbrückstr. 20A;14193;Grundschule;52.484525;13.281094
+Alt-Schmargendorf-Grundschule;Charlottenburg-Wilmersdorf;X;;X;;;X;;;;;;;;;;;;;;Fortführung der Sanierung Räume incl. Elektro, Sanierung und Instandsetzung der Gebäudehülle (Teil II), Sanierung Räume, Elektro;1465000;04G23;Reichenhaller Str. 8;14199;Grundschule;52.477085;13.293432
+Carl-Orff-Grundschule;Charlottenburg-Wilmersdorf;;;;;;X;;;;;;;;;X;;;;X;Erweiterung Mensa und Hort (Auguste-Viktoria-Str. 57–59), Fortführung der Sanierung Elektrotechnische Anlagen, Sicherheitsbeleuchtung, Sprachalarmierung und Hausalarm;501000;04G24;Berkaer Str. 9-10;14199;Grundschule;52.47841;13.28709
+Birger-Forell-Grundschule;Charlottenburg-Wilmersdorf;;;;;;X;;;;;;;;;;;;;X;Beginn der Sanierung Elektrotechnische Anlagen, Sicherheitsbeleuchtung, Sprachalarmierung;290000;04G26;Koblenzer Str. 22-24;10715;Grundschule;52.480726;13.321893
+Friedensburg-Schule;Charlottenburg-Wilmersdorf;X;;;;;;;;;;;;;;X;;;;X;Fortführung der Sanierung, Mensa, Musikräume und Flur Haus B, Sanierung Flure und Räume;944000;04K02;Goethestr. 8-9;10623;Integrierte Sekundarschule;52.50908;13.32082
+Robert-Jungk-Schule;Charlottenburg-Wilmersdorf;;;;;;;;;;;;;;;;X;;;X;Sanierung der Lüftungsanlage und Duschräume der Doppelturnhalle, Umgestaltung Schulhofentwässerung;600000;04K03;Sächsische Str. 58;10707;Integrierte Sekundarschule;52.49448;13.31872
+Schule am Schloss (Integrierte Sekundarschule);Charlottenburg-Wilmersdorf;X;X;;X;X;;;;;;;;;;;;;;;Sanierung Dach, 2. BA, Sanierung Räume, Fenster, Sanitär;902000;04K06;Schloßstr. 55A;14059;Integrierte Sekundarschule;52.5161;13.29812
+Integrierte Sekundarschule Wilmersdorf;Charlottenburg-Wilmersdorf;X;X;X;X;;X;;;;;;;;;;;;;;Sanierung Räume, Elektro, Dach, Fassade, Fenster;1000000;04K07;Kranzer Str. 3;14199;Integrierte Sekundarschule;52.482808;13.296098
+Otto-von-Guericke-Schule (Integrierte Sekundarschule);Charlottenburg-Wilmersdorf;X;X;;;;X;;;;;;;;;;;;;;Sanierung Räume, Elektro, 2. BA, Sanierung Fenster;900000;04K09;Eisenzahnstr. 47-48;10709;Integrierte Sekundarschule;52.49276;13.30516
+Comenius-Schule;Charlottenburg-Wilmersdorf;X;X;X;X;X;;;;;;;;;X;;X;;;;Sanierung Räume, 2. BA, Sanierung Fenster, Fassade, Dach, Sanitär und Sporthalle, Beendigung Aufzug, Behinderten-WC, Rampe;975000;04S07;Gieselerstr. 4;10713;Grundschule;52.48869;13.3181
+Schiller-Gymnasium;Charlottenburg-Wilmersdorf;X;X;;X;;X;;;;;;;;;;;;;;Sanierung Fenster, 3. BA, Sanierung Räume, Elektro, Dach, Fortführung der Sanierung Fenster, Sanierung Räume, Elektro, Dach;1600000;04Y01;Schillerstr. 125-127;10625;Gymnasium;52.50993;13.321596
+Wald-Gymnasium;Charlottenburg-Wilmersdorf;;;;;;X;;;;;;;;;;X;;;X;Fortführung und Beendigung der Sanierung der Sporthalle, Beginn der Sanierung komplette Infrastruktur Elektro, Hausalarm, 1. BA;1000000;04Y02;Waldschulallee 95;14055;Gymnasium;52.50343;13.25701
+Sophie-Charlotte-Gymnasium;Charlottenburg-Wilmersdorf;;;;X;;;;;;;;;;;;;;;;Fortführung Dachsanierung;200000;04Y03;Sybelstr. 2;10629;Gymnasium;52.5023;13.31237
+Gottfried-Keller-Gymnasium;Charlottenburg-Wilmersdorf;X;;;;X;;X;;;;;;;X;;;;;;"Sanierung Sanitär, 2. BA, Sanierung Räume, Elektro, Dach; Fortführung Aufzug, Rampe";1175000;04Y04;Olbersstr. 38;10589;Gymnasium;52.52888;13.3022
+Herder-Gymnasium;Charlottenburg-Wilmersdorf;;;;;;;;;;;;;;;;X;;;;Sanierung der Schulsporthalle am Standort Preußenallee 8;622000;04Y05;Westendallee 45-46;14052;Gymnasium;52.510663;13.257932
+Heinz-Berggruen-Gymnasium;Charlottenburg-Wilmersdorf;;;;;;X;;;;;;;;;;;;;X;Fortführung der Deckensanierung und Elektrotechnik;200000;04Y06;Bayernallee 4;14052;Gymnasium;52.51103;13.26722
+Friedrich-Ebert-Gymnasium;Charlottenburg-Wilmersdorf;X;X;X;X;;X;;;;;;;;;;;;;;Sanierung Räume, Elektro, Fenster, Dach, Fassade;900000;04Y07;Blissestr. 22;10713;Gymnasium;52.484621;13.319289
+Hildegard-Wegscheider-Gymnasium;Charlottenburg-Wilmersdorf;;;;;X;;;;;;;;;;;X;;;;Sanierung der Umkleide- und Sanitärräume in der Gymnastikhalle;500000;04Y08;Lassenstr. 16-20;14193;Gymnasium;52.485116;13.275931
+Walther-Rathenau-Gymnasium;Charlottenburg-Wilmersdorf;X;X;;;;;;;;;;;;;;;;;;"Sanierung Fenster, 2. BA; Sanierung Naturwissenschaftlicher Fachräume";246000;04Y09;Herbertstr. 2-6;14193;Gymnasium;52.49143;13.28135
+Marie-Curie-Gymnasium;Charlottenburg-Wilmersdorf;;;X;X;;;;;;;;;;;;;;;X;Fortführung der Fassadensanierung, Dach und Sonnenschutz, Sanierung Treppenräume;450000;04Y10;Weimarische Str. 21;10715;Gymnasium;52.480119;13.324748
+Goethe-Gymnasium;Charlottenburg-Wilmersdorf;;;;;X;;;;;;;;;;;;;;;Fortführung und Beendigung der Sanitärstrangsanierung;250000;04Y11;Gasteiner Str. 23;10717;Gymnasium;52.48759;13.3225
+Ernst-Ludwig-Heim-Grundschule;Spandau;X;;;;;;;;;;;;;;;;;;;Umbau Hausmeisterwohnung;20000;05G01;Grunewaldstr. 8;13597;Grundschule;52.5304;13.20672
+Grundschule am Eichenwald;Spandau;;;;;;X;;;;;;;;;;;;;;Errichtung neue Netzstation;50000;05G02;Gaismannshofer Weg 2;13587;Grundschule;52.558423;13.199146
+Klosterfeld-Grundschule;Spandau;X;;;;;;;;;;;;;;;;;;;Umbau Hausmeisterwohnung;51505;05G04;Seegefelder Str. 125;13583;Grundschule;52.53861;13.17968
+Siegerland-Grundschule;Spandau;;;;;;X;;;;;;;;;;;;;;Sanierung der Schulanlage, Elektroinstallationen;1087819;05G06;Hermann-Schmidt-Weg 4;13589;Grundschule;52.55125;13.175203
+Robert-Reinick-Grundschule;Spandau;;;;;;;;;;;;;;;;;;;X;Putz-und Malerarbeiten Flurbereich, Trockenbauarbeiten;13700;05G11;Jungfernheideweg 33-48;13629;Grundschule;52.54065;13.27277
+Grundschule am Weinmeisterhorn;Spandau;X;;;X;;;;;;;;;;;;;;;;Umbau Hausmeisterwohnung, Dachsanierung;610000;05G12;Daberkowstr. 27;13593;Grundschule;52.50825;13.1742
+Bernd-Ryke-Grundschule;Spandau;;;X;;;;;;X;;;;;;;;;;;Sanierung Nordfassade, Malerarbeiten;25000;05G13;Daumstr. 12;13599;Grundschule;52.54494;13.2325
+Linden-Grundschule;Spandau;;;;;;;;;X;;;;;;;;;;;Malerarbeiten;;05G14;Staakener Feldstr. 6-8;13591;Grundschule;52.53517;13.14081
+Zeppelin-Grundschule;Spandau;;;;;;;;;X;X;;;;;;;;;;Malerarbeiten, Bodenbelagsarbeiten;;05G16;Heidebergplan 3-4;13591;Grundschule;52.5409;13.14635
+Astrid-Lindgren-Grundschule;Spandau;;;;;;;;;X;;;;;;;;;;;Malerarbeiten;;05G17;Südekumzeile 5;13591;Grundschule;52.5311;13.15652
+Grundschule im Beerwinkel;Spandau;;;;;;;;;X;;;;;;;;;;;Malerarbeiten;;05G18;Im Spektefeld 31;13589;Grundschule;52.549023;13.154969
+Grundschule am Ritterfeld;Spandau;;;;;X;;;;;;;;;;;X;;;;Sanitärinstallation Duschräume;65000;05G19;Schallweg 31;14089;Grundschule;52.455239;13.138357
+Carl-Schurz-Grundschule;Spandau;;;;;;;;;X;;;;;;;;;;;Malerarbeiten;;05G20;Hakenfelder Str. 32;13587;Grundschule;52.56751;13.199061
+Paul Moor Schule;Spandau;;;;;;;;X;;;;;;;;;;;;Brandschutzertüchtigung und Sanierung;300000;05G21;Adamstr. 24-25;13595;Grundschule;52.521;13.19029
+Grundschule am Brandwerder;Spandau;;;;;;;;;X;X;;;;;;X;;;;Malerarbeiten, Bodenbelagsarbeiten, Sporthalle: Bodenbelagsarbeiten;8000;05G23;Spandauer Str. 86;13591;Grundschule;52.53595;13.15293
+30. Schule;Spandau;;;;X;;;;;;;;;;;;;;;;Dachdeckerarbeiten;;05G30;Hügelschanze 8-9;13585;Grundschule;52.54863;13.19756
+Martin-Buber-Oberschule (Integrierte Sekundarschule);Spandau;;;;;;;;;;;;;;;;X;;;;Sanierung Gymnastikhalle;;05K01;Im Spektefeld 33;13589;Integrierte Sekundarschule;52.54895;13.1565
+Carlo-Schmid-Oberschule (Integrierte Sekundarschule);Spandau;X;;;;;;;;;;;;;;;;;;;Hausmeisterwohnung;30000;05K02;Lutoner Str. 15-19;13581;Integrierte Sekundarschule;52.5259;13.17464
+Heinrich-Böll-Oberschule (Integrierte Sekundarschule);Spandau;;;;;;;;;X;;;;;;;;;;;Malerarbeiten;;05K04;Am Forstacker 9-11;13587;Integrierte Sekundarschule;52.565166;13.199033
+B.-Traven-Gemeinschaftsschule;Spandau;;;;;;;;;X;;;;;;;X;;;X;Anschluss Sonnenschutz, Turnhalle/Umkleiden, Malerarbeiten (Filiale Siegerland-Grundschule);37000;05K05;Recklinghauser Weg 26-32;13583;Integrierte Sekundarschule;52.5469;13.17403
+Schule an der Jungfernheide (Integrierte Sekundarschule);Spandau;;;;;;;;;X;;;;;;;;;;;Malerarbeiten;;05K07;Lenther Steig 1-3;13629;Integrierte Sekundarschule;52.53843;13.26697
+Schule am Staakener Kleeblatt (Integrierte Sekundarschule);Spandau;;;;;X;X;;;;;;;X;;;;;;X;Haus 1, 4/5 HLS-Sanierung, Haus 1, 4/5 Elektroinstallationen;852173;05K09;Brunsbütteler Damm 431-437;13591;Integrierte Sekundarschule;52.5349;13.13491
+Schule am Gartenfeld;Spandau;;X;;;;;;X;;;;;;;;;;;;Fenstereinbau, Brandschutzertüchtigung und Sanierung;250000;05S03;Gartenfelder Str. 81;13599;"Förderschwerp.""Geistige Entwicklung""";52.543211;13.24234
+Conrad-Schule (Grundschule);Steglitz-Zehlendorf;;;;;;;;;;X;;;;;;;;;;Bodenbelagsarbeiten;10000;06G05;Schulstr. 4;14109;Grundschule;52.415181;13.146695
+Zinnowwald-Grundschule;Steglitz-Zehlendorf;X;;;;;;;;;;;;;;;;;;;Um-/Ausbau von 3 Seminarräumen;50000;06G07;Wilskistr. 78;14163;Grundschule;52.44543;13.246529
+Dunant-Grundschule;Steglitz-Zehlendorf;;X;;;;;;X;;;;;;;X;X;;X;X;Sanierung Mensa: Flur Decke Brandschutz/Schadstoffsanierung EG, Schimmelsanierung Sporthalle, Sanierung Fenster Altbau;345000;06G15;Gritznerstr. 19-23;12163;Grundschule;52.46486;13.31818
+Alt-Lankwitzer Grundschule;Steglitz-Zehlendorf;;;;;;;;;;;;;;;;;;;X;Abriss des MUR-Gebäudes;48500;06G20;Schulstr. 17-21;12247;Grundschule;52.437023;13.351096
+Giesensdorfer Grundschule;Steglitz-Zehlendorf;X;;;;;;;;;;;;;;;;;X;X;Schadstoffsanierung Werkraum/Tischlerarbeiten, Abriss des MUR-Gebäudes;113000;06G22;Ostpreußendamm 63;12207;Grundschule;52.422226;13.31101
+Clemens-Brentano-Grundschule;Steglitz-Zehlendorf;;;;;;;;;;;;;;;;;;;X;Sanierungsarbeiten Haus 4;900000;06G25;Kommandantenstr. 83-84;12205;Grundschule;52.433511;13.29316
+Käthe-Kruse-Grundschule;Steglitz-Zehlendorf;;X;;;;;;;X;;;;;;;;;;;Fenster: Tischler- und Malerarbeiten;10000;06G26;Tietzenweg 108;12203;Grundschule;52.438186;13.310138
+Mercator-Grundschule;Steglitz-Zehlendorf;;;;;;;;;;;;;;;;;;;X;Abriss des MUR-Gebäudes;70000;06G30;Mercatorweg 8-10;12207;Grundschule;52.41225;13.317376
+Friedrich-Drake-Schule;Steglitz-Zehlendorf;;;X;;;;;;;;;;;;;;;;X;Errichtung Verbinderbau, Sanierungsarbeiten Erweiterungsbau und Gebäudehülle, Herstellung Außenanlagen;1145000;06G33;Drakestr. 80;12205;Grundschule;52.43254;13.30621
+34. Schule (Grundschule);Steglitz-Zehlendorf;X;;;;;;;;;;;;;;;;;;X;Sanierungs- und Reparaturarbeiten, Herrichtung von Klassenräumen;400000;02G34;Scharnweberstr. 19;10247;Grundschule;52.51279;13.46783
+Kopernikus-Schule (Integrierte Sekundarschule);Steglitz-Zehlendorf;;;;;;;;;;X;;;;;;;;;;Bodenbelagsarbeiten;10000;06K03;Lepsiusstr. 24-28;12163;Integrierte Sekundarschule;52.4643;13.32069
+Max-von-Laue-Schule;Steglitz-Zehlendorf;;X;;;;;;;X;;;;;;;;;;;Fenster: Tischler- und Malerarbeiten;10000;06K08;Dürerstr. 27;12203;Integrierte Sekundarschule;52.43725;13.305628
+Dreilinden-Gymnasium;Steglitz-Zehlendorf;;;;;;;;;;;;;;;;;;;X;Herstellung Außenanlagen;100000;06Y04;Dreilindenstr. 49;14109;Gymnasium;52.42057;13.18778
+Beethoven-Oberschule;Steglitz-Zehlendorf;;;;;;;;;;;;;;;;;;;X;Sanierung 1.BA, 70er-Jahre-Bau;1200000;06Y06;Barbarastr. 9;12249;Gymnasium;52.43293;13.34283
+Lilienthal-Gymnasium;Steglitz-Zehlendorf;;;;;;;;;;;;;;;;X;;;;Sanierung Sporthalle;1600000;06Y10;Ringstr. 2-3;12203;Gymnasium;52.43595;13.31215
+Willi-Graf-Gymnasium;Steglitz-Zehlendorf;;;;;X;;;;;;;;;;;;;;;Sanierung Sanitäranlagen;370000;06Y12;Ostpreußendamm 166;12207;Gymnasium;52.43469;13.32096
+Gymnasium Steglitz;Steglitz-Zehlendorf;;;;;;;;;;;;;;;;X;;;X;Sanierung Außenanlagen Sport-Schulhof;175000;06Y13;Heesestr. 15;12169;Gymnasium;52.45671;13.32644
+Spreewald-Grundschule;Tempelhof-Schöneberg;;;;;;;;X;;;;;;;;;;;X;Prov. Herrichtung des Rettungsweges für den Hortbereich, Errichtung eines Außenzaunes;605000;07G01;Pallasstr. 15;10781;Grundschule;52.49539;13.35693
+Finow-Grundschule;Tempelhof-Schöneberg;;;;;;;;;;;;;;X;;;;;X;Div. Teilsanierungen einschl. Barrierefreiheit, funktionale Anpassungen;150000;07G02;Welserstr. 16-22;10777;Grundschule;52.49823;13.34251
+Werbellinsee-Grundschule;Tempelhof-Schöneberg;;;;;;;;;;;X;;;;;;;;;Einbau einer neuen Schließanlage;60000;07G03;Luitpoldstr. 38;10781;Grundschule;52.495036;13.348236
+Havelland-Grundschule;Tempelhof-Schöneberg;;;X;;;;;;;;;;;;;;;;;Teilsanierung Fassade, Sanierung des Verbinderganges Fassade;2500000;07G05;Kolonnenstr. 30;10829;Grundschule;52.484772;13.367681
+Lindenhof-Grundschule;Tempelhof-Schöneberg;;;;;;;;;;;;;;;;;;;X;Weiterführung der Sanierung Geb. Reglinstraße;100000;07G07;Reglinstr. 29;12105;Grundschule;52.45809;13.36325
+Scharmützelsee-Grundschule;Tempelhof-Schöneberg;;;;;X;;;;;;;;;;;;;;X;Sanierung der Toiletten und Außenanlagen;20000;07G12;Hohenstaufenstr. 49;10779;Grundschule;52.494177;13.343268
+Neumark-Grundschule;Tempelhof-Schöneberg;;;;;;;;;;;;;;;;;;X;;Sanierung Befall echter Hausschwamm;1200000;07G13;Steinmetzstr. 46-50;10783;Grundschule;52.49282;13.36249
+Löcknitz-Grundschule;Tempelhof-Schöneberg;X;;;;;;;;;;;;;;;;;;;Sanierung der Klassenräume;150000;07G14;Berchtesgadener Str. 10-11;10779;Grundschule;52.489558;13.343356
+Ruppin-Grundschule;Tempelhof-Schöneberg;;;X;;;;;;;;;;;;;;;;;Sanierung der Sichtmauerwerksfassade;1600000;07G16;Offenbacher Str. 5A;14197;Grundschule;52.47538;13.32137
+Stechlinsee-Grundschule;Tempelhof-Schöneberg;;;;;;;;;;;X;;;;;;;;;Einbau einer neuen Schließanlage;50000;07G17;Rheingaustr. 7;12161;Grundschule;52.46934;13.32242
+Paul-Klee-Grundschule;Tempelhof-Schöneberg;;;;;;;;;;;;;;;;;;;X;Sanierung und erweiterter Ausbau KG;1013000;07G22;Konradinstr. 15-17;12105;Grundschule;52.454;13.37538
+Tempelherren-Grundschule;Tempelhof-Schöneberg;;;;;;X;;;;;;;;;;;;;;Erneuerung der Sicherheitsbeleuchtung;120000;07G24;Boelckestr. 58-60;12101;Grundschule;52.478603;13.37647
+Kiepert-Grundschule;Tempelhof-Schöneberg;;;X;;;;;;;;;;;;;;;;;Energetische Fassadensanierung der MUR;850000;07G28;Prechtlstr. 21-23;12277;Grundschule;52.41591;13.37327
+Käthe-Kollwitz-Grundschule;Tempelhof-Schöneberg;;;;;;;;X;;;;;;X;;;;;X;Brandschutzsanierung, Barrierefreiheit, Grundinstandsetzung;1000000;07G29;Mellener Str. 38-42;12307;Grundschule;52.3862;13.40487
+Annedore-Leber-Grundschule;Tempelhof-Schöneberg;;;;X;;;;;;;;;;;;;;;;Sanierung des Daches über dem Freizeitbereich;80000;07G30;Halker Zeile 137-149;12305;Grundschule;52.39757;13.40197
+Bruno-H.-Bürgel-Grundschule;Tempelhof-Schöneberg;;;X;;;;;;;;;;;;;;;;;Fassadensanierung;1500000;07G32;Rackebüller Weg 70;12305;Grundschule;52.404902;13.402536
+Marienfelder Schule (Grundschule);Tempelhof-Schöneberg;X;;;;;;;X;;;;;;X;;;;;X;Sanierung der Klassenräume und Außenanlagen, Brandschutzsanierung, Barrierefreiheit, sonstige Funktionsanpassungen, Energetische Sanierung;3250000;07G34;Erbendorfer Weg 13;12279;Grundschule;52.41209;13.35184
+Gustav-Heinemann-Schule;Tempelhof-Schöneberg;;;;;;;;;;;;;;;;X;;;X;Sanierung des Regenwassersystems im Bereich der Sporthalle;1200000;07K03;Waldsassener Str. 62;12279;Integrierte Sekundarschule;52.40662;13.34754
+Theodor-Haubach-Schule;Tempelhof-Schöneberg;;;;;;X;;;;;;;;;;;;;;Teilerneuerung der Elektroinstallationen mit Unterdecken;250000;07K04;Grimmstr. 9-11;12305;Integrierte Sekundarschule;52.398399;13.403988
+Georg-von-Giesche-Schule;Tempelhof-Schöneberg;;;;;X;;;;;;;;;;;;;;X;Feuchtesanierung KG, funktionale Anpassungen, Toilettensanierung;800000;07K06;Hohenstaufenstr. 47-48;10779;Integrierte Sekundarschule;52.494144;13.342529
+Johanna-Eck-Schule (Integrierte Sekundarschule);Tempelhof-Schöneberg;;;;;;;;;;;;;;;;;;;X;Teilsanierung der Freianlagen;125000;07K07;Ringstr. 103-106;12105;Integrierte Sekundarschule;52.44692;13.36411
+Gustav-Langenscheidt-Schule;Tempelhof-Schöneberg;;;;;;;;;;;X;;;;;;;;X;Div. Teilsanierungen zur Aufrechterhaltung des Betriebes, Einbau einer neuen Schließanlage;100000;07K09;Belziger Str. 43-51;10823;Integrierte Sekundarschule;52.485997;13.350718
+Friedrich-Bergius-Schule;Tempelhof-Schöneberg;;;X;X;;;;;;;;;;;X;;;;;Sanierung der Aula einschließlich Dachtragwerk und Fassade;200000;07K10;Perelsplatz 6-9;12159;Integrierte Sekundarschule;52.47618;13.33314
+Hugo-Gaudig-Schule;Tempelhof-Schöneberg;;;;;;;;;;;X;;;;;;;;;Einbau einer neuen Schließanlage;80000;07K11;Boelckestraße 58-60;12101;;52.478586;13.376498
+Schule am Berlinickeplatz (Integrierte Sekundarschule);Tempelhof-Schöneberg;;;;;;;;;;;;;;;;;;;X;Div. Teilsanierungen mit funktionalen Verbesserungen;80000;07K13;Alt-Tempelhof 53-57;12103;Integrierte Sekundarschule;52.465657;13.379583
+Steinwald-Schule;Tempelhof-Schöneberg;;;X;;;;;;;;;;;;;;;;;Instandsetzungsmaßnahmen Fassade;200000;07S03;Hanielweg 7-9;12277;"Förderschwerp.""Geistige Entwicklung""";52.41783;13.36458
+Marianne-Cohn-Schule;Tempelhof-Schöneberg;;;;;;;;;;;;;;;;;;;X;Instandsetzung der Lüftungsanlage;50000;07S04;Holzmannstr. 7;12099;"Förderschwerp.""Geistige Entwicklung""";52.46433;13.41815
+Rückert-Gymnasium;Tempelhof-Schöneberg;;;;;;;;;;;;;;;;;;;X;Div. Teilsanierungen zur Aufrechterhaltung des Betriebes;100000;07Y02;Mettestr. 8;10825;Gymnasium;52.48047;13.33924
+Rheingau-Gymnasium;Tempelhof-Schöneberg;;;;;;;;;;;;;;;;X;;;X;Sanierung und Umbau der Sporthalle, Sanierung der Einfriedung, Umbau der ehem. Hausmeisterwohnung (Vorbereitung);2650000;07Y03;Schwalbacher Str. 3-4;12161;Gymnasium;52.470206;13.322611
+Luise-Henriette-Gymnasium;Tempelhof-Schöneberg;;;;;;;;;;;;;;;;;;;X;Sanierung, Umbau und Erweiterung;3000000;07Y05;Germaniastr. 4-6;12099;Gymnasium;52.46546;13.39059
+Theodor-Storm-Schule (Grundschule);Neukölln;;;;;;;;X;;;;;;;;;;;;Sanierung Brandschutz;385000;08G02;Hobrechtstr. 76;12043;Grundschule;52.486488;13.426763
+Hans-Fallada-Schule (Grundschule);Neukölln;X;;X;X;X;;;;;;;;;;;;;;;Sanierung MUR-Dach und Abhangdecken (Flure+Klassenräume), Sanierung Sanitär, Dach, Fassade, Innenausbau;1615000;08G03;Harzer Str. 73;12059;Grundschule;52.483564;13.451851
+Hermann-Sander-Schule (Grundschule);Neukölln;;;;X;;;;;;;;;;;;;;;;Sanierung der Ziegeldacheindeckung;150000;08G15;Mariendorfer Weg 69;12051;Grundschule;52.46416;13.43005
+Eduard-Mörike-Schule (Grundschule);Neukölln;;;;;;;X;;;;;;;;;;;;;Sanierung der Akustik in den Klassenraum;50000;08G18;Stuttgarter Str. 35-39;12059;Grundschule;52.477969;13.450143
+Michael-Ende-Schule (Grundschule);Neukölln;;;;X;;;;;;;;;;;;X;;X;;Sanierung Umkleiden und Duschen sowie Decken- und Schadstoffsanierung;350000;08G25;Neuhofer Str. 41;12355;Grundschule;52.41346;13.50984
+Matthias-Claudius-Schule (Grundschule);Neukölln;;X;;;;;;;;X;;;;;;;;;;Sanierung Fenster und Erneuerung Bodenbeläge;450000;08G28;Köpenicker Str. 148;12355;Grundschule;52.420381;13.501675
+Rose-Oehmichen-Schule (Grundschule);Neukölln;;;X;;;;;;;;;;;;;;;;;Sanierung der Fassade: Risse im WDVS und Sockelbereich;50000;08G37;Lieselotte-Berger-Str. 65;12355;Grundschule;52.401126;13.501995
+Walter-Gropius-Schule (Gemeinschaftsschule);Neukölln;;;;;X;;;X;;;;;;;;;;;;Sanierung Sanitärräume (B+C-Sterne)/Schaffung 2. Rettungsweg, Schaffung 2. RW in den B-Sternen (B1 bis B3)/Bypässe;145000;08K01;Fritz-Erler-Allee 86;12351;Integrierte Sekundarschule;52.42934;13.46355
+Hermann-von-Helmholtz-Schule;Neukölln;;;X;X;;;;;;;;;;;;;;;;Energetische Sanierung Dach/Fassade/Sonnenschutz;1000000;08K02;Wutzkyallee 68;12353;Integrierte Sekundarschule;52.421823;13.472974
+Fritz-Karsen-Schule (Gemeinschaftsschule);Neukölln;;;;X;X;;;;;;;;;X;X;;;;;Sanierung der Sanitäranlagen, Neubau Aufzug, Sanierung des historischen Auladaches;1537000;08K06;Onkel-Bräsig-Str. 76-78;12359;Integrierte Sekundarschule;52.44865;13.44389
+Alfred-Nobel-Schule;Neukölln;;;;;;;;X;;;;;;;;;;;;Sanierung Brandschutz im Flur;450000;08K11;Britzer Damm 164;12347;Integrierte Sekundarschule;52.448;13.43469
+Schule am Zwickauer Damm;Neukölln;;;;;X;;;;;;;;;;;;;;;Sanierung der Sanitäranlagen;215000;08S04;Zwickauer Damm 17-22;12353;Integrierte Sekundarschule;52.422;13.48315
+Schule am Bienwaldring;Neukölln;;;;;;;;X;;;;;;X;;;;;;Schaffung Barrierefreiheit (Aufzug) sowie Sanierung Brandschutz;1000000;08S07;Breitunger Weg 1;12349;"Förderschwerp.""Geistige Entwicklung""";52.42178;13.42537
+Treptow-Kolleg;Treptow-Köpenick;;;;;;X;;X;;;;;;;;;;;;Brandschutzmaßnahmen, Erneuerung der Elektro - und Schwachstromanlage;750000;09A05;Kiefholzstr. 274;12437;Volkshochschul-Kolleg;52.46818;13.48463
+Schule am Ginkobaum (Grundschule);Treptow-Köpenick;;;;;;;;;;;;;;;;;;;X;Sanierung Außenanlagen nach Erneuerung aller Grundleitungen;670000;09G05;Springbornstr. 250;12487;Grundschule;52.44014;13.4979
+Schule an der alten Feuerwache (Grundschule);Treptow-Köpenick;;;;;;X;;X;;;;;;;;;;;;Erneuerung Elt. und Schwachstromanlage, Brandschutzmaßnahmen;450000;09G07;Schnellerstr. 31;12439;Grundschule;52.45459;13.51379
+Heide-Schule (Grundschule);Treptow-Köpenick;;;;;;;;;;;;;;X;;;;;X;Baumaßnahme zur Gewährleistung der Barrierefreiheit, Gesamtsanierung Innenbereich;1899587;09G09;Florian-Geyer-Str. 87;12489;Grundschule;52.438648;13.543713
+Schule am Altglienicker Wasserturm (Grundschule);Treptow-Köpenick;;;;;;;;;;;;;;;;X;X;;X;Restleistungen energetische Sanierung des Schulgebäudes, Komplettsanierung der Sporthalle, Bauginn der bauvorbereitenden Maßnahmen;1825000;09G13;Sachsenstr. 22;12524;Grundschule;52.41079;13.55406
+Schule am Buntzelberg (Grundschule);Treptow-Köpenick;;;;;;;;;;;;;;;;;;;X;Errichtung Verbindungsbau und Wiederherrichtung Außenanlagen nach Errichtung MEB über Bezirk;260000;09G14;Schulzendorfer Str. 112;12526;Grundschule;52.40671;13.57427
+Schule an den Püttbergen (Grundschule);Treptow-Köpenick;;;;X;;;;X;;;;;;;;;;;;Sanierung Dach, Brandschutzmaßnahmen;500000;09G26;Fürstenwalder Allee 182;12589;Grundschule;52.43385;13.70158
+Friedrichshagener Schule (Grundschule);Treptow-Köpenick;;;;;;X;;X;;;;;;;;;;;;"Brandschutzmaßnahmen ; Erneuerung Elt . Und Schwachstrom";805000;09G27;Peter-Hille-Str. 7;12587;Grundschule;52.454606;13.621399
+Kiefholz-Grundschule;Treptow-Köpenick;X;;;X;;;;;;;;;;;;;;;;Gesamtsanierung und Ausbau Dachgeschoss zur Schaffung zusätzlicher Klassenräume;750000;09G30;Kiefholzstr. 45;12435;Grundschule;52.48626;13.45609
+Merian-Schule (Integrierte Sekundarschule);Treptow-Köpenick;;;;;;;;;;;;;;;X;;X;;;Neubau eines Mensagebäudes, Sanierung Grundleitungen/Außenanlagen, Komplettsanierung einschl. Maßnahmen des Gebäudes einschl. energetischer Sanierung der Fassade Filliale Mittelheide 49;2957000;09K01;Hoernlestr. 80;12555;Integrierte Sekundarschule;52.46431;13.57643
+Fritz-Kühn-Schule (Integrierte Sekundarschule);Treptow-Köpenick;;;;X;;;;;;;;;;;X;;;;;Sanierung Dach und Aula;600000;09K03;Dahmestr. 45;12526;Integrierte Sekundarschule;52.40141;13.5647
+Sophie-Brahe-Schule (Gemeinschaftsschule);Treptow-Köpenick;;;;;;;;;;;;;;;;;X;;;Gesamtsanierung, Restleistungen, Weiterführung 2. BA Filliale Willi Sänger Str. 1;3810000;09K07;Am Plänterwald 17-23;12435;Integrierte Sekundarschule;52.48171;13.47804
+Grünauer Schule (Gemeinschaftsschule);Treptow-Köpenick;;;;;;;;X;;;;;;;;;;;X;Umsetzung Brandschutzkonzept im Schulgebäude Walchenseestr. 40, Austausch der HAA/SAA Zentrale;280000;09K09;Walchenseestr. 40;12527;Integrierte Sekundarschule;52.419368;13.576124
+6. Schule;Treptow-Köpenick;;;X;;;;;;;;;;;X;;;X;;;Komplettsanierung einschl. Maßnahmen zur Gewährleistung der Barrierefreiheit und energetischer Sanierung der Fassade;2515000;09S06;Köpenicker Landstr. 185A;12437;Grundschule;52.473436;13.48707
+Alexander-von-Humboldt-Gymnasium;Treptow-Köpenick;X;;;;;;;X;;;;;;;;;;;;Raumsanierung/Brandschutz Nebengebäude;730000;09Y05;Oberspreestr. 173;12555;Gymnasium;52.445252;13.566972
+Gerhart-Hauptmann-Gymnasium;Treptow-Köpenick;;X;;;;;;;;;;;;;;;;;;Weiterführung Sanierung Fenster (Denkmalschutz);400000;09Y06;Bruno-Wille-Str. 37-45;12587;Gymnasium;52.45227;13.63269
+Selma-Lagerlöf-Grundschule;Marzahn-Hellersdorf;;;;;;;;;;;;;;;;X;;;;Sanierung Sporthalle;2333585;10G03;Wörlitzer Str. 31;12689;Marzahn-Hellersdorf;52.56767;13.57023
+Grundschule am Bürgerpark;Marzahn-Hellersdorf;;;;;;;;;;;;;;;;X;;;;Sanierung Sporthalle;3000000;10G09;Jan-Petersen-Str. 18B;12679;Grundschule;52.55062;13.56569
+Grundschule an der Mühle;Marzahn-Hellersdorf;;;;;;;;;;;;;;;;;;;X;Sanierung Schulgebäude MUR;1600000;10G11;Kienbergstr. 59;12685;Grundschule;52.53976;13.5657
+Grundschule an der Geißenweide;Marzahn-Hellersdorf;;;;;;;;;;;;;;;;X;;;;Sanierung Sporthalle;2417000;10G12;Amanlisweg 40;12685;Grundschule;52.537783;13.551797
+Grundschule unter dem Regenbogen;Marzahn-Hellersdorf;;;;;;;;;;;;;;;;X;;;;Sanierung Sporthalle;2300000;10G14;Murtzaner Ring 37;12681;Grundschule;52.5301;13.54212
+Kolibri-Grundschule;Marzahn-Hellersdorf;;;;;;;;;;X;;;;;;X;;;;Erneuerung Sportboden;320000;10G22;Schönewalder Str. 9;12627;Grundschule;52.532527;13.618558
+Ernst-Haeckel-Schule;Marzahn-Hellersdorf;;;;;;;;;;;;;;;;X;;;;Sanierung Sporthalle;2782000;10K02;Luckenwalder Str. 53;12629;Integrierte Sekundarschule;52.54322;13.58574
+Wolfgang-Amadeus-Mozart-Schule (Gemeinschaftsschule);Marzahn-Hellersdorf;;;;;;;;;;;;;;;;X;;;;Sanierung Sporthalle;2255600;10K10;Cottbusser Str. 23;12627;Integrierte Sekundarschule;52.53699;13.59663
+Marcana-Schule (Gemeinschaftsschule);Marzahn-Hellersdorf;;;;;;;;;;;;;;;;;;;X;Sanierung Schulgebäude Haus II;4143000;10K11;Flämingstr. 16-18;12689;Integrierte Sekundarschule;52.56382;13.56592
+Melanchthon-Gymnasium;Marzahn-Hellersdorf;;;;;;;;;;;;;;;;;;;X;Sanierung Schulgebäude 2 MURs;1600000;10Y11;Adele-Sandrock-Str. 73-75;12627;Gymnasium;52.534367;13.618584
+Bürgermeister-Ziethen-Grundschule;Lichtenberg;X;;;;;;;;;;;;;;;;;;;Sanierung Einzelräume/Umbausanierung NaWi-Raum;100000;11G09;Massower Str. 39;10315;Grundschule;52.50818;13.51665
+Lew-Tolstoi-Grundschule;Lichtenberg;;;;;X;;;;;;;;;;;;;;;Vorbereitende Maßnahmen zum Weiterbetrieb Sanitäranlagen für Investive Maßnahme;33000;11G12;Römerweg 120;10318;Grundschule;52.49199;13.53678
+Richard-Wagner-Grundschule;Lichtenberg;X;;;;;;;;;;;;;;;;;;;Umbau ehemaliger Hausmeisterwohnung zur Schaffung von Lehreraufenthaltsräumen/Erweiterung Sozialtrakt;100000;11G14;Ehrenfelsstr. 36;10318;Grundschule;52.479326;13.53427
+Brodowin-Grundschule;Lichtenberg;;;;;;;;;;X;;;;;;;;;;Sanierung div. Bodenstrukturen in ehem. NaWi- und Vorbereitungsräumen;25000;11G17;Liebenwalder Str. 22;13055;Grundschule;52.53738;13.50067
+Grundschule am Wilhelmsberg;Lichtenberg;X;X;;;;;;;;;;;;;;;;;;Fenstersanierung mit Überholungsanstrich/Sanierung NaWi- und Vorbereitungsräume;165000;11G18;Sandinostr. 8;13055;Grundschule;52.537206;13.483664
+Friedrichsfelder Grundschule;Lichtenberg;;;;;;;;;;;;;;;X;;;;;Sanierung Verteilerküche/Erweiterung Mensa;300000;11G23;Lincolnstr. 67;10315;Grundschule;52.503;13.50355
+33. Schule (Grundschule);Lichtenberg;X;;;;;;;;;;;;;;;X;;;;Sanierung Turnhalle/Sanierung NaWi-Räume;1201000;11G33;Rüdigerstr. 76;10365;Grundschule;52.515777;13.500670
+Alexander-Puschkin-Schule;Lichtenberg;;;;;;;;;;;;;;;;X;;;;Sanierung Sporthalle;3716000;11K01;Massower Str. 37;10315;Integrierte Sekundarschule;52.50795;13.51556
+Mildred-Harnack-Schule;Lichtenberg;;;;;;;;;;;;;;;X;;;;;Sanierung Verteilerküche und Mensa;200000;11K02;Schulze-Boysen-Str. 12;10365;Integrierte Sekundarschule;52.511321;13.481213
+Gutenberg-Schule;Lichtenberg;X;X;;;;;;;X;;;;;;;;;;;Sanierung Aufenthaltsbereiche Sozialtrakt Lehrpersonal durch Umbau des ehemaligen Pionierleiterbereich/Sanierung Fenster Flure mit Überholungsanstrich;125000;11K04;Sandinostr. 10;13055;Integrierte Sekundarschule;52.53573;13.48743
+Fritz-Reuter-Schule;Lichtenberg;;;;;;;;;;;;;;;;;;;X;Sanierung Flure im Bereich der Flurabschlusstüren;120000;11K05;Prendener Str. 29;13059;Integrierte Sekundarschule;52.570237;13.52104
+Schule am Rathaus;Lichtenberg;X;;;;;;;;;;;;;;;;;;X;Innensanierung - San Klassen, Flure, Ertüchtigung BS (2. BA);4950000;11K06;Rathausstr. 8;10367;Integrierte Sekundarschule;52.515892;13.48038
+Vincent-van-Gogh-Schule (Integrierte Sekundarschule);Lichtenberg;;;;;;;;;X;X;;;;;;X;;;;Sanierung einer Etage (Malermäßige Instandsetzung und Bodenarbeiten), Sanierung Sporthalle;1800000;11K07;Wustrower Str. 26;13051;Integrierte Sekundarschule;52.5678;13.50702
+Philipp-Reis-Schule (Integrierte Sekundarschule);Lichtenberg;;;;;;;;;;;;;;;X;;;;;Sanierung Mehrzweckgebäude (Mensa);960000;11K09;Werneuchener Str. 15;13055;Integrierte Sekundarschule;52.53952;13.49572
+Grüner Campus Malchow (Gemeinschaftsschule);Lichtenberg;;;;;;;;;;;;;;;X;X;;;;Sanierung Ausgabeküche und Erweiterung Mensa, Sanierung Sporthalle;2950000;11K10;Malchower Chaussee 2;13051;Integrierte Sekundarschule;52.569831;13.479469
+Paul-Schmidt-Schule (Integrierte Sekundarschule);Lichtenberg;X;;;;;;;;;;;;X;;;;;;;Sanierung Heizsystem/Kesselanlagen und Ausbausanierung NaWi-Räume;360000;11K11;Malchower Weg 54;13053;Integrierte Sekundarschule;52.55475;13.50438
+Schule am Fennpfuhl;Lichtenberg;;;;;;;;;;;;;;;;X;;;;Sanierung Turnhalle;1000000;11S02;Alfred-Jung-Str. 19;10369;"Förderschwerp.""Lernen""";52.52392;13.4769
+Paul-und-Charlotte-Kniese-Schule;Lichtenberg;;;;;;;;;;;;;;X;;;;;;Herstellen der Barrierefreiheit durch Anbau von 2 Aufzügen (Filiale Dolg.60);1583000;11S04;Erich-Kurz-Str. 6-10;10319;Übrige Förderschwerpunkte;52.498846;13.519748
+Carl-von-Linné-Schule;Lichtenberg;;X;;;;;;;;;;;;;;;;;;Sanierung Fenster 1. BA;600000;11S07;Paul-Junius-Str. 15;10367;Berufsschule mit sonderpäd. Aufgaben;52.5217;13.47301
+Schule Am Breiten Luch;Lichtenberg;;;;;;;;;;;;;;;X;;;;;Sanierung Mehrzweckgebäude (Mensa);1960000;11S08;Am Breiten Luch 19;13053;Grundschule;52.5627;13.5136
+Nils-Holgersson-Schule;Lichtenberg;;;;;;;;;;;;;;;;;;;X;Sanierung Lüftungsanlage;50000;11S12;Otto-Marquardt-Str. 12-14;10369;"Förderschwerp.""Geistige Entwicklung""";52.53405;13.47214
+Immanuel-Kant-Gymnasium;Lichtenberg;;X;;;;;;X;;;;;;;;X;;;;Sanierung Fenster Flure mit Überholungsanstrich und Sanierungsumbauarbeiten Fachräume gemäß Brandschutz, Sanierung Sporthalle;2895000;11Y11;Lückstr. 63;10317;Gymnasium;52.501956;13.489635
+Havelmüller-Grundschule;Reinickendorf;X;;;;;;;;;;;;;;X;;;;X;Erweiterungs-Neubau, 2-Geschoss, Mensa + Hort-, Klassenräume;4419000;12G01;Namslaustr. 49-57;13507;Grundschule;52.578512;13.284936
+Reginhard-Grundschule;Reinickendorf;;;;;;;;X;;;;;;;;;;;;Neue Fluchttreppe;250000;12G03;Letteallee 39-41;13409;Grundschule;52.563219;13.370292
+Mark-Twain-Grundschule;Reinickendorf;;;;;;;;;;X;;;;;;;;;;Austausch von Bodenbelag im Flur Rotes Haus;5000;12G07;Auguste-Viktoria-Allee 95;13403;Grundschule;52.56864;13.3264
+Grundschule an der Peckwisch;Reinickendorf;;;;;;;;;;;;;;;;;;;X;Sanierung Decken 1. BA;705000;12G09;Tornower Weg 26-34;13439;Grundschule;52.59299;13.34869
+Alfred-Brehm-Grundschule;Reinickendorf;X;;;;;;;;;;;;;;X;;;;X;Erweiterungs-Neubau, 2-Geschoss, Mensa + Horträume;2940000;12G14;Ascheberger Weg 8A;13507;Grundschule;52.57359;13.28368
+Hoffmann-von-Fallersleben-Grundschule;Reinickendorf;;;;;;;;;;;X;;;;;;;;;Erneuerung Schließanlage;7500;12G15;Ziekowstr. 80-88;13509;Grundschule;52.58744;13.29515
+Grundschule am Vierrutenberg;Reinickendorf;;X;;;X;;;;;;;;;;;;;;;Grundsanierung Sanitärgebäude, Malerarbeiten Fenster;950000;12G20;Am Vierrutenberg 59-65;13469;Grundschule;52.617516;13.339396
+Gustav-Dreyer-Grundschule;Reinickendorf;;;;;;;;;;;;;;;;X;;;;Neuer Sportboden in der oberen Sporthalle;70000;12G22;Freiherr-vom-Stein-Str. 31;13467;Grundschule;52.61309;13.30379
+Renée-Sintenis-Grundschule;Reinickendorf;;;;;X;;;;;;;;;;;X;;;;Sanierung der WC`s in der Turnhalle;150000;12G24;Laurinsteig 39-45;13465;Grundschule;52.63695;13.27237
+Märkische Grundschule;Reinickendorf;X;;;;;;;;;;;;;;;;;;X;Erweiterungs-Neubau, 3-Geschoss, Küche-, Klassenräume;4600000;12G26;Dannenwalder Weg 163-165;13439;Grundschule;52.5952;13.36016
+Chamisso-Grundschule;Reinickendorf;;X;X;;;;;;;;;;;;;X;;;X;5. BA Fenster und Pfosten Riegel Fassade Sporthallen, Fassade 5. BA Schule und Sporthallen, Gerüstbau;835000;12G27;Senftenberger Ring 27;13435;Grundschule;52.60169;13.35807
+Gustav-Freytag-Schule (Integrierte Sekundarschule);Reinickendorf;;;;;;;;;;;;;;;;;;;X;Deckensanierung 2. Bauabschnitt;890000;12K05;Breitkopfstr. 66-80;13409;Integrierte Sekundarschule;52.56976;13.36575
+Albrecht-Haushofer-Schule;Reinickendorf;X;;;;;;;;;;;;;;;;;;;Filliale Sanierung Bauteil B und Einbau Nawi-Räume;1200000;12K11;Kurzebracker Weg 40-46;13503;Integrierte Sekundarschule;52.61914;13.22771
+Thomas-Mann-Gymnasium;Reinickendorf;;;;;;;;;;;X;;;;;X;;;;Erneuerung Schließanlage, Turnhallensanierung;2014000;12Y08;Königshorster Str. 10;13439;Gymnasium;52.59848;13.35224
+OSZ Bürowirtschaft und Dienstleistung (Standort);OSZ;;;;;;;;;;;;;;;;;;;X;Sondierungen für die Gründung eines Aufzugs;400000;03B07;Mandelstraße 6-8;10409;OSZ;52.545723;13.441338
+Peter-Lenné-Schule Oberstufenzentrum Agrarwirtschaft Staatliche Fachschule für Gartenbau Berlin;OSZ;;;;;;;;;;;;;X;;;;;;;Bauarbeiten: Erneuerung Heizungsanlage;123000;06B01;Hartmannsweilerweg 29;14163;OSZ;52.441969;13.248907
+OSZ Bürowirtschaft und Verwaltung;OSZ;;X;X;;;;;;;;;;;;;;;;X;"Bauarbeiten: Sanierung Fassade inkl. Fenster und Sonnenschutz; Blitzschutz. Planung: Sanierung TW-Anlage";3490000;06B02;Lippstädter Str. 9-11;12207;OSZ;52.411247;13.305736
+Knobelsdorff-Schule (OSZ Bautechnik);OSZ;;;;;;;;;;;;;;;;;;;X;Planung: Sanierung TW. Planerausschreibung: Lüftungstechnik;915000;05B02;Nonnendammallee 140 - 143;13599;OSZ;52.539387;13.241813
+Lise-Meitner-Schule Berlin OSZ Chemie, Physik und Biologie;OSZ;;;;;;;;;;;;;;;;X;;;;Bauarbeiten: Sanierung Sporthalle;3560000;08B02;Rudower Str. 184;12351;OSZ;52.430295;13.475099
+Oberstufenzentrum Banken und Versicherungen;OSZ;;;;;;;;;;;;;;;;X;;;;Mängelbeseitigung in der Sporthalle;935000;01B01;Alt-Moabit 10;10557;OSZ;52.524055;13.357851
+Emil-Fischer-Schule (OSZ Ernährung und Lebensmitteltechnik), Emil-Fischer-Schule (OSZ Druck- und Medientechnik);OSZ;;;;;;;;;;;;;;;;X;;;;Arbeiten in der Sporthalle;1675000;12B02;Cyclopstraße 1 -5;13437;OSZ;52.597633;13.331072
+OSZ Kommunikations-, Informations- und Medientechnik (OSZ KIM);OSZ;;;;;;;;;;;;;;;;X;;;;Arbeiten am Sportboden in der Sporthalle;5000;01B03;Osloer Str. 23 – 26;13359;OSZ;52.556676;13.379415
+OSZ Lotis Verkehr, Wohnungswirtschaft, Steuern;OSZ;X;;;;;;;X;;;;;;;;;;;X;Haus 1 Brandschutzsanierung und Sanierung NW-Räume. IT Vernetzung NW-Räume;1714000;07B03;Dudenstraße 35/37;10965;OSZ;52.484707;13.380283
+Georg-Schlesinger-Schule, Oberstufenzentrum Maschinen- und Fertigungstechnik;OSZ;;;;;;;;;;;;;;;;X;;;;Sanierung Sporthalle;1315000;12B01;Kühleweinstraße 5;13409;OSZ;52.561173;13.371270
